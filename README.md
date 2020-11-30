@@ -2,7 +2,7 @@
 
 
 I am currently:
-    **online**
+    **offline**
 
 
 Based in Groningen, NL 🇳🇱
