@@ -4,7 +4,7 @@ Based in Groningen, NL 🇳🇱
 
 Co-owner software company: [MEN Technology & Media](https://mentechmedia.nl/)
 
-Working as a **full stack developer** with a slight preference for the back-end. 
+Working as a **Full-stack developer** with a slight preference for the back-end. 
 
 You can 📧 me at: e.landheer@mentechmedia.nl
 
