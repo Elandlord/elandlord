@@ -46,6 +46,3 @@ ___
 
 [![MEN Technology & Media kennismaking](https://i.vimeocdn.com/video/892424869_640.jpg)](https://vimeo.com/418002570 "MEN Kennismaking")
 
-
-![img](https://mentechmedia.nl/assets/images/logos/men-logo.png) 
-
