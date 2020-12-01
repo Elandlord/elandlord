@@ -2,7 +2,7 @@
 
 
 I am currently:
-    **offline**, because it is holiday, evening or I'm celebrating the weekend.
+    **online**, working remotely or from our office.
 
 
 Based in Groningen, NL 🇳🇱
