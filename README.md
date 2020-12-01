@@ -1,10 +1,10 @@
-## Hi there, fellow human 👋
+<img src="/assets/images/github_banner.png" />
+
+___
 
 
-I am currently:
-    **online**, working remotely or from our office on this beautiful Tuesday 🖥.
 
-
+## I am currently:  <span style="color: #2ecc71;">**online**</span>, working remotely or from our office on this beautiful Tuesday 🖥. 
 Based in Groningen, NL 🇳🇱
 
 Co-owner software company: [MEN Technology & Media](https://mentechmedia.nl/)
