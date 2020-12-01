@@ -2,7 +2,7 @@
 
 
 I am currently:
-    **online**, working remotely or from our office.
+    **online**, working remotely or from our office on this beautiful Tuesday 🖥.
 
 
 Based in Groningen, NL 🇳🇱
