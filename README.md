@@ -2,7 +2,7 @@
 
 
 
-## I am currently:  🔴 offline, because it's too early to work on a regular Thursday 🖥. 
+## I am currently:  🟢 online, working remotely or from our office on this beautiful Thursday 🖥. 
 Based in Groningen, NL 🇳🇱
 
 Co-owner software company: [MEN Technology & Media](https://mentechmedia.nl/)
