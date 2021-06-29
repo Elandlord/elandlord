@@ -25,6 +25,7 @@ ___
 
 **Experienced (somewhat) in**
 
+![img](https://cdn.iconscout.com/icon/free/png-64/docker-11-1175228.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/go-2752178-2284995.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/angular-2752246-2285063.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/java-60-1174953.png)
@@ -35,7 +36,6 @@ ___
 
 **Interested in**
 
-![img](https://cdn.iconscout.com/icon/free/png-64/docker-11-1175228.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/adobe-premiere-pro-2522527-2132715.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/redis-3-1175053.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/mongodb-226029.png)
