@@ -25,7 +25,7 @@ ___
 
 **Experienced (somewhat) in**
 
-![img](https://golang.org/lib/godoc/images/go-logo-blue.svg)
+![img](https://cdn.iconscout.com/icon/free/png-64/go-2752178-2284995.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/angular-2752246-2285063.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/java-60-1174953.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/python-2752092-2284909.png)
