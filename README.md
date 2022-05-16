@@ -49,10 +49,3 @@ ___
 ![Stats](https://github-readme-stats.vercel.app/api?username=elandlord&count_private=true&include_all_commits=true)
 
 ___
-**Watch our video**
-
-[![MEN Technology & Media kennismaking](https://i.vimeocdn.com/video/892424869_640.jpg)](https://vimeo.com/418002570 "MEN Kennismaking")
-
-
-
-
