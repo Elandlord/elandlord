@@ -5,7 +5,9 @@
 ## I am currently:  🔴 offline, because it's too late to work on a regular Monday 🖥. 
 Based in Groningen, NL 🇳🇱
 
-Co-owner software company: [MEN Technology & Media](https://mentechmedia.nl/)
+Developer at [PeterPrint](https://www.peterprint.nl/).
+
+Former co-owner software company: [MEN Technology & Media](https://mentechmedia.nl/)
 
 Working as a **Full-stack developer** with a slight preference for working as a back-end developer.
 
@@ -16,6 +18,7 @@ ___
 **Currently using**
 
 ![img](https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png)
+![img](https://cdn.iconscout.com/icon/free/png-64/magento-226017.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/vuejs-1175052.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/flutter-2038877-1720090.png)
 ![img](https://cdn.iconscout.com/icon/free/png-64/html5-40-1175193.png)
