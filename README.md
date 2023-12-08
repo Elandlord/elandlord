@@ -2,7 +2,7 @@
 
 
 
-## I am currently:  🟢 online, working at the office on this beautiful Friday 🖥. 
+## I am currently:  🔴 offline, because it's too late to work on a regular Friday 🖥. 
 Based in Groningen, NL 🇳🇱
 
 Developer at [PeterPrint](https://www.peterprint.nl/).
