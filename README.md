@@ -16,16 +16,25 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Today's Stats 🌓
+## This Week on GitHub 📊
 
 | Metric | Value |
 |--------|-------|
-| ☕ Coffee cups today | 0 |
-| 📅 Years coding | 10 |
-| 💾 Est. lifetime commits | ~11,034 |
+| 🔥 Commits | 0 |
+| 🔀 Pull Requests | 2 |
+| 📦 Repos contributed to | 2 |
+| 📁 Total public repos | 48 |
+| 👥 Followers | 7 |
+
+---
+
+## Quick Stats 🌓
+
+| | |
+|--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ❄️ Weather in Groningen | -1°C, light snow |
-| 🎉 Days until King&#039;s Day | 88.678860590162 |
+| ❄️ Groningen | -1°C, light snow |
+| 🎉 King&#039;s Day | 88.678092772373 days |
 
 ---
 
@@ -43,4 +52,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 07:42 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 07:43 CET · Built with Laravel</sub>
