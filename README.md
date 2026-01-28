@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🎨
 
-☕ **Getting ready for work** · Wednesday, January 28 · ⏰ 08:55 CET
+🟢 **Working from Groningen** · Wednesday, January 28 · ⏰ 09:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ❄️ Groningen | -1°C, snow |
+| 🌫️ Groningen | -1°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.628420568356 days |
+| 🎉 King&#039;s Day | 88.624917504398 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [There&#039;s only one Woz, but we can all learn from him](https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award)
 >
-> 🔥 29 points
+> 🔥 46 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 08:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 09:00 CET · Built with Laravel</sub>
