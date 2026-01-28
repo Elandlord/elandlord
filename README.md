@@ -1,6 +1,6 @@
 # Good morning! ✨
 
-☕ **Getting ready for work** · Wednesday, January 28 · ⏰ 08:25 CET
+☕ **Getting ready for work** · Wednesday, January 28 · ⏰ 08:30 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ❄️ Groningen | -1°C, snow |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.649261482338 days |
+| 🎉 King&#039;s Day | 88.645771053102 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Prism](https://openai.com/index/introducing-prism)
+> [There&#039;s only one Woz, but we can all learn from him](https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award)
 >
-> 🔥 583 points
+> 🔥 29 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 08:25 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 08:30 CET · Built with Laravel</sub>
