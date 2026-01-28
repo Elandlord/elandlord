@@ -24,8 +24,8 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 📅 Years coding | 10 |
 | 💾 Est. lifetime commits | ~11,034 |
 | 🌙 Moon phase | First Quarter |
-| ☁️ Weather in Groningen | 5°C, cloudy |
-| 🎉 Days until King&#039;s Day | 88.680503316331 |
+| ❄️ Weather in Groningen | -1°C, light snow |
+| 🎉 Days until King&#039;s Day | 88.678860590162 |
 
 ---
 
@@ -43,4 +43,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 07:40 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 07:42 CET · Built with Laravel</sub>
