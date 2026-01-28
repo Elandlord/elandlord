@@ -1,6 +1,6 @@
 # Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Wednesday, January 28 · ⏰ 12:10 CET
+🟢 **Working from Groningen** · Wednesday, January 28 · ⏰ 12:15 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ❄️ Groningen | 0°C, snow |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.493006943611 days |
+| 🎉 King&#039;s Day | 88.489512606829 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Make.ts](https://matklad.github.io/2026/01/27/make-ts.html)
+> [Show HN: The HN Arcade](https://andrewgy8.github.io/hnarcade/)
 >
-> 🔥 69 points
+> 🔥 14 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 12:10 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 12:15 CET · Built with Laravel</sub>
