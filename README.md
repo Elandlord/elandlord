@@ -1,6 +1,6 @@
 # Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Wednesday, January 28 · ⏰ 16:40 CET
+🟢 **Working from Groningen** · Wednesday, January 28 · ⏰ 16:45 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 0°C, broken clouds |
+| ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.305500177164 days |
+| 🎉 King&#039;s Day | 88.302015638484 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Microsoft forced me to switch to Linux](https://www.himthe.dev/blog/microsoft-to-linux)
 >
-> 🔥 67 points
+> 🔥 213 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 16:40 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 16:45 CET · Built with Laravel</sub>
