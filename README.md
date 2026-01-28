@@ -1,6 +1,6 @@
-# Hey there! ⚡
+# Hey there! 🔥
 
-🏠 **Done for the day** · Tuesday, January 27
+😴 **Still sleeping (or should be)** · Wednesday, January 28
 
 ---
 
@@ -20,27 +20,27 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 | Metric | Value |
 |--------|-------|
-| ☕ Coffee cups today | 4 |
+| ☕ Coffee cups today | 0 |
 | 📅 Years coding | 10 |
-| 💾 Est. lifetime commits | ~11,031 |
+| 💾 Est. lifetime commits | ~11,034 |
 | 🌙 Moon phase | First Quarter |
 | ☁️ Weather in Groningen | 5°C, cloudy |
-| 🎉 Days until King&#039;s Day | 89.080115630405 |
+| 🎉 Days until King&#039;s Day | 88.68815653838 |
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 22:04 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 07:29 CET · Built with Laravel</sub>
