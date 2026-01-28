@@ -1,6 +1,6 @@
 # Good night! 🔥
 
-🏠 **Done for the day** · Wednesday, January 28 · ⏰ 22:25 CET
+🏠 **Done for the day** · Wednesday, January 28 · ⏰ 22:30 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | -0°C, broken clouds |
+| ❄️ Groningen | 0°C, light snow |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.065925321644 days |
+| 🎉 King&#039;s Day | 88.062440454884 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Mousefood – Build embedded terminal UIs for microcontrollers](https://github.com/ratatui/mousefood)
 >
-> 🔥 81 points
+> 🔥 102 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 22:25 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 22:30 CET · Built with Laravel</sub>
