@@ -1,6 +1,6 @@
 # Good morning! 🛠️
 
-🟢 **Working from Groningen** · Wednesday, January 28 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, January 28 · ⏰ 10:05 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ❄️ Groningen | -0°C, snow |
+| ☁️ Groningen | -0°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.583278663287 days |
+| 🎉 King&#039;s Day | 88.579787953715 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [There&#039;s only one Woz, but we can all learn from him](https://www.fastcompany.com/91477114/steve-wozniak-woz-apple-the-tech-interactive-humanitarian-award)
+> [ASML firing 1700 people, mostly managers](https://www.ed.nl/binnenland/asml-wil-veel-managementbanen-schrappen-rekent-op-1700-ontslagen~a04807f1/)
 >
-> 🔥 70 points
+> 🔥 71 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 10:05 CET · Built with Laravel</sub>
