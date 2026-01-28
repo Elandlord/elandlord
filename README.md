@@ -1,12 +1,12 @@
 # Hey there! 🔥
 
-😴 **Still sleeping (or should be)** · Wednesday, January 28
+😴 **Still sleeping (or should be)** · Wednesday, January 28 · ⏰ 07:56 CET
 
 ---
 
 ## About Me
 
-Software engineer based in **Groningen, Netherlands** 🇳🇱
+Software engineer with **15 years** of experience, based in **Groningen, Netherlands** 🇳🇱
 
 Currently building cool stuff at [PeterPrint](https://www.peterprint.nl/) as a Full-stack Developer.
 
@@ -24,7 +24,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 📁 Public repos | 48 |
+| ⭐ Total stars | 7 |
 | 👥 Followers | 7 |
+| 📈 Top repo | [nats-php](https://github.com/Elandlord/nats-php) (2 ⭐) |
 
 ---
 
@@ -33,8 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ❄️ Groningen | -1°C, light snow |
-| 🎉 King&#039;s Day | 88.67008952353 days |
+| ❄️ Groningen | -1°C, snow |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 88.669081197593 days |
+
+---
+
+## Trending on Hacker News 📰
+
+> [Prism](https://openai.com/index/introducing-prism)
+>
+> 🔥 583 points
 
 ---
 
@@ -52,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 07:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 07:56 CET · Built with Laravel</sub>
