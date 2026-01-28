@@ -12,18 +12,18 @@ Currently building cool stuff at [PeterPrint](https://www.peterprint.nl/) as a F
 
 Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
-📧 **e.landheer@mentechmedia.nl**
-
 ---
 
-## This Week on GitHub 📊
+## Languages I Work With 💻
 
-| Metric | Value |
+🐘 PHP · 🟨 JavaScript · 💚 Vue · 💜 C# · 🐹 Go · 🐍 Python
+---
+
+## GitHub 📊
+
+| | |
 |--------|-------|
-| 🔥 Commits | 0 |
-| 🔀 Pull Requests | 2 |
-| 📦 Repos contributed to | 2 |
-| 📁 Total public repos | 48 |
+| 📁 Public repos | 48 |
 | 👥 Followers | 7 |
 
 ---
@@ -34,7 +34,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
 | ❄️ Groningen | -1°C, light snow |
-| 🎉 King&#039;s Day | 88.677037320243 days |
+| 🎉 King&#039;s Day | 88.674420134919 days |
 
 ---
 
@@ -52,4 +52,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 07:45 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 07:48 CET · Built with Laravel</sub>
