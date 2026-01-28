@@ -1,6 +1,6 @@
 # Good night! ✨
 
-🏠 **Done for the day** · Wednesday, January 28 · ⏰ 23:10 CET
+🏠 **Done for the day** · Wednesday, January 28 · ⏰ 23:15 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ☁️ Groningen | 0°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.034682168762 days |
+| 🎉 King&#039;s Day | 88.031206863634 days |
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 23:10 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 23:15 CET · Built with Laravel</sub>
