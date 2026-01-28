@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🌊
 
-🏠 **Done for the day** · Wednesday, January 28 · ⏰ 23:55 CET
+😴 **Still sleeping (or should be)** · Thursday, January 29 · ⏰ 00:00 CET
 
 ---
 
@@ -36,8 +36,8 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
 | ☁️ Groningen | 0°C, overcast clouds |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.003428576736 days |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 87.999942696481 days |
 
 ---
 
@@ -51,16 +51,16 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 23:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 00:00 CET · Built with Laravel</sub>
