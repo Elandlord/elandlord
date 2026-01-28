@@ -1,6 +1,6 @@
 # Good night! ✨
 
-🏠 **Done for the day** · Wednesday, January 28 · ⏰ 23:35 CET
+🏠 **Done for the day** · Wednesday, January 28 · ⏰ 23:40 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 0°C, broken clouds |
+| ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 88.017318274421 days |
+| 🎉 King&#039;s Day | 88.013831068032 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Jellyfin LLM/&quot;AI&quot; Development Policy](https://jellyfin.org/docs/general/contributing/llm-policies/)
+> [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
 >
-> 🔥 32 points
+> 🔥 70 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 23:35 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 23:40 CET · Built with Laravel</sub>
