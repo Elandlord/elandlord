@@ -1,6 +1,6 @@
 # Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Thursday, January 29 · ⏰ 05:45 CET
+😴 **Still sleeping (or should be)** · Thursday, January 29 · ⏰ 05:50 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.760366600208 days |
+| 🎉 King&#039;s Day | 87.756890440208 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Render Mermaid diagrams as SVGs or ASCII art](https://github.com/lukilabs/beautiful-mermaid)
+> [We can&#039;t send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 >
-> 🔥 83 points
+> 🔥 37 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 05:45 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 05:50 CET · Built with Laravel</sub>
