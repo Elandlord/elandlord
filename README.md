@@ -1,6 +1,6 @@
 # Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 15:45 CET
+🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 15:50 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ❄️ Groningen | 0°C, light snow |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.343697674595 days |
+| 🎉 King&#039;s Day | 87.34022320272 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Europe’s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
+> [A lot of population numbers are fake](https://davidoks.blog/p/a-lot-of-population-numbers-are-fake)
 >
-> 🔥 395 points
+> 🔥 46 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 15:45 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 15:50 CET · Built with Laravel</sub>
