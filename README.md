@@ -1,6 +1,6 @@
 # Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Thursday, January 29 · ⏰ 06:50 CET
+😴 **Still sleeping (or should be)** · Thursday, January 29 · ⏰ 06:55 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.715234469306 days |
+| 🎉 King&#039;s Day | 87.711750151829 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [We can&#039;t send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
 >
-> 🔥 90 points
+> 🔥 128 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 06:50 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 06:55 CET · Built with Laravel</sub>
