@@ -1,6 +1,6 @@
 # Good night! ✨
 
-🏠 **Done for the day** · Thursday, January 29 · ⏰ 22:05 CET
+🏠 **Done for the day** · Thursday, January 29 · ⏰ 22:10 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ❄️ Groningen | -0°C, light snow |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.079818002164 days |
+| 🎉 King&#039;s Day | 87.076341169051 days |
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 22:05 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 22:10 CET · Built with Laravel</sub>
