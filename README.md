@@ -1,6 +1,6 @@
 # Good morning! 🛠️
 
-🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 09:05 CET
+🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 09:10 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ❄️ Groningen | 0°C, light snow |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.621484373345 days |
+| 🎉 King&#039;s Day | 87.617966572407 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We can&#039;t send mail farther than 500 miles (2002)](https://web.mit.edu/jemorris/humor/500-miles)
+> [Europe&#039;s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
 >
-> 🔥 246 points
+> 🔥 22 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 09:05 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 09:10 CET · Built with Laravel</sub>
