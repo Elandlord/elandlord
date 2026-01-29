@@ -1,6 +1,6 @@
 # Good night! 🚀
 
-😴 **Still sleeping (or should be)** · Friday, January 30 · ⏰ 00:35 CET
+😴 **Still sleeping (or should be)** · Friday, January 30 · ⏰ 00:40 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | -1°C, broken clouds |
+| ❄️ Groningen | -1°C, light snow |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.975641017766 days |
+| 🎉 King&#039;s Day | 86.972145939421 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 >
-> 🔥 365 points
+> 🔥 387 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 00:35 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 00:40 CET · Built with Laravel</sub>
