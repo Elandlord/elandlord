@@ -1,6 +1,6 @@
 # Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 12:25 CET
+🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 12:30 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ❄️ Groningen | 0°C, light snow |
+| 🌫️ Groningen | 0°C, mist |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.482581166123 days |
+| 🎉 King&#039;s Day | 87.47910165441 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Europe&#039;s next-generation weather satellite sends back first images](https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images)
+> [Vitamin D and Omega-3 have a larger effect on depression than antidepressants](https://blog.ncase.me/on-depression/)
 >
-> 🔥 229 points
+> 🔥 108 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 12:25 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 12:30 CET · Built with Laravel</sub>
