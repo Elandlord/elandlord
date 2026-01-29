@@ -1,6 +1,6 @@
 # Good night! 🚀
 
-😴 **Still sleeping (or should be)** · Thursday, January 29 · ⏰ 01:45 CET
+😴 **Still sleeping (or should be)** · Thursday, January 29 · ⏰ 01:50 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ❄️ Groningen | 0°C, light snow |
+| ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.927042468275 days |
+| 🎉 King&#039;s Day | 87.92354783603 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Somebody used spoofed ADSB signals to raster the meme of JD Vance](https://alecmuffett.com/article/143548)
 >
-> 🔥 245 points
+> 🔥 294 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 01:45 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 01:50 CET · Built with Laravel</sub>
