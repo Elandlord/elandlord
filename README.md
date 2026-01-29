@@ -1,6 +1,6 @@
 # Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 12:50 CET
+🟢 **Working from Groningen** · Thursday, January 29 · ⏰ 12:55 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | 🌫️ Groningen | 0°C, mist |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.465229726076 days |
+| 🎉 King&#039;s Day | 87.461755172187 days |
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 12:50 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 12:55 CET · Built with Laravel</sub>
