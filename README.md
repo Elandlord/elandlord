@@ -1,6 +1,6 @@
 # Good evening! ⚡
 
-🏠 **Done for the day** · Thursday, January 29 · ⏰ 20:40 CET
+🏠 **Done for the day** · Thursday, January 29 · ⏰ 20:45 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | -0°C, broken clouds |
+| ❄️ Groningen | -0°C, light snow |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.138840431134 days |
+| 🎉 King&#039;s Day | 87.135355245035 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 >
-> 🔥 138 points
+> 🔥 179 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 20:40 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 20:45 CET · Built with Laravel</sub>
