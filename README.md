@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good night! 🚀
 
-🏠 **Done for the day** · Thursday, January 29 · ⏰ 23:55 CET
+😴 **Still sleeping (or should be)** · Friday, January 30 · ⏰ 00:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌓
+## Quick Stats 🌔
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | First Quarter |
+| 🌙 Moon phase | Waxing Gibbous |
 | ❄️ Groningen | -1°C, light snow |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.003399828148 days |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 King&#039;s Day | 86.999933781065 days |
 
 ---
 
@@ -51,16 +51,16 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 23:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 00:00 CET · Built with Laravel</sub>
