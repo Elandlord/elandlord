@@ -1,6 +1,6 @@
 # Good night! 🎨
 
-🏠 **Done for the day** · Thursday, January 29 · ⏰ 23:25 CET
+🏠 **Done for the day** · Thursday, January 29 · ⏰ 23:30 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ❄️ Groningen | -1°C, light snow |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.024215616516 days |
+| 🎉 King&#039;s Day | 87.020711657743 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/)
+> [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 >
-> 🔥 72 points
+> 🔥 335 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 23:25 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 23:30 CET · Built with Laravel</sub>
