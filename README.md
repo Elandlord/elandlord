@@ -1,6 +1,6 @@
 # Good evening! 🎯
 
-🏠 **Done for the day** · Thursday, January 29 · ⏰ 19:35 CET
+🏠 **Done for the day** · Thursday, January 29 · ⏰ 19:40 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | -0°C, broken clouds |
+| ❄️ Groningen | -0°C, light snow |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 87.183983064167 days |
+| 🎉 King&#039;s Day | 87.180493204884 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code Daily Benchmarks for Degradation Tracking](https://marginlab.ai/trackers/claude-code/)
+> [Project Genie: Experimenting with infinite, interactive worlds](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/)
 >
-> 🔥 294 points
+> 🔥 99 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 19:35 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 19:40 CET · Built with Laravel</sub>
