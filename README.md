@@ -1,6 +1,6 @@
 # Good evening! ⚡
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 19:40 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 19:45 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.18048730706 days |
+| 🎉 King&#039;s Day | 86.177000742998 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
+> [ClawdBot Skills ganked all my crypto](https://opensourcemalware.com/blog/clawdbot-skills-ganked-your-crypto)
 >
-> 🔥 118 points
+> 🔥 27 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 19:40 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 19:45 CET · Built with Laravel</sub>
