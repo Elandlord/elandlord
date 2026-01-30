@@ -1,6 +1,6 @@
 # Good evening! ⚡
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 19:05 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 19:10 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.204792113414 days |
+| 🎉 King&#039;s Day | 86.201302814248 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents](https://github.com/amlalabs/amla-sandbox)
+> [Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
 >
-> 🔥 56 points
+> 🔥 118 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 19:05 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 19:10 CET · Built with Laravel</sub>
