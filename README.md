@@ -1,6 +1,6 @@
 # Good morning! 🎨
 
-☕ **Getting ready for work** · Friday, January 30 · ⏰ 07:00 CET
+☕ **Getting ready for work** · Friday, January 30 · ⏰ 07:05 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☁️ Groningen | -1°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.708265750359 days |
+| 🎉 King&#039;s Day | 86.704791011481 days |
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 07:00 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 07:05 CET · Built with Laravel</sub>
