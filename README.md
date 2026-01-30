@@ -1,6 +1,6 @@
 # Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Friday, January 30 · ⏰ 14:45 CET
+🟢 **Working from Groningen** · Friday, January 30 · ⏰ 14:50 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☁️ Groningen | 0°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.38533624831 days |
+| 🎉 King&#039;s Day | 86.381882615648 days |
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 14:45 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 14:50 CET · Built with Laravel</sub>
