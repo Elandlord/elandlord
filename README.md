@@ -1,6 +1,6 @@
 # Good evening! ✨
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 21:20 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 21:25 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.111038979954 days |
+| 🎉 King&#039;s Day | 86.107537442002 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The National Herbarium of Ireland digital collection of Irish plants](https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/)
+> [Antirender- remove the glossy shine on architectural renderings](https://antirender.com/)
 >
-> 🔥 50 points
+> 🔥 52 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 21:20 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 21:25 CET · Built with Laravel</sub>
