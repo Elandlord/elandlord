@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good night! 💻
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 23:55 CET
+🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 00:00 CET
 
 ---
 
@@ -36,8 +36,8 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 0°C, mist |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.003411957465 days |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 85.999939564201 days |
 
 ---
 
@@ -51,16 +51,16 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ## Daily Wisdom 💡
 
-> "Code is like humor. When you have to explain it, it&#039;s bad."
+> "First, solve the problem. Then, write the code."
 >
-> — *Cory House*
+> — *John Johnson*
 
 ---
 
 ## Did You Know? 🤓
 
-JavaScript was created in just 10 days.
+The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 23:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 00:00 CET · Built with Laravel</sub>
