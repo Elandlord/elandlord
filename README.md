@@ -1,6 +1,6 @@
 # Good afternoon! ☕
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 17:30 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 17:35 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | -0°C, few clouds |
+| 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.270766725162 days |
+| 🎉 King&#039;s Day | 86.267289330926 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
 >
-> 🔥 45 points
+> 🔥 89 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 17:30 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 17:35 CET · Built with Laravel</sub>
