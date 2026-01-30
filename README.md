@@ -1,6 +1,6 @@
 # Good afternoon! 💻
 
-🟢 **Working from Groningen** · Friday, January 30 · ⏰ 16:20 CET
+🟢 **Working from Groningen** · Friday, January 30 · ⏰ 16:25 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 1°C, broken clouds |
+| ☁️ Groningen | -0°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.319364662546 days |
+| 🎉 King&#039;s Day | 86.315888124155 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Wisconsin communities signed secrecy deals for billion-dollar data centers](https://www.wpr.org/news/4-wisconsin-communities-signed-secrecy-deals-billion-dollar-data-centers)
+> [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
 >
-> 🔥 107 points
+> 🔥 58 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 16:20 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 16:25 CET · Built with Laravel</sub>
