@@ -1,6 +1,6 @@
 # Good evening! ⚡
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 19:45 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 19:50 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.177000742998 days |
+| 🎉 King&#039;s Day | 86.173543038113 days |
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 19:45 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 19:50 CET · Built with Laravel</sub>
