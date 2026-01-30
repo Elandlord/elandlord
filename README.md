@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Friday, January 30 · ⏰ 16:55 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | -0°C, broken clouds |
+| ☁️ Groningen | -0°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.295074852164 days |
+| 🎉 King&#039;s Day | 86.291579802778 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Code is cheap. Show me the talk](https://nadh.in/blog/code-is-cheap/)
+> [Buttered Crumpet, a custom typeface for Wallace and Gromit](https://jamieclarketype.com/case-study/wallace-and-gromit-font/)
 >
-> 🔥 58 points
+> 🔥 45 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 16:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 17:00 CET · Built with Laravel</sub>
