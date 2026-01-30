@@ -1,6 +1,6 @@
 # Good morning! 🎨
 
-☕ **Getting ready for work** · Friday, January 30 · ⏰ 07:50 CET
+☕ **Getting ready for work** · Friday, January 30 · ⏰ 07:55 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☁️ Groningen | -1°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.673530173565 days |
+| 🎉 King&#039;s Day | 86.670047453194 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Grid: Free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
+> [Moltbook](https://www.moltbook.com/)
 >
-> 🔥 238 points
+> 🔥 146 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 07:50 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 07:55 CET · Built with Laravel</sub>
