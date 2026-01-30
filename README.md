@@ -1,6 +1,6 @@
 # Good morning! 🛠️
 
-☕ **Getting ready for work** · Friday, January 30 · ⏰ 08:25 CET
+☕ **Getting ready for work** · Friday, January 30 · ⏰ 08:30 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☁️ Groningen | -1°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.649228228669 days |
+| 🎉 King&#039;s Day | 86.645757201725 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Moltbook](https://www.moltbook.com/)
 >
-> 🔥 146 points
+> 🔥 210 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 08:25 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 08:30 CET · Built with Laravel</sub>
