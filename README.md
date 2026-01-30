@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 🎨
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 21:55 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌫️ Groningen | -0°C, mist |
+| 🌫️ Groningen | -1°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.086741242535 days |
+| 🎉 King&#039;s Day | 86.083256436632 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Antirender- remove the glossy shine on architectural renderings](https://antirender.com/)
+> [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 >
-> 🔥 52 points
+> 🔥 194 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 21:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 22:00 CET · Built with Laravel</sub>
