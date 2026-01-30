@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Friday, January 30 · ⏰ 04:55 CET
+😴 **Still sleeping (or should be)** · Friday, January 30 · ⏰ 05:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☁️ Groningen | -1°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.795076727593 days |
+| 🎉 King&#039;s Day | 86.791597373958 days |
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 04:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 05:00 CET · Built with Laravel</sub>
