@@ -1,6 +1,6 @@
 # Good evening! 🔥
 
-🏠 **Done for the day** · Friday, January 30 · ⏰ 20:50 CET
+🏠 **Done for the day** · Friday, January 30 · ⏰ 20:55 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.131874615556 days |
+| 🎉 King&#039;s Day | 86.12838709691 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft Just Killed the &quot;Cover for Me&quot; Excuse: 365 Now Tracks You in Real-Time](https://ztechtalk.com/microsoft-teams)
+> [The National Herbarium of Ireland digital collection of Irish plants](https://dri.ie/news/new-collection-in-dri-the-national-herbarium-of-ireland-digital-collection-of-irish-plants/)
 >
-> 🔥 275 points
+> 🔥 50 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 20:50 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 20:55 CET · Built with Laravel</sub>
