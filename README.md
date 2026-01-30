@@ -1,6 +1,6 @@
 # Good night! 🎯
 
-😴 **Still sleeping (or should be)** · Friday, January 30 · ⏰ 03:50 CET
+😴 **Still sleeping (or should be)** · Friday, January 30 · ⏰ 03:55 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ❄️ Groningen | -1°C, light snow |
+| ☁️ Groningen | -1°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 86.840210718715 days |
+| 🎉 King&#039;s Day | 86.836726253981 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer](https://grid.space/stem/)
 >
-> 🔥 125 points
+> 🔥 146 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 03:50 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 03:55 CET · Built with Laravel</sub>
