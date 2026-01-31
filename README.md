@@ -1,6 +1,6 @@
 # Good morning! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 11:00 CET
+🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 11:05 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 1°C, overcast clouds |
+| 🌧️ Groningen | 1°C, light intensity drizzle |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 85.541588616331 days |
+| 🎉 King&#039;s Day | 85.538115613808 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
 >
-> 🔥 1187 points
+> 🔥 1225 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 11:00 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 11:05 CET · Built with Laravel</sub>
