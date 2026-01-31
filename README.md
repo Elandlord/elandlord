@@ -1,6 +1,6 @@
 # Good evening! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 21:15 CET
+🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 21:20 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌫️ Groningen | 1°C, mist |
+| 🌧️ Groningen | 1°C, drizzle |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 85.114514865903 days |
+| 🎉 King&#039;s Day | 85.111031650382 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 >
-> 🔥 165 points
+> 🔥 210 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 21:15 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 21:20 CET · Built with Laravel</sub>
