@@ -1,6 +1,6 @@
 # Good evening! ⚡
 
-🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 18:30 CET
+🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 18:35 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 85.229097719549 days |
+| 🎉 King&#039;s Day | 85.225599014086 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Antirender: remove the glossy shine on architectural renderings](https://antirender.com/)
+> [Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
 >
-> 🔥 1652 points
+> 🔥 31 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 18:30 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 18:35 CET · Built with Laravel</sub>
