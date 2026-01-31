@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 23:55 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 00:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 85.003408127558 days |
+| 🎉 King&#039;s Day | 84.9999085286 days |
 
 ---
 
@@ -51,16 +51,16 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ## Daily Wisdom 💡
 
-> "First, solve the problem. Then, write the code."
+> "Experience is the name everyone gives to their mistakes."
 >
-> — *John Johnson*
+> — *Oscar Wilde*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer virus was created in 1983 as an experiment.
+&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 23:55 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 00:00 CET · Built with Laravel</sub>
