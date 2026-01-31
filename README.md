@@ -1,6 +1,6 @@
 # Good evening! 🔥
 
-🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 19:05 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 85.208264599074 days |
+| 🎉 King&#039;s Day | 85.204761702789 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple Platform Security (Jan 2026) [pdf]](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
+> [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 >
-> 🔥 31 points
+> 🔥 26 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 19:05 CET · Built with Laravel</sub>
