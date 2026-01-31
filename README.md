@@ -1,6 +1,6 @@
 # Good morning! ✨
 
-🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 05:10 CET
+🎉 **Enjoying the weekend** · Saturday, January 31 · ⏰ 05:15 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 85.784658771528 days |
+| 🎉 King&#039;s Day | 85.78118620684 days |
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 05:10 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 05:15 CET · Built with Laravel</sub>
