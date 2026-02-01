@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ❄️ Groningen | 1°C, light snow |
+| ☁️ Groningen | -0°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.2915362725 days |
+| 🎉 King&#039;s Day | 84.208237674491 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Netbird – Open Source Zero Trust Networking](https://netbird.io/)
+> [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
 >
-> 🔥 414 points
+> 🔥 120 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
