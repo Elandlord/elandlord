@@ -1,6 +1,6 @@
 # Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 05:05 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 05:10 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.788125748125 days |
+| 🎉 King&#039;s Day | 84.784635003356 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenClaw Security Assessment by ZeroLeaks [pdf]](https://zeroleaks.ai/reports/openclaw-analysis.pdf)
+> [Swift is a more convenient Rust (2023)](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
 >
-> 🔥 35 points
+> 🔥 246 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 05:05 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 05:10 CET · Built with Laravel</sub>
