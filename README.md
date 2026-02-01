@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 12:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌫️ Groningen | 1°C, mist |
+| ☁️ Groningen | 2°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.499893732199 days |
+| 🎉 King&#039;s Day | 84.458198784155 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Netbird a German Tailscale alternative (P2P WireGuard-based overlay network)](https://netbird.io/)
 >
-> 🔥 91 points
+> 🔥 186 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates hourly · Last updated: 12:00 CET · Built with Laravel</sub>
+<sub>This README updates hourly · Last updated: 13:00 CET · Built with Laravel</sub>
