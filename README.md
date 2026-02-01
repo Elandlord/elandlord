@@ -1,6 +1,6 @@
 # Good night! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 02:15 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 02:20 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.906175061562 days |
+| 🎉 King&#039;s Day | 84.90267221853 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 >
-> 🔥 398 points
+> 🔥 418 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 02:15 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 02:20 CET · Built with Laravel</sub>
