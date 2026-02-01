@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | -0°C, overcast clouds |
+| 🌫️ Groningen | -1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.208237674491 days |
+| 🎉 King&#039;s Day | 84.083228018657 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Adventure Game Studio: OSS software for creating adventure games](https://www.adventuregamestudio.co.uk/)
+> [Apple I Advertisement (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
 >
-> 🔥 120 points
+> 🔥 124 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
