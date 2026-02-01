@@ -1,6 +1,6 @@
 # Good morning! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 06:10 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 06:15 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌫️ Groningen | 0°C, mist |
+| 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.742979777789 days |
+| 🎉 King&#039;s Day | 84.739472396019 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
+> [List animals until failure](https://rose.systems/animalist/)
 >
-> 🔥 513 points
+> 🔥 48 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 06:10 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 06:15 CET · Built with Laravel</sub>
