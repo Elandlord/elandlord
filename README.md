@@ -1,6 +1,6 @@
 # Good morning! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 06:50 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 06:55 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.715189206308 days |
+| 🎉 King&#039;s Day | 84.711729459109 days |
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 06:50 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 06:55 CET · Built with Laravel</sub>
