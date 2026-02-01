@@ -1,6 +1,6 @@
 # Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 05:40 CET
+🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 05:45 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌫️ Groningen | 1°C, mist |
+| 🌫️ Groningen | 0°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.763820527025 days |
+| 🎉 King&#039;s Day | 84.760330488935 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Swift is a more convenient Rust (2023)](https://nmn.sh/blog/2023-10-02-swift-is-the-more-convenient-rust)
+> [Mobile carriers can get your GPS location](https://an.dywa.ng/carrier-gnss.html)
 >
-> 🔥 246 points
+> 🔥 513 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates every 5 minutes · Last updated: 05:40 CET · Built with Laravel</sub>
+<sub>This README updates every 5 minutes · Last updated: 05:45 CET · Built with Laravel</sub>
