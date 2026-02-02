@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ✨
 
-🎉 **Enjoying the weekend** · Sunday, February 1 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, February 2 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌫️ Groningen | -1°C, mist |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 84.083228018657 days |
+| ☁️ Groningen | -2°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 King&#039;s Day | 83.874898289595 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple I Advertisement (1976)](http://apple1.chez.com/Apple1project/Gallery/Gallery.htm)
+> [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 >
-> 🔥 124 points
+> 🔥 236 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Experience is the name everyone gives to their mistakes."
+> "The best error message is the one that never shows up."
 >
-> — *Oscar Wilde*
+> — *Thomas Fuchs*
 
 ---
 
 ## Did You Know? 🤓
 
-&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
+There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
