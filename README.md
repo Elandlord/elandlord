@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-☕ **Getting ready for work** · Monday, February 2 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, February 2 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | -3°C, overcast clouds |
+| ☁️ Groningen | -3°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 83.666567073275 days |
+| 🎉 King&#039;s Day | 83.583230390752 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
 >
-> 🔥 414 points
+> 🔥 491 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
