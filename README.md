@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Monday, February 2 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, February 2 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | -1°C, overcast clouds |
+| ☁️ Groningen | -2°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 83.458226145069 days |
+| 🎉 King&#039;s Day | 83.291565418588 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Defeating a 40-year-old copy protection dongle](https://dmitrybrant.com/2026/02/01/defeating-a-40-year-old-copy-protection-dongle)
+> [Nano-vLLM: How a vLLM-style inference engine works](https://neutree.ai/blog/nano-vllm-part-1)
 >
-> 🔥 597 points
+> 🔥 89 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
