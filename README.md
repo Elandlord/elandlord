@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good morning! 🚀
 
-☕ **Getting ready for work** · Wednesday, February 4 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, February 4 · ⏰ 10:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | -2°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 81.666566055243 days |
+| 🎉 King&#039;s Day | 81.583241650405 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Petition for Recognition of Work on Open-Source as Volunteering in Germany](https://www.openpetition.de/petition/online/recognition-of-work-on-open-source-as-volunteering-in-germany)
+> [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 >
-> 🔥 106 points
+> 🔥 455 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
