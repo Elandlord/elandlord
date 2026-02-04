@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Wednesday, February 4 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, February 4 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ❄️ Groningen | -3°C, light snow |
+| 🌫️ Groningen | -2°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 81.874910451065 days |
+| 🎉 King&#039;s Day | 81.749909800035 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Lessons learned shipping 500 units of my first hardware product](https://www.simonberens.com/p/lessons-learned-shipping-500-units)
+> [I miss thinking hard](https://www.jernesto.com/articles/thinking_hard)
 >
-> 🔥 301 points
+> 🔥 78 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
