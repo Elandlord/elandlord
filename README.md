@@ -1,6 +1,6 @@
-# Good evening! 📚
+# Good night! 🎮
 
-🏠 **Done for the day** · Wednesday, February 4 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, February 4 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | -2°C, mist |
+| 🌫️ Groningen | -3°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 81.208231853183 days |
+| 🎉 King&#039;s Day | 81.083240430093 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
 >
-> 🔥 229 points
+> 🔥 464 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
