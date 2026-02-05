@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Thursday, February 5 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, February 5 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | -3°C, mist |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 80.874894982639 days |
+| 🎉 King&#039;s Day | 80.749904395683 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenClaw Is What Apple Intelligence Should Have Been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
+> [Postgres Postmaster does not scale](https://www.recall.ai/blog/postgres-postmaster-does-not-scale)
 >
-> 🔥 80 points
+> 🔥 33 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
