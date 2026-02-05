@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Thursday, February 5 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, February 5 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | -3°C, mist |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 80.749904395683 days |
+| 🎉 King&#039;s Day | 80.666567160637 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Postgres Postmaster does not scale](https://www.recall.ai/blog/postgres-postmaster-does-not-scale)
+> [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
 >
-> 🔥 33 points
+> 🔥 91 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
