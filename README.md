@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Thursday, February 5 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, February 5 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | -3°C, overcast clouds |
+| 🌫️ Groningen | -3°C, mist |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 80.583241357188 days |
+| 🎉 King&#039;s Day | 80.458241597743 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Don&#039;t rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 >
-> 🔥 189 points
+> 🔥 378 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
