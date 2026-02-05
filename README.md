@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🏠 **Done for the day** · Wednesday, February 4 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, February 5 · ⏰ 03:00 CET
 
 ---
 
@@ -36,31 +36,31 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | -3°C, mist |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 81.083240430093 days |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 80.874894982639 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Voxtral Transcribe 2](https://mistral.ai/news/voxtral-transcribe-2)
+> [OpenClaw Is What Apple Intelligence Should Have Been](https://www.jakequist.com/thoughts/openclaw-is-what-apple-intelligence-should-have-been)
 >
-> 🔥 464 points
+> 🔥 80 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
