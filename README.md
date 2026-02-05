@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-☕ **Getting ready for work** · Thursday, February 5 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, February 5 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | -3°C, mist |
+| ☁️ Groningen | -3°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 80.666567160637 days |
+| 🎉 King&#039;s Day | 80.583241357188 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [When internal hostnames are leaked to the clown](https://rachelbythebay.com/w/2026/02/03/badnas/)
+> [Don&#039;t rent the cloud, own instead](https://blog.comma.ai/datacenter/)
 >
-> 🔥 91 points
+> 🔥 189 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
