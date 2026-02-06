@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-☕ **Getting ready for work** · Friday, February 6 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, February 6 · ⏰ 10:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | -1°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 79.666578078507 days |
+| 🎉 King&#039;s Day | 79.583219955764 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 >
-> 🔥 1826 points
+> 🔥 1908 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
