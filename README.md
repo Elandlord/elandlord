@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good night! 🌟
 
-🏠 **Done for the day** · Thursday, February 5 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, February 6 · ⏰ 03:00 CET
 
 ---
 
@@ -36,8 +36,8 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | -2°C, mist |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 80.083236288032 days |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 King&#039;s Day | 79.874907290498 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Opus 4.6](https://www.anthropic.com/news/claude-opus-4-6)
 >
-> 🔥 1006 points
+> 🔥 1557 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Any fool can write code that a computer can understand."
+> "Programs must be written for people to read."
 >
-> — *Martin Fowler*
+> — *Harold Abelson*
 
 ---
 
 ## Did You Know? 🤓
 
-Email is older than the World Wide Web.
+The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
