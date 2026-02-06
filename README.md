@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good evening! 🎸
 
-🏠 **Done for the day** · Friday, February 6 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, February 6 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | 1°C, mist |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 79.291566333403 days |
+| 🎉 King&#039;s Day | 79.208242490336 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft open-sources LiteBox, a security-focused library OS](https://github.com/microsoft/litebox)
+> [The Waymo World Model: A New Frontier for Autonomous Driving Simulation](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
 >
-> 🔥 48 points
+> 🔥 176 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
