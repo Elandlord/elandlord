@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good afternoon! ✨
 
-🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | 3°C, fog |
+| 🌫️ Groningen | 4°C, fog |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 78.58324354338 days |
+| 🎉 King&#039;s Day | 78.458235827593 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
+> [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 >
-> 🔥 586 points
+> 🔥 136 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
