@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | 5°C, fog |
+| 🌫️ Groningen | 2°C, fog |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 78.208247079676 days |
+| 🎉 King&#039;s Day | 78.083237907975 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [France&#039;s homegrown open source online office suite](https://github.com/suitenumerique)
+> [Brookhaven Lab&#039;s RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
 >
-> 🔥 463 points
+> 🔥 20 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
