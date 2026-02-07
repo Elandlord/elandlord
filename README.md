@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good morning! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 06:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | 2°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 78.874917043472 days |
+| 🎉 King&#039;s Day | 78.749913707743 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 >
-> 🔥 348 points
+> 🔥 472 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
