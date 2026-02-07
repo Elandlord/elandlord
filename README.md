@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Friday, February 6 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | 1°C, mist |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 79.083244838449 days |
+| 🌫️ Groningen | 2°C, mist |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 78.874917043472 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Waymo World Model](https://waymo.com/blog/2026/02/the-waymo-world-model-a-new-frontier-for-autonomous-driving-simulation)
+> [OpenCiv3: Open-source, cross-platform reimagining of Civilization III](https://openciv3.org/)
 >
-> 🔥 439 points
+> 🔥 348 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
