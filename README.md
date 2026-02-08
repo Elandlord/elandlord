@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good afternoon! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, February 8 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 8 · ⏰ 17:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | 🌫️ Groningen | 2°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 77.458236361944 days |
+| 🎉 King&#039;s Day | 77.291572974028 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
+> [I am happier writing code by hand](https://www.abhinavomprakash.com/posts/i-am-happier-writing-code-by-hand/)
 >
-> 🔥 197 points
+> 🔥 129 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
