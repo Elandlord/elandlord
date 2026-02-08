@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, February 8 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 8 · ⏰ 10:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | 🌫️ Groningen | 2°C, fog |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 77.666561983218 days |
+| 🎉 King&#039;s Day | 77.583233708519 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory](https://github.com/localgpt-app/localgpt)
+> [DoNotNotify is now Open Source](https://donotnotify.com/opensource.html)
 >
-> 🔥 152 points
+> 🔥 21 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
