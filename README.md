@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🎉 **Enjoying the weekend** · Sunday, February 8 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 8 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 2°C, mist |
+| 🌫️ Groningen | 1°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 77.208238725833 days |
+| 🎉 King&#039;s Day | 77.083248461447 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vouch](https://github.com/mitchellh/vouch)
+> [A GTA modder has got the 1997 original working on modern PCs and Steam Deck](https://gtaforums.com/topic/986492-grand-theft-auto-ready2play-full-game-windows-version/)
 >
-> 🔥 49 points
+> 🔥 23 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
