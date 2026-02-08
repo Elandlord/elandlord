@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, February 7 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 8 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌕
+## Quick Stats 🌖
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | 2°C, fog |
+| 🌙 Moon phase | Waning Gibbous |
+| 🌫️ Groningen | 3°C, fog |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 78.083237907975 days |
+| 🎉 King&#039;s Day | 77.874906330116 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Brookhaven Lab&#039;s RHIC Concludes 25-Year Run with Final Collisions](https://www.hpcwire.com/off-the-wire/brookhaven-labs-rhic-concludes-25-year-run-with-final-collisions/)
+> [Tiny C Compiler](https://bellard.org/tcc/)
 >
-> 🔥 20 points
+> 🔥 122 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
