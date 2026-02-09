@@ -1,6 +1,6 @@
-# Good evening! 🌊
+# Good night! ☕
 
-🏠 **Done for the day** · Monday, February 9 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, February 9 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 2°C, overcast clouds |
+| 🌫️ Groningen | 1°C, mist |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 76.208239690185 days |
+| 🎉 King&#039;s Day | 76.083240179363 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Converting a $3.88 analog clock from Walmart into a ESP8266-based Wi-Fi clock](https://github.com/jim11662418/ESP8266_WiFi_Analog_Clock)
+> [MIT Living Wage Calculator](https://livingwage.mit.edu/)
 >
-> 🔥 129 points
+> 🔥 86 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
