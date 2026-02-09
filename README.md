@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Monday, February 9 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, February 9 · ⏰ 17:00 CET
 
 ---
 
@@ -23,7 +23,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 | | |
 |--------|-------|
-| 📁 Public repos | 48 |
+| 📁 Public repos | 49 |
 | ⭐ Total stars | 7 |
 | 👥 Followers | 7 |
 | 📈 Top repo | [nats-php](https://github.com/Elandlord/nats-php) (2 ⭐) |
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 2°C, mist |
+| ☁️ Groningen | 3°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 76.458230691111 days |
+| 🎉 King&#039;s Day | 76.291566188194 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
+> [UEFI Bindings for JavaScript](https://codeberg.org/smnx/promethee)
 >
-> 🔥 38 points
+> 🔥 89 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
