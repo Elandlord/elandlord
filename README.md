@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Monday, February 9 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, February 9 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 1°C, fog |
+| 🌫️ Groningen | 2°C, mist |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 76.583238419144 days |
+| 🎉 King&#039;s Day | 76.458230691111 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+> [Show HN: Algorithmically Finding the Longest Line of Sight on Earth](https://alltheviews.world)
 >
-> 🔥 260 points
+> 🔥 38 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
