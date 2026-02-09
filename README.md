@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Monday, February 9 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, February 9 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | 🌫️ Groningen | 0°C, fog |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 76.749908097789 days |
+| 🎉 King&#039;s Day | 76.666571780081 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Art of Roads in Games](https://sandboxspirit.com/blog/art-of-roads-in-games/)
+> [Claude’s C Compiler vs. GCC](https://harshanu.space/en/tech/ccc-vs-gcc/)
 >
-> 🔥 135 points
+> 🔥 127 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
