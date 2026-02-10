@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Tuesday, February 10 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, February 10 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 3°C, overcast clouds |
+| 🌧️ Groningen | 4°C, drizzle |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 75.458227726539 days |
+| 🎉 King&#039;s Day | 75.291550169977 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
+> [I started programming when I was 7. I&#039;m 50 now and the thing I loved has changed](https://www.jamesdrandall.com/posts/the_thing_i_loved_has_changed/)
 >
-> 🔥 321 points
+> 🔥 57 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
