@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Tuesday, February 10 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, February 10 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌧️ Groningen | 4°C, light intensity drizzle |
+| 🌫️ Groningen | 4°C, mist |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 75.208240754815 days |
+| 🎉 King&#039;s Day | 75.083229932743 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Simplifying Vulkan one subsystem at a time](https://www.khronos.org/blog/simplifying-vulkan-one-subsystem-at-a-time)
+> [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
 >
-> 🔥 129 points
+> 🔥 458 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
