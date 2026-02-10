@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Tuesday, February 10 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, February 10 · ⏰ 08:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 75.749892343519 days |
+| 🎉 King&#039;s Day | 75.666559736759 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs](https://arxiv.org/abs/2512.20798)
 >
-> 🔥 75 points
+> 🔥 156 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
