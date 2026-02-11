@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Tuesday, February 10 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, February 11 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌖
+## Quick Stats 🌗
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 4°C, mist |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 75.083229932743 days |
+| 🌙 Moon phase | Last Quarter |
+| 🌫️ Groningen | 5°C, fog |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 74.874886492245 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Singularity will occur on a Tuesday](https://campedersen.com/singularity)
+> [The Day the Telnet Died](https://www.labs.greynoise.io/grimoire/2026-02-10-telnet-falls-silent/)
 >
-> 🔥 458 points
+> 🔥 171 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
