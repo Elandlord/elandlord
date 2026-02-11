@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Wednesday, February 11 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, February 11 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Last Quarter |
 | 🌫️ Groningen | 5°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 74.749913169664 days |
+| 🎉 King&#039;s Day | 74.666571558044 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Feynman Lectures on Physics (1961-1964)](https://www.feynmanlectures.caltech.edu/)
+> [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
 >
-> 🔥 176 points
+> 🔥 50 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
