@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Wednesday, February 11 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, February 11 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 6°C, overcast clouds |
+| 🌫️ Groningen | 6°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 74.458231386678 days |
+| 🎉 King&#039;s Day | 74.291556543854 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
+> [AI-First Company Memos](https://the-ai-native.company/)
 >
-> 🔥 334 points
+> 🔥 21 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
