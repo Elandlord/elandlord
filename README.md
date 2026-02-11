@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-☕ **Getting ready for work** · Wednesday, February 11 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, February 11 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌫️ Groningen | 5°C, mist |
+| 🌧️ Groningen | 5°C, drizzle |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 74.666571558044 days |
+| 🎉 King&#039;s Day | 74.583239570266 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Lessons you will learn living in a snowy place](https://eukaryotewritesblog.com/2026/01/21/very-snowy-place/)
+> [Windows Notepad App Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-20841)
 >
-> 🔥 50 points
+> 🔥 77 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
