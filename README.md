@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🏠 **Done for the day** · Wednesday, February 11 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, February 11 · ⏰ 22:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Last Quarter |
 | 🌧️ Groningen | 5°C, light rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 74.208229586412 days |
+| 🎉 King&#039;s Day | 74.083238362639 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GLM-5: From Vibe Coding to Agentic Engineering](https://z.ai/blog/glm-5)
+> [Toyota Fluorite: &quot;console-grade&quot; Flutter game engine](https://fluorite.game/)
 >
-> 🔥 118 points
+> 🔥 247 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
