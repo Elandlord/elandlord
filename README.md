@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🏠 **Done for the day** · Wednesday, February 11 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, February 12 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 5°C, light rain |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 74.083238362639 days |
+| 🌫️ Groningen | 5°C, fog |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 73.874907518125 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Toyota Fluorite: &quot;console-grade&quot; Flutter game engine](https://fluorite.game/)
+> [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 >
-> 🔥 247 points
+> 🔥 308 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
