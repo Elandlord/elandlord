@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Thursday, February 12 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, February 12 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌫️ Groningen | 5°C, fog |
+| 🌫️ Groningen | 6°C, fog |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 73.874907518125 days |
+| 🎉 King&#039;s Day | 73.749907812176 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Discord/Twitch/Snapchat age verification bypass](https://age-verifier.kibty.town/)
 >
-> 🔥 308 points
+> 🔥 509 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
