@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Thursday, February 12 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, February 12 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 5°C, overcast clouds |
+| ☁️ Groningen | 6°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 73.583243673218 days |
+| 🎉 King&#039;s Day | 73.458234921065 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Warcraft III Peon Voice Notifications for Claude Code](https://github.com/tonyyont/peon-ping)
+> [AI agent opens a PR write a blogpost to shames the maintainer who closes it](https://github.com/matplotlib/matplotlib/pull/31132)
 >
-> 🔥 271 points
+> 🔥 44 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
