@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Thursday, February 12 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, February 12 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 4°C, drizzle |
+| 🌧️ Groningen | 2°C, light intensity drizzle |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 73.208226064259 days |
+| 🎉 King&#039;s Day | 73.083221173958 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [An AI agent published a hit piece on me](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/)
+> [GPT‑5.3‑Codex‑Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark/)
 >
-> 🔥 502 points
+> 🔥 321 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
