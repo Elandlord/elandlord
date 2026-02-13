@@ -1,6 +1,6 @@
-# Good evening! 🎯
+# Good night! ✨
 
-🏠 **Done for the day** · Friday, February 13 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, February 13 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 0°C, overcast clouds |
+| ☁️ Groningen | -0°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 72.208229288681 days |
+| 🎉 King&#039;s Day | 72.083228999329 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Monosketch](https://monosketch.io/)
+> [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
 >
-> 🔥 429 points
+> 🔥 190 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
