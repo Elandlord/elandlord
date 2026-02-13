@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🏠 **Done for the day** · Friday, February 13 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, February 13 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 1°C, broken clouds |
+| ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 72.291565074919 days |
+| 🎉 King&#039;s Day | 72.208229288681 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Zed editor switching graphics lib from blade to wgpu](https://github.com/zed-industries/zed/pull/46758)
+> [Monosketch](https://monosketch.io/)
 >
-> 🔥 121 points
+> 🔥 429 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
