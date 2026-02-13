@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-😴 **Still sleeping (or should be)** · Friday, February 13 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, February 13 · ⏰ 08:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Last Quarter |
 | ❄️ Groningen | 0°C, light snow |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 72.749910597454 days |
+| 🎉 King&#039;s Day | 72.6665605775 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Resizing windows on macOS Tahoe – the saga continues](https://noheger.at/blog/2026/02/12/resizing-windows-on-macos-tahoe-the-saga-continues/)
 >
-> 🔥 284 points
+> 🔥 387 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
