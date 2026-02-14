@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | -0°C, overcast clouds |
+| ☁️ Groningen | -1°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 71.874892548171 days |
+| 🎉 King&#039;s Day | 71.749917559444 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
+> [NPMX – a fast, modern browser for the NPM registry](https://npmx.dev)
 >
-> 🔥 85 points
+> 🔥 49 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
