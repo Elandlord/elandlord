@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🏠 **Done for the day** · Friday, February 13 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 03:00 CET
 
 ---
 
@@ -36,31 +36,31 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
 | ☁️ Groningen | -0°C, overcast clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 72.083228999329 days |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 71.874892548171 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics/)
+> [An AI Agent Published a Hit Piece on Me – More Things Have Happened](https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/)
 >
-> 🔥 190 points
+> 🔥 85 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
