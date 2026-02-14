@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good evening! ⚡
 
-🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 1°C, clear sky |
+| ☀️ Groningen | -2°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 71.291574718704 days |
+| 🎉 King&#039;s Day | 71.20823111287 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
+> [My smart sleep mask broadcasts users&#039; brainwaves to an open MQTT broker](https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/)
 >
-> 🔥 134 points
+> 🔥 135 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
