@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 0°C, broken clouds |
+| ☀️ Groningen | 1°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 71.458244461238 days |
+| 🎉 King&#039;s Day | 71.291574718704 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Zig – io_uring and Grand Central Dispatch std.Io implementations landed](https://ziglang.org/devlog/2026/#2026-02-13)
+> [Ooh.directory: a place to find good blogs that interest you](https://ooh.directory/)
 >
-> 🔥 130 points
+> 🔥 134 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
