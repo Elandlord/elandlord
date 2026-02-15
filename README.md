@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, February 15 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 15 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ❄️ Groningen | 2°C, light snow |
+| ❄️ Groningen | 0°C, snow |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 70.208236130544 days |
+| 🎉 King&#039;s Day | 70.083236640648 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [LT6502: A 6502-based homebrew laptop](https://github.com/TechPaula/LT6502)
 >
-> 🔥 47 points
+> 🔥 194 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
