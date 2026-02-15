@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, February 15 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 15 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 1°C, overcast clouds |
+| ☁️ Groningen | 2°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 70.458239569213 days |
+| 🎉 King&#039;s Day | 70.291567032141 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
+> [I Fixed Windows Native Development](https://marler8997.github.io/blog/fixed-windows/)
 >
-> 🔥 506 points
+> 🔥 286 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
