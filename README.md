@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, February 15 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 15 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Crescent |
 | ☁️ Groningen | -4°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 70.874909829167 days |
+| 🎉 King&#039;s Day | 70.749904400069 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
+> [I love the work of the ArchWiki maintainers](https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/)
 >
-> 🔥 388 points
+> 🔥 107 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
