@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good night! ⚡
 
-🎉 **Enjoying the weekend** · Saturday, February 14 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 15 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌗
+## Quick Stats 🌘
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | -4°C, few clouds |
+| 🌙 Moon phase | Waning Crescent |
+| ☁️ Groningen | -4°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 71.083231884213 days |
+| 🎉 King&#039;s Day | 70.874909829167 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [News publishers limit Internet Archive access due to AI scraping concerns](https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/)
 >
-> 🔥 202 points
+> 🔥 388 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Code is like humor. When you have to explain it, it&#039;s bad."
+> "First, solve the problem. Then, write the code."
 >
-> — *Cory House*
+> — *John Johnson*
 
 ---
 
 ## Did You Know? 🤓
 
-JavaScript was created in just 10 days.
+The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
