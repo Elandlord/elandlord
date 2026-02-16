@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good morning! 🎮
 
-☕ **Getting ready for work** · Monday, February 16 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, February 16 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌫️ Groningen | 0°C, mist |
+| 🌫️ Groningen | 1°C, mist |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 69.666564712512 days |
+| 🎉 King&#039;s Day | 69.583229226354 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [I want to wash my car. The car wash is 50 meters away. Should I walk or drive?](https://mastodon.world/@knowmadd/116072773118828295)
 >
-> 🔥 28 points
+> 🔥 350 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
