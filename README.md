@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Monday, February 16 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, February 16 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ❄️ Groningen | 0°C, light snow |
+| ❄️ Groningen | 0°C, snow |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 69.87491356456 days |
+| 🎉 King&#039;s Day | 69.749910936794 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [I’m joining OpenAI](https://steipete.me/posts/2026/openclaw)
 >
-> 🔥 525 points
+> 🔥 729 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
