@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Monday, February 16 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, February 16 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 3°C, moderate rain |
+| 🌧️ Groningen | 5°C, light intensity shower rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 69.458229473275 days |
+| 🎉 King&#039;s Day | 69.291575573137 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [MessageFormat: Unicode standard for localizable message strings](https://github.com/unicode-org/message-format-wg)
+> [Ministry of Justice orders deletion of the UK&#039;s largest court reporting database](https://www.legalcheek.com/2026/02/ministry-of-justice-orders-deletion-of-the-uks-largest-court-reporting-database/)
 >
-> 🔥 38 points
+> 🔥 201 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
