@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-☕ **Getting ready for work** · Tuesday, February 17 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, February 17 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 4°C, broken clouds |
+| ☁️ Groningen | 5°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 68.666562908437 days |
+| 🎉 King&#039;s Day | 68.583231095868 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [14-year-old Miles Wu folded origami pattern that holds 10k times its own weight](https://www.smithsonianmag.com/innovation/this-14-year-old-is-using-origami-to-design-emergency-shelters-that-are-sturdy-cost-efficient-and-easy-to-deploy-180988179/)
+> [Four Column ASCII (2017)](https://garbagecollected.org/2017/01/31/four-column-ascii/)
 >
-> 🔥 572 points
+> 🔥 111 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
