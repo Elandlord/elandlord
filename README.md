@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎨
 
-🏠 **Done for the day** · Tuesday, February 17 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, February 17 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 4°C, broken clouds |
+| ☁️ Groningen | 3°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 68.291566581551 days |
+| 🎉 King&#039;s Day | 68.208230611956 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [America&#039;s Pensions Can&#039;t Beat Vanguard but They Can Close Your Hospital](https://www.governance.fyi/p/americas-pensions-cant-beat-a-vanguard)
+> [HackMyClaw](https://hackmyclaw.com/)
 >
-> 🔥 50 points
+> 🔥 99 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
