@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Tuesday, February 17 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, February 18 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 3°C, overcast clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 68.083234375984 days |
+| ☁️ Groningen | 1°C, overcast clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 67.874857235012 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway](https://asteroidos.org/news/2-0-release/index.html)
+> [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
 >
-> 🔥 89 points
+> 🔥 860 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
