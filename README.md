@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Wednesday, February 18 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, February 18 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 1°C, scattered clouds |
+| ☁️ Groningen | 0°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 67.458210187697 days |
+| 🎉 King&#039;s Day | 67.291548695 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Terminals should generate the 256-color palette](https://gist.github.com/jake-stewart/0a8ea46159a7da2c808e5be2177e1783)
+> [AVX2 is slower than SSE2-4.x under Windows ARM emulation](https://blogs.remobjects.com/2026/02/17/nerdsniped-windows-arm-emulation-performance/)
 >
-> 🔥 187 points
+> 🔥 55 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
