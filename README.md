@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Wednesday, February 18 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, February 18 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 1°C, overcast clouds |
+| ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 67.874857235012 days |
+| 🎉 King&#039;s Day | 67.749897636991 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
+> [Halt and Catch Fire: TV&#039;s Best Drama You&#039;ve Probably Never Heard Of (2021)](https://www.sceneandheardnu.com/content/halt-and-catch-fire)
 >
-> 🔥 860 points
+> 🔥 184 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
