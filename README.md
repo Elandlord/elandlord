@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-☕ **Getting ready for work** · Wednesday, February 18 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, February 18 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | -0°C, overcast clouds |
+| ☁️ Groningen | 0°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 67.666562436123 days |
+| 🎉 King&#039;s Day | 67.583234092523 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [15 years later, Microsoft morged my diagram](https://nvie.com/posts/15-years-later/)
 >
-> 🔥 91 points
+> 🔥 370 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
