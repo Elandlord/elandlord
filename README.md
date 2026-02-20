@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Friday, February 20 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, February 20 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 0°C, overcast clouds |
+| ☁️ Groningen | -0°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 65.874894268218 days |
+| 🎉 King&#039;s Day | 65.749899366898 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
+> [An AI Agent Published a Hit Piece on Me – The Operator Came Forward](https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/)
 >
-> 🔥 531 points
+> 🔥 188 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
