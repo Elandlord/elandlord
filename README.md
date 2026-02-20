@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Friday, February 20 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, February 20 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 1°C, overcast clouds |
+| ☁️ Groningen | 3°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 65.583226356181 days |
+| 🎉 King&#039;s Day | 65.458221935532 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Defer available in gcc and clang](https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/)
+> [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
 >
-> 🔥 126 points
+> 🔥 107 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
