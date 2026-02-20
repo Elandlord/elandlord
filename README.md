@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Friday, February 20 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, February 20 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 3°C, overcast clouds |
+| 🌧️ Groningen | 6°C, light intensity drizzle |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 65.458221935532 days |
+| 🎉 King&#039;s Day | 65.291557916412 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The path to ubiquitous AI (17k tokens/sec)](https://taalas.com/the-path-to-ubiquitous-ai/)
+> [Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI](https://github.com/ggml-org/llama.cpp/discussions/19759)
 >
-> 🔥 107 points
+> 🔥 240 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
