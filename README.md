@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good evening! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, February 21 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 21 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 10°C, broken clouds |
+| ☁️ Groningen | 9°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 64.291557871157 days |
+| 🎉 King&#039;s Day | 64.208232824618 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I Verified My LinkedIn Identity. Here&#039;s What I Handed Over](https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/)
+> [What Not to Write on Your Security Clearance Form](https://milk.com/wall-o-shame/security_clearance.html)
 >
-> 🔥 519 points
+> 🔥 115 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
