@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, February 21 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌑
+## Quick Stats 🌒
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 9°C, broken clouds |
+| 🌙 Moon phase | Waxing Crescent |
+| ☁️ Groningen | 10°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 64.083222857731 days |
+| 🎉 King&#039;s Day | 63.874909693484 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Parse, Don&#039;t Validate and Type-Driven Design in Rust](https://www.harudagondi.space/blog/parse-dont-validate-and-type-driven-design-in-rust/)
+> [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 >
-> 🔥 43 points
+> 🔥 87 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
