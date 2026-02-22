@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good evening! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 19:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 11°C, overcast clouds |
+| ☁️ Groningen | 9°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 63.291560952083 days |
+| 🎉 King&#039;s Day | 63.208241912419 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Attention Media ≠ Social Networks](https://susam.net/attention-media-vs-social-networks.html)
 >
-> 🔥 195 points
+> 🔥 305 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
