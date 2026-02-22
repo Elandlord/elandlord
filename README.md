@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good afternoon! ✨
 
-🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌧️ Groningen | 10°C, light rain |
+| ☁️ Groningen | 10°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 63.58323006956 days |
+| 🎉 King&#039;s Day | 63.458236659641 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
+> [Back to FreeBSD: Part 1](https://hypha.pub/back-to-freebsd-part-1)
 >
-> 🔥 479 points
+> 🔥 53 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
