@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌧️ Groningen | 10°C, heavy intensity rain |
+| 🌧️ Groningen | 10°C, light rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 63.666567101667 days |
+| 🎉 King&#039;s Day | 63.58323006956 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [U.S. Cannot Legally Impose Tariffs Using Section 122 of the Trade Act of 1974](https://ielp.worldtradelaw.net/2026/01/guest-post-president-trump-cannot-legally-impose-tariffs-using-section-122-of-the-trade-act-of-1974/)
+> [How I use Claude Code: Separation of planning and execution](https://boristane.com/blog/how-i-use-claude-code/)
 >
-> 🔥 23 points
+> 🔥 479 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
