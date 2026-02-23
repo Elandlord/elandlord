@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Monday, February 23 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, February 23 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 10°C, overcast clouds |
+| 🌧️ Groningen | 9°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 62.458238330428 days |
+| 🎉 King&#039;s Day | 62.291557614803 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ladybird Browser adopts Rust](https://ladybird.org/posts/adopting-rust/)
+> [The Age Verification Trap, Verifying age undermines everyone&#039;s data protection](https://spectrum.ieee.org/age-verification)
 >
-> 🔥 96 points
+> 🔥 243 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
