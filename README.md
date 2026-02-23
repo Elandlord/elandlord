@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, February 22 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, February 23 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 8°C, few clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 63.083227149745 days |
+| ☁️ Groningen | 8°C, broken clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 King&#039;s Day | 62.874906092882 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [I built Timeframe, our family e-paper dashboard](https://hawksley.org/2026/02/17/timeframe.html)
 >
-> 🔥 140 points
+> 🔥 604 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
