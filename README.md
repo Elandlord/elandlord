@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🏠 **Done for the day** · Monday, February 23 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, February 23 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 9°C, broken clouds |
+| ☁️ Groningen | 8°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 62.208230998993 days |
+| 🎉 King&#039;s Day | 62.083237027801 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Age Verification Trap: Verifying age undermines everyone&#039;s data protection](https://spectrum.ieee.org/age-verification)
+> [UNIX99, a UNIX-like OS for the TI-99/4A](https://forums.atariage.com/topic/380883-unix99-a-unix-like-os-for-the-ti-994a/)
 >
-> 🔥 604 points
+> 🔥 50 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
