@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Tuesday, February 24 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, February 24 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 6°C, overcast clouds |
+| 🌫️ Groningen | 5°C, fog |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 61.874910954838 days |
+| 🎉 King&#039;s Day | 61.749921964606 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Shatner is making an album with 35 metal icons](https://www.guitarworld.com/artists/guitarists/william-shatner-announces-all-star-metal-album)
+> [Blood test boosts Alzheimer&#039;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
 >
-> 🔥 62 points
+> 🔥 113 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
