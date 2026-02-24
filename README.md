@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Tuesday, February 24 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, February 24 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌫️ Groningen | 5°C, fog |
+| 🌫️ Groningen | 7°C, fog |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 61.66656177 days |
+| 🎉 King&#039;s Day | 61.583246306863 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
+> [Terence Tao, at 8 years old (1984) [pdf]](https://gwern.net/doc/iq/high/smpy/1984-clements.pdf)
 >
-> 🔥 68 points
+> 🔥 226 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
