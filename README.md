@@ -1,6 +1,6 @@
-# Good evening! 🌊
+# Good night! ☕
 
-🏠 **Done for the day** · Tuesday, February 24 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, February 24 · ⏰ 22:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 11°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 61.208203649838 days |
+| 🎉 King&#039;s Day | 61.083223632002 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I pitched a roller coaster to Disneyland at age 10 in 1978](https://wordglyph.xyz/one-piece-at-a-time)
+> [I&#039;m helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
 >
-> 🔥 251 points
+> 🔥 388 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
