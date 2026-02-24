@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Tuesday, February 24 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, February 24 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | 🌫️ Groningen | 5°C, fog |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 61.749921964606 days |
+| 🎉 King&#039;s Day | 61.66656177 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Blood test boosts Alzheimer&#039;s diagnosis accuracy to 94.5%, clinical study shows](https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html)
+> [Firefox 148 Launches with AI Kill Switch Feature and More Enhancements](https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/)
 >
-> 🔥 113 points
+> 🔥 68 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
