@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Wednesday, February 25 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, February 25 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 14°C, few clouds |
+| ☀️ Groningen | 16°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 60.458210763206 days |
+| 🎉 King&#039;s Day | 60.291549792512 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
+> [Never Buy A .online Domain](https://www.0xsid.com/blog/online-tld-is-pain)
 >
-> 🔥 61 points
+> 🔥 327 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
