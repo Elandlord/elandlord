@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good morning! ✨
 
-☕ **Getting ready for work** · Wednesday, February 25 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, February 25 · ⏰ 10:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | 🌫️ Groningen | 11°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 60.666566047593 days |
+| 🎉 King&#039;s Day | 60.583229734907 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I&#039;m helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
+> [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
 >
-> 🔥 811 points
+> 🔥 41 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
