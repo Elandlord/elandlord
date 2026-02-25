@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Wednesday, February 25 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, February 25 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌫️ Groningen | 11°C, mist |
+| ☁️ Groningen | 14°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 60.583229734907 days |
+| 🎉 King&#039;s Day | 60.458210763206 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Sovereignty in a System Prompt](https://pop.rdi.sh/sovereignty-in-a-system-prompt/)
+> [Show HN: A real-time strategy game that AI agents can play](https://llmskirmish.com/)
 >
-> 🔥 41 points
+> 🔥 61 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
