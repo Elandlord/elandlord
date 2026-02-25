@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🏠 **Done for the day** · Tuesday, February 24 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, February 25 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 11°C, overcast clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 61.083223632002 days |
+| 🌫️ Groningen | 11°C, mist |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 60.874899947662 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [I&#039;m helping my dog vibe code games](https://www.calebleak.com/posts/dog-game/)
 >
-> 🔥 388 points
+> 🔥 620 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
