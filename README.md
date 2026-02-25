@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Wednesday, February 25 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, February 25 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 12°C, few clouds |
+| ☁️ Groningen | 3°C, cloudy |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 60.208206894398 days |
+| 🎉 King&#039;s Day | 60.083102098692 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Bus stop balancing is fast, cheap, and effective](https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/)
+> [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
 >
-> 🔥 83 points
+> 🔥 49 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
