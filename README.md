@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Thursday, February 26 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, February 26 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 11°C, clear sky |
+| ☁️ Groningen | 10°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 59.87489861419 days |
+| 🎉 King&#039;s Day | 59.749902828356 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/)
+> [Google API keys weren&#039;t secrets, but then Gemini changed the rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 >
-> 🔥 36 points
+> 🔥 139 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
