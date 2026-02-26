@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Wednesday, February 25 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, February 26 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌒
+## Quick Stats 🌓
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 3°C, cloudy |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 60.083102098692 days |
+| 🌙 Moon phase | First Quarter |
+| ☀️ Groningen | 11°C, clear sky |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 59.87489861419 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Jimi Hendrix was a systems engineer](https://spectrum.ieee.org/jimi-hendrix-systems-engineer)
+> [Jane Street Hit with Terra $40B Insider Trading Suit](https://www.disruptionbanking.com/2026/02/24/jane-street-hit-with-terra-40b-insider-trading-suit/)
 >
-> 🔥 49 points
+> 🔥 36 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
