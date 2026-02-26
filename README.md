@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Thursday, February 26 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, February 26 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 10°C, scattered clouds |
+| ☁️ Groningen | 10°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 59.749902828356 days |
+| 🎉 King&#039;s Day | 59.666553779977 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Google API keys weren&#039;t secrets, but then Gemini changed the rules](https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules)
 >
-> 🔥 139 points
+> 🔥 325 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
