@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-☕ **Getting ready for work** · Friday, February 27 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, February 27 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 10°C, overcast clouds |
+| ☁️ Groningen | 11°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 58.66655404581 days |
+| 🎉 King&#039;s Day | 58.583213013252 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Statement from Dario Amodei on our discussions with the Department of War](https://www.anthropic.com/news/statement-department-of-war)
 >
-> 🔥 1548 points
+> 🔥 1778 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
