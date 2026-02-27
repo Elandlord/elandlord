@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good evening! ☕
 
-🏠 **Done for the day** · Friday, February 27 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, February 27 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌧️ Groningen | 13°C, light rain |
+| 🌧️ Groningen | 11°C, moderate rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 58.291552260289 days |
+| 🎉 King&#039;s Day | 58.208240397778 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We deserve a better streams API for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
+> [A better streams API is possible for JavaScript](https://blog.cloudflare.com/a-better-web-streams-api/)
 >
-> 🔥 97 points
+> 🔥 197 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
