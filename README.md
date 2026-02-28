@@ -1,6 +1,6 @@
-# Good evening! 🎯
+# Good night! ✨
 
-🎉 **Enjoying the weekend** · Saturday, February 28 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 28 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 8°C, overcast clouds |
+| ☁️ Groningen | 6°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 57.208236344317 days |
+| 🎉 King&#039;s Day | 57.08324252522 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cognitive Debt: When Velocity Exceeds Comprehension](https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/)
+> [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
 >
-> 🔥 203 points
+> 🔥 240 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
