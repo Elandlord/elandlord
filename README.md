@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, February 28 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 28 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 11°C, broken clouds |
+| ☁️ Groningen | 12°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 57.583244244873 days |
+| 🎉 King&#039;s Day | 57.458227881701 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We Will Not Be Divided](https://notdivided.org)
+> [OpenAI – How to delete your account](https://help.openai.com/en/articles/6378407-how-to-delete-your-account)
 >
-> 🔥 1525 points
+> 🔥 143 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
