@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, February 28 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Saturday, February 28 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌧️ Groningen | 11°C, moderate rain |
+| ☁️ Groningen | 11°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 57.749895828727 days |
+| 🎉 King&#039;s Day | 57.666562958414 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [We Will Not Be Divided](https://notdivided.org)
 >
-> 🔥 895 points
+> 🔥 1188 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
