@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🎉 **Enjoying the weekend** · Sunday, March 1 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 1 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 12°C, scattered clouds |
+| ☁️ Groningen | 13°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 56.458232995579 days |
+| 🎉 King&#039;s Day | 56.291570586215 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
+> [AI Made Writing Code Easier. It Made Being an Engineer Harder](https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/)
 >
-> 🔥 969 points
+> 🔥 175 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
