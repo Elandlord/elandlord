@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, February 28 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 1 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌓
+## Quick Stats 🌔
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 6°C, broken clouds |
+| 🌙 Moon phase | Waxing Gibbous |
+| ☀️ Groningen | 5°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 57.08324252522 days |
+| 🎉 King&#039;s Day | 56.874905320938 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Obsidian Sync now has a headless client](https://help.obsidian.md/sync/headless)
+> [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
 >
-> 🔥 240 points
+> 🔥 229 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
