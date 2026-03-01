@@ -1,6 +1,6 @@
-# Good evening! ⚡
+# Good night! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, March 1 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 1 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 11°C, overcast clouds |
+| ☁️ Groningen | 11°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 56.208233947836 days |
+| 🎉 King&#039;s Day | 56.083219865012 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ghostty – Terminal Emulator](https://ghostty.org/docs)
+> [Microgpt explained interactively](https://growingswe.com/blog/microgpt)
 >
-> 🔥 269 points
+> 🔥 65 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
