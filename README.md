@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Sunday, March 1 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 1 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 5°C, clear sky |
+| ☁️ Groningen | 5°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 56.874905320938 days |
+| 🎉 King&#039;s Day | 56.749910222755 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We do not think Anthropic should be designated as a supply chain risk](https://twitter.com/OpenAI/status/2027846016423321831)
+> [Microgpt](http://karpathy.github.io/2026/02/12/microgpt/)
 >
-> 🔥 229 points
+> 🔥 343 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
