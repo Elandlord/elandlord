@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🏠 **Done for the day** · Monday, March 2 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, March 2 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 8°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 55.20823688044 days |
+| 🎉 King&#039;s Day | 55.083233771053 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Motorola announces a partnership with GrapheneOS Foundation](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
+> [Motorola announces a partnership with GrapheneOS](https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/)
 >
-> 🔥 1514 points
+> 🔥 1820 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
