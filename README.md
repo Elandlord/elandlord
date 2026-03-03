@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Tuesday, March 3 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, March 3 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 7°C, clear sky |
+| ☁️ Groningen | 4°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 54.208231301794 days |
+| 🎉 King&#039;s Day | 54.083235819109 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I&#039;m reluctant to verify my identity or age for any online services](https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/)
+> [Intel&#039;s make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
 >
-> 🔥 490 points
+> 🔥 139 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
