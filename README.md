@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Tuesday, March 3 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, March 3 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 6°C, broken clouds |
+| ☁️ Groningen | 6°C, scattered clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 54.8748827314 days |
+| 🎉 King&#039;s Day | 54.749892724931 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The workers behind Meta’s smart glasses can see everything](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
+> [A hidden workforce behind Meta’s new smart glasses](https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything)
 >
-> 🔥 516 points
+> 🔥 797 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
