@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎨
 
-🏠 **Done for the day** · Wednesday, March 4 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, March 4 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 13°C, few clouds |
+| ☀️ Groningen | 10°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 53.291564818738 days |
+| 🎉 King&#039;s Day | 53.208231671516 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nobody Gets Promoted for Simplicity](https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/)
+> [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
 >
-> 🔥 386 points
+> 🔥 728 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
