@@ -1,6 +1,6 @@
-# Good evening! 🎨
+# Good night! 🌟
 
-🏠 **Done for the day** · Wednesday, March 4 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, March 4 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 10°C, clear sky |
+| ☀️ Groningen | 8°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 53.208231671516 days |
+| 🎉 King&#039;s Day | 53.083237775775 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+> [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
 >
-> 🔥 728 points
+> 🔥 263 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
