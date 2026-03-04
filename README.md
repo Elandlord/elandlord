@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ✨
 
-🏠 **Done for the day** · Tuesday, March 3 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, March 4 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 4°C, overcast clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 54.083235819109 days |
+| ☁️ Groningen | 1°C, overcast clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 53.874904330451 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Intel&#039;s make-or-break 18A process node debuts for data center with 288-core Xeon](https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech)
+> [2,218 Gary Marcus AI claims scored against evidence (dataset)](https://github.com/davegoldblatt/marcus-claims-dataset)
 >
-> 🔥 139 points
+> 🔥 49 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Experience is the name everyone gives to their mistakes."
+> "The best error message is the one that never shows up."
 >
-> — *Oscar Wilde*
+> — *Thomas Fuchs*
 
 ---
 
 ## Did You Know? 🤓
 
-&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
+There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
