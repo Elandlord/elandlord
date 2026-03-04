@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Wednesday, March 4 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, March 4 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 6°C, broken clouds |
+| ☁️ Groningen | 10°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 53.583238524873 days |
+| 🎉 King&#039;s Day | 53.458144743646 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Motorola GrapheneOS devices will be bootloader unlockable/relockable](https://grapheneos.social/@GrapheneOS/116160393783585567)
 >
-> 🔥 584 points
+> 🔥 810 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
