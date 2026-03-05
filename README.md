@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🏠 **Done for the day** · Thursday, March 5 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, March 5 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 17°C, clear sky |
+| ☀️ Groningen | 13°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 52.291568753912 days |
+| 🎉 King&#039;s Day | 52.208237046516 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Google Safe Browsing missed 84% of phishing sites we found in February](https://www.norn-labs.com/blog/huginn-report-feb-2026)
+> [Wikipedia in read-only mode following mass admin account compromise](https://www.wikimediastatus.net)
 >
-> 🔥 37 points
+> 🔥 300 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
