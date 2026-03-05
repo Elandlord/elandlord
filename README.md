@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Wednesday, March 4 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, March 5 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 8°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 53.083237775775 days |
+| 🌫️ Groningen | 4°C, mist |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 52.874906162326 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [An interactive map of FLock Cams](https://deflock.org/map#map=5/37.125286/-96.284180)
+> [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
 >
-> 🔥 263 points
+> 🔥 1556 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
