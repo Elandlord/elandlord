@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Thursday, March 5 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, March 5 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 8°C, clear sky |
+| ☀️ Groningen | 15°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 52.58324543809 days |
+| 🎉 King&#039;s Day | 52.458205547766 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
 >
-> 🔥 51 points
+> 🔥 135 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
