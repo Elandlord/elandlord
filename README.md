@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Thursday, March 5 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, March 5 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | 🌫️ Groningen | 4°C, mist |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 52.874906162326 days |
+| 🎉 King&#039;s Day | 52.749899962419 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [MacBook Neo](https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/)
+> [Google Workspace CLI](https://github.com/googleworkspace/cli)
 >
-> 🔥 1556 points
+> 🔥 290 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
