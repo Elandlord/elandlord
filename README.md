@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Thursday, March 5 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, March 5 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 15°C, clear sky |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 52.458205547766 days |
+| 🎉 King&#039;s Day | 52.291568753912 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nvidia PersonaPlex 7B on Apple Silicon: Full-Duplex Speech-to-Speech in Swift](https://blog.ivan.digital/nvidia-personaplex-7b-on-apple-silicon-full-duplex-speech-to-speech-in-native-swift-with-mlx-0aa5276f2e23)
+> [Google Safe Browsing missed 84% of phishing sites we found in February](https://www.norn-labs.com/blog/huginn-report-feb-2026)
 >
-> 🔥 135 points
+> 🔥 37 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
