@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Friday, March 6 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, March 6 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 6°C, clear sky |
+| ☁️ Groningen | 2°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 51.874901842523 days |
+| 🎉 King&#039;s Day | 51.749903830197 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [CBP tapped into the online advertising ecosystem to track peoples’ movements](https://www.404media.co/cbp-tapped-into-the-online-advertising-ecosystem-to-track-peoples-movements/)
+> [GPT-5.4](https://openai.com/index/introducing-gpt-5-4/)
 >
-> 🔥 316 points
+> 🔥 711 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
