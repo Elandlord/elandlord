@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good evening! 📚
 
-🏠 **Done for the day** · Friday, March 6 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, March 6 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 17°C, broken clouds |
+| ☁️ Groningen | 13°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 51.29154343735 days |
+| 🎉 King&#039;s Day | 51.20824228816 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Workers who love &#039;synergizing paradigms&#039; might be bad at their jobs](https://news.cornell.edu/stories/2026/03/workers-who-love-synergizing-paradigms-might-be-bad-their-jobs)
+> [Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting](https://github.com/moongate-community/moongatev2)
 >
-> 🔥 219 points
+> 🔥 101 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
