@@ -1,6 +1,6 @@
-# Good evening! 🌟
+# Good night! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 7°C, mist |
+| 🌫️ Groningen | 6°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 50.208242248762 days |
+| 🎉 King&#039;s Day | 50.083248088287 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 >
-> 🔥 53 points
+> 🔥 162 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
