@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 8°C, mist |
+| 🌫️ Groningen | 7°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 50.291567428426 days |
+| 🎉 King&#039;s Day | 50.208242248762 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ki Editor - an editor that operates on the AST](https://ki-editor.org/)
+> [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
 >
-> 🔥 198 points
+> 🔥 53 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
