@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🏠 **Done for the day** · Friday, March 6 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 8°C, broken clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 51.083167587199 days |
+| ☁️ Groningen | 7°C, broken clouds |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 50.874877396539 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ada 2022](https://www.adaic.org/ada-resources/standards/ada22/)
+> [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
 >
-> 🔥 43 points
+> 🔥 135 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
