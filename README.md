@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 5°C, fog |
+| 🌫️ Groningen | 7°C, fog |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 50.666576102824 days |
+| 🎉 King&#039;s Day | 50.583229315938 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Plasma Bigscreen – 10-foot interface for KDE plasma](https://plasma-bigscreen.org)
 >
-> 🔥 307 points
+> 🔥 390 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
