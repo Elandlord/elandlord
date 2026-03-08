@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, March 8 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 8 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 10°C, few clouds |
+| 🌫️ Groningen | 6°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 49.208232898808 days |
+| 🎉 King&#039;s Day | 49.08322515735 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Based on its own charter, OpenAI should surrender the race](https://mlumiste.com/general/openai-charter/)
+> [Neural Boids](https://campedersen.com/noid)
 >
-> 🔥 143 points
+> 🔥 31 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
