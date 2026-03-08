@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good night! 🌟
 
-🎉 **Enjoying the weekend** · Saturday, March 7 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 8 · ⏰ 03:00 CET
 
 ---
 
@@ -37,30 +37,30 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | 🌫️ Groningen | 6°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 50.083248088287 days |
+| 🎉 King&#039;s Day | 49.874908601933 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A Decade of Docker Containers](https://cacm.acm.org/research/a-decade-of-docker-containers/)
+> [Cloud VM benchmarks 2026: performance/price for 44 VM types over 7 providers](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
 >
-> 🔥 162 points
+> 🔥 34 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Any fool can write code that a computer can understand."
+> "Programs must be written for people to read."
 >
-> — *Martin Fowler*
+> — *Harold Abelson*
 
 ---
 
 ## Did You Know? 🤓
 
-Email is older than the World Wide Web.
+The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
