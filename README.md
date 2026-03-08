@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-🎉 **Enjoying the weekend** · Sunday, March 8 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 8 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 5°C, mist |
+| 🌫️ Groningen | 8°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 49.666553617477 days |
+| 🎉 King&#039;s Day | 49.583245194664 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cloud VM benchmarks 2026](https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html)
+> [SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI](https://arxiv.org/abs/2603.03823)
 >
-> 🔥 171 points
+> 🔥 18 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
