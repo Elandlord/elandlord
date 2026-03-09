@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good evening! 🎮
 
-🏠 **Done for the day** · Monday, March 9 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, March 9 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 16°C, clear sky |
+| ☀️ Groningen | 12°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 48.291561793715 days |
+| 🎉 King&#039;s Day | 48.208237097847 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The engine of Germany&#039;s wealth is blocking its future](https://europeancorrespondent.com/en/r/the-engine-of-germanys-wealth-is-blocking-its-future)
+> [Florida Judge Rules Red Light Camera Tickets Are Unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
 >
-> 🔥 104 points
+> 🔥 45 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
