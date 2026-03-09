@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🏠 **Done for the day** · Monday, March 9 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, March 9 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 12°C, clear sky |
+| 🌫️ Groningen | 6°C, fog |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 48.208237097847 days |
+| 🎉 King&#039;s Day | 48.083231142859 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Florida Judge Rules Red Light Camera Tickets Are Unconstitutional](https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional)
+> [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
 >
-> 🔥 45 points
+> 🔥 241 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
