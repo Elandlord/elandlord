@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, March 8 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, March 9 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 6°C, mist |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 49.08322515735 days |
+| 🌫️ Groningen | 2°C, fog |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 King&#039;s Day | 48.874891934259 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Neural Boids](https://campedersen.com/noid)
+> [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
 >
-> 🔥 31 points
+> 🔥 318 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
