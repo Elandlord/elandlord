@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Monday, March 9 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, March 9 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 2°C, fog |
+| 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 48.874891934259 days |
+| 🎉 King&#039;s Day | 48.749906193877 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Agent Safehouse – macOS-native sandboxing for local agents](https://agent-safehouse.dev/)
 >
-> 🔥 318 points
+> 🔥 436 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
