@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-☕ **Getting ready for work** · Tuesday, March 10 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, March 10 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌫️ Groningen | 3°C, mist |
+| 🌫️ Groningen | 9°C, mist |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 47.666549500833 days |
+| 🎉 King&#039;s Day | 47.583221448993 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Two Years of Emacs Solo](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
+> [Lotus 1-2-3 on the PC with DOS](https://stonetools.ghost.io/lotus123-dos/)
 >
-> 🔥 173 points
+> 🔥 68 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
