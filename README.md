@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Tuesday, March 10 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, March 10 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌫️ Groningen | 9°C, mist |
+| ☁️ Groningen | 17°C, few clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 47.583221448993 days |
+| 🎉 King&#039;s Day | 47.458227464155 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Lotus 1-2-3 on the PC with DOS](https://stonetools.ghost.io/lotus123-dos/)
+> [I put my whole life into a single database](https://howisfelix.today/)
 >
-> 🔥 68 points
+> 🔥 64 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
