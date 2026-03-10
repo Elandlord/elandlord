@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🏠 **Done for the day** · Tuesday, March 10 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, March 10 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 11°C, broken clouds |
+| ☁️ Groningen | 10°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 47.208217787407 days |
+| 🎉 King&#039;s Day | 47.08321630397 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 >
-> 🔥 747 points
+> 🔥 1135 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
