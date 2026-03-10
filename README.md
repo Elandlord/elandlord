@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Tuesday, March 10 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, March 10 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌫️ Groningen | 2°C, fog |
+| 🌫️ Groningen | 3°C, mist |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 47.749906300671 days |
+| 🎉 King&#039;s Day | 47.666549500833 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Learnings from paying artists royalties for AI-generated art](https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/)
+> [Two Years of Emacs Solo](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
 >
-> 🔥 52 points
+> 🔥 173 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
