@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Tuesday, March 10 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, March 10 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 17°C, few clouds |
+| 🌧️ Groningen | 14°C, drizzle |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 47.458227464155 days |
+| 🎉 King&#039;s Day | 47.291550667616 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I put my whole life into a single database](https://howisfelix.today/)
+> [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 >
-> 🔥 64 points
+> 🔥 255 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
