@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🏠 **Done for the day** · Monday, March 9 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, March 10 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌖
+## Quick Stats 🌗
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 6°C, fog |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 48.083231142859 days |
+| 🌙 Moon phase | Last Quarter |
+| 🌫️ Groningen | 3°C, fog |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 King&#039;s Day | 47.874894423449 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Building a Procedural Hex Map with Wave Function Collapse](https://felixturner.github.io/hex-map-wfc/article/)
+> [Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor](https://www.rahuljuliato.com/posts/emacs-solo-two-years)
 >
-> 🔥 241 points
+> 🔥 66 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
