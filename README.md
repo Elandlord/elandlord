@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good evening! 🌊
 
-🏠 **Done for the day** · Wednesday, March 11 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, March 11 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 10°C, scattered clouds |
+| ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 46.291546599942 days |
+| 🎉 King&#039;s Day | 46.20821652081 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Lego&#039;s 0.002 mm Specification and Its Implications for Manufacturing (2025)](https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/)
+> [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
 >
-> 🔥 203 points
+> 🔥 181 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
