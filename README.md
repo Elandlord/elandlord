@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Wednesday, March 11 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, March 11 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 9°C, overcast clouds |
+| 🌧️ Groningen | 10°C, moderate rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 46.666563224259 days |
+| 🎉 King&#039;s Day | 46.58322368272 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Create value for others and don’t worry about the returns](https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html)
+> [Why does AI tell you to use Terminal so much?](https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/)
 >
-> 🔥 73 points
+> 🔥 21 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
