@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Tuesday, March 10 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, March 11 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 10°C, broken clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 47.08321630397 days |
+| ☁️ Groningen | 9°C, few clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 46.874903883437 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Tony Hoare has died](https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html)
 >
-> 🔥 1135 points
+> 🔥 1502 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Deleted code is debugged code."
+> "The only way to go fast, is to go well."
 >
-> — *Jeff Sickel*
+> — *Robert C. Martin*
 
 ---
 
 ## Did You Know? 🤓
 
-The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
+The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
