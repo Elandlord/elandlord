@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🏠 **Done for the day** · Thursday, March 12 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, March 12 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 12°C, broken clouds |
+| ☁️ Groningen | 11°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 45.291544067604 days |
+| 🎉 King&#039;s Day | 45.20821154728 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [US- and Greek-owned tankers ablaze after Iran claims &#039;underwater drone&#039; strike](https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters)
+> [Malus – Clean Room as a Service](https://malus.sh)
 >
-> 🔥 84 points
+> 🔥 545 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
