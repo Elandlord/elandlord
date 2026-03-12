@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Thursday, March 12 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, March 12 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 12°C, few clouds |
+| ☁️ Groningen | 12°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 45.458183805324 days |
+| 🎉 King&#039;s Day | 45.291544067604 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
+> [US- and Greek-owned tankers ablaze after Iran claims &#039;underwater drone&#039; strike](https://www.lloydslist.com/LL1156592/US--and-Greek-owned-tankers-ablaze-after-Iran-claims-underwater-drone-strike-in-Iraqi-waters)
 >
-> 🔥 96 points
+> 🔥 84 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
