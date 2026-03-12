@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Thursday, March 12 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, March 12 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 8°C, clear sky |
+| ☁️ Groningen | 12°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 45.583227985289 days |
+| 🎉 King&#039;s Day | 45.458183805324 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [SBCL: A Sanely-Bootstrappable Common Lisp (2008) [pdf]](https://research.gold.ac.uk/id/eprint/2336/1/sbcl.pdf)
+> [3D-Knitting: The Ultimate Guide](https://www.oliver-charles.com/pages/3d-knitting)
 >
-> 🔥 24 points
+> 🔥 96 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
