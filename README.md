@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🏠 **Done for the day** · Wednesday, March 11 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, March 12 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 7°C, scattered clouds |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 46.083200843542 days |
+| ☁️ Groningen | 5°C, few clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 45.874879891516 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Don&#039;t post generated/AI-edited comments. HN is for conversation between humans.](https://news.ycombinator.com/newsguidelines.html#generated)
+> [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
 >
-> 🔥 1053 points
+> 🔥 519 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
