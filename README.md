@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Thursday, March 12 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, March 12 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 5°C, few clouds |
+| ☁️ Groningen | 5°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 45.874879891516 days |
+| 🎉 King&#039;s Day | 45.74988900272 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Temporal: A nine-year journey to fix time in JavaScript](https://bloomberg.github.io/js-blog/post/temporal/)
+> [Show HN: s@: decentralized social networking over static sites](http://satproto.org/)
 >
-> 🔥 519 points
+> 🔥 125 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
