@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Friday, March 13 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, March 13 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 8°C, light rain |
+| ☁️ Groningen | 8°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 44.458226296065 days |
+| 🎉 King&#039;s Day | 44.291546503981 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Bucketsquatting is (finally) dead](https://onecloudplease.com/blog/bucketsquatting-is-finally-dead)
+> [TUI Studio – visual terminal UI design tool](https://tui.studio/)
 >
-> 🔥 121 points
+> 🔥 298 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
