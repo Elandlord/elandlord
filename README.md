@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Friday, March 13 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, March 13 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 10°C, overcast clouds |
+| 🌧️ Groningen | 10°C, light rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 44.874905595266 days |
+| 🎉 King&#039;s Day | 44.749903435741 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
+> [Willingness to look stupid](https://sharif.io/looking-stupid)
 >
-> 🔥 818 points
+> 🔥 35 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
