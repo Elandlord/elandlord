@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🏠 **Done for the day** · Friday, March 13 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, March 13 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 5°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 44.2081973339 days |
+| 🎉 King&#039;s Day | 44.083212761586 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Meta Platforms: Lobbying, dark money, and the App Store Accountability Act](https://github.com/upper-up/meta-lobbying-and-other-findings)
+> [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
 >
-> 🔥 998 points
+> 🔥 243 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
