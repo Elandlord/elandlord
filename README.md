@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Thursday, March 12 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, March 13 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌗
+## Quick Stats 🌘
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Last Quarter |
+| 🌙 Moon phase | Waning Crescent |
 | ☁️ Groningen | 10°C, overcast clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 45.083218296852 days |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 King&#039;s Day | 44.874905595266 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [An old photo of a large BBS (2022)](https://rachelbythebay.com/w/2022/01/26/swcbbs/)
+> [Shall I implement it? No](https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0)
 >
-> 🔥 103 points
+> 🔥 818 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
