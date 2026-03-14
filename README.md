@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 7°C, broken clouds |
+| ☁️ Groningen | 6°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 43.458206394884 days |
+| 🎉 King&#039;s Day | 43.291538189699 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code&#039;s binary reveals silent A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
+> [Montana passes Right to Compute act](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
 >
-> 🔥 22 points
+> 🔥 61 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
