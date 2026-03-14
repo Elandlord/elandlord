@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good evening! ☕
 
-🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 5°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 43.291538189699 days |
+| 🎉 King&#039;s Day | 43.208235756782 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Montana passes Right to Compute act](https://www.westernmt.news/2025/04/21/montana-leads-the-nation-with-groundbreaking-right-to-compute-act/)
+> [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
 >
-> 🔥 61 points
+> 🔥 95 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
