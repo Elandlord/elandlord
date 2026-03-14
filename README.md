@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good afternoon! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 5°C, drizzle |
+| ☁️ Groningen | 7°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 43.583191503102 days |
+| 🎉 King&#039;s Day | 43.458206394884 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
+> [Claude Code&#039;s binary reveals silent A/B tests on core features](https://backnotprop.com/blog/do-not-ab-test-my-workflow/)
 >
-> 🔥 646 points
+> 🔥 22 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
