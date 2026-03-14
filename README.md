@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 5°C, overcast clouds |
+| ☁️ Groningen | 4°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 43.208235756782 days |
+| 🎉 King&#039;s Day | 43.08321882147 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [What happens when US economic data becomes unreliable](https://mitsloan.mit.edu/ideas-made-to-matter/what-happens-when-us-economic-data-becomes-unreliable)
+> [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
 >
-> 🔥 95 points
+> 🔥 96 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
