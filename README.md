@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🏠 **Done for the day** · Friday, March 13 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 5°C, overcast clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 44.083212761586 days |
+| ☁️ Groningen | 3°C, overcast clouds |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 43.874896361319 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Channel Surfer – Watch YouTube like it’s cable TV](https://channelsurfer.tv)
+> [1M context is now generally available for Opus 4.6 and Sonnet 4.6](https://claude.com/blog/1m-context-ga)
 >
-> 🔥 243 points
+> 🔥 223 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
