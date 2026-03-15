@@ -1,6 +1,6 @@
-# Good evening! 🎯
+# Good night! ✨
 
-🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 9°C, scattered clouds |
+| ☁️ Groningen | 8°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 42.208242749653 days |
+| 🎉 King&#039;s Day | 42.083230216713 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
+> [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
 >
-> 🔥 19 points
+> 🔥 124 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
