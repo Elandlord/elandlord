@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 11°C, few clouds |
+| ☁️ Groningen | 9°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 42.291568144525 days |
+| 🎉 King&#039;s Day | 42.208242749653 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [What makes Intel Optane stand out (2023)](https://blog.zuthof.nl/2023/06/02/what-makes-intel-optane-stand-out/)
+> [Grandparents are glued to their phones, families are worried [video]](https://www.bbc.com/reel/video/p0n61dg3/grandparents-are-glued-to-their-phones-families-are-worried)
 >
-> 🔥 21 points
+> 🔥 19 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
