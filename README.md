@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 10°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 42.583195667569 days |
+| 🎉 King&#039;s Day | 42.458220731875 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
+> [$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor](https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket)
 >
-> 🔥 136 points
+> 🔥 70 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
