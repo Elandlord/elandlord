@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 1°C, overcast clouds |
+| ☁️ Groningen | 6°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 42.666565594572 days |
+| 🎉 King&#039;s Day | 42.583195667569 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Rack-mount hydroponics](https://sa.lj.am/rack-mount-hydroponics/)
 >
-> 🔥 74 points
+> 🔥 136 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
