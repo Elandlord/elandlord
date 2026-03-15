@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Saturday, March 14 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 4°C, scattered clouds |
+| ☁️ Groningen | 1°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 43.08321882147 days |
+| 🎉 King&#039;s Day | 42.874901042882 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gimp 3.2 Released](https://www.gimp.org/news/2026/03/14/gimp-3-2-released/)
+> [Ageless Linux – Software for humans of indeterminate age](https://agelesslinux.org/)
 >
-> 🔥 96 points
+> 🔥 290 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
