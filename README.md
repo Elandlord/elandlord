@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, March 15 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, March 16 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 8°C, overcast clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 42.083230216713 days |
+| 🌧️ Groningen | 5°C, moderate rain |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 King&#039;s Day | 41.874902023449 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Let your Coding Agent debug the browser session with Chrome DevTools MCP](https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session)
+> [Canada&#039;s bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
 >
-> 🔥 124 points
+> 🔥 335 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
