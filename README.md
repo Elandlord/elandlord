@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Monday, March 16 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, March 16 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Crescent |
 | ☁️ Groningen | 5°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 41.749905700336 days |
+| 🎉 King&#039;s Day | 41.666568919954 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Canada&#039;s bill C-22 mandates mass metadata surveillance of Canadians](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
+> [Canada&#039;s bill C-22 mandates mass metadata surveillance](https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/)
 >
-> 🔥 511 points
+> 🔥 597 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
