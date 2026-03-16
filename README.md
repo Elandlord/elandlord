@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good evening! ⚡
 
-🏠 **Done for the day** · Monday, March 16 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, March 16 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 10°C, few clouds |
+| ☁️ Groningen | 8°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 41.291548579884 days |
+| 🎉 King&#039;s Day | 41.208211711262 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Corruption erodes social trust more in democracies than in autocracies](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2026.1779810/full)
+> [Kevin Boone: The &quot;small web&quot; is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
 >
-> 🔥 94 points
+> 🔥 35 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
