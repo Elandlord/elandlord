@@ -1,6 +1,6 @@
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Monday, March 16 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, March 16 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 8°C, broken clouds |
+| ☁️ Groningen | 5°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 41.208211711262 days |
+| 🎉 King&#039;s Day | 41.083217274711 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kevin Boone: The &quot;small web&quot; is bigger than you might think](https://kevinboone.me/small_web_is_big.html)
+> [Meta’s renewed commitment to jemalloc](https://engineering.fb.com/2026/03/02/data-infrastructure/investing-in-infrastructure-metas-renewed-commitment-to-jemalloc/)
 >
-> 🔥 35 points
+> 🔥 223 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
