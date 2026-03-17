@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Tuesday, March 17 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, March 17 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 7°C, overcast clouds |
+| ☁️ Groningen | 8°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 40.666558320127 days |
+| 🎉 King&#039;s Day | 40.583221661678 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kagi Translate now supports LinkedIn Speak as an output language](https://translate.kagi.com/?from=en&amp;to=LinkedIn+speak)
+> [Leanstral: Open-source agent for trustworthy coding and formal proof engineering](https://mistral.ai/news/leanstral)
 >
-> 🔥 291 points
+> 🔥 505 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
