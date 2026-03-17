@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Tuesday, March 17 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, March 17 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 10°C, overcast clouds |
+| ☁️ Groningen | 11°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 40.458213605995 days |
+| 🎉 King&#039;s Day | 40.291543649664 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kagi Small Web](https://kagi.com/smallweb/)
+> [Give Django your time and money, not your tokens](https://www.better-simple.com/django/2026/03/16/give-django-your-time-and-money/)
 >
-> 🔥 189 points
+> 🔥 101 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
