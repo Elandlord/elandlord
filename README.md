@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good morning! 🎨
 
-😴 **Still sleeping (or should be)** · Tuesday, March 17 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, March 17 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 7°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 40.874891517731 days |
+| 🎉 King&#039;s Day | 40.749885946655 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [US SEC preparing to scrap quarterly reporting requirement](https://www.reuters.com/business/finance/us-sec-preparing-eliminate-quarterly-reporting-requirement-wsj-says-2026-03-16/)
 >
-> 🔥 232 points
+> 🔥 432 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
