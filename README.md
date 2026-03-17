@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🏠 **Done for the day** · Tuesday, March 17 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, March 17 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 11°C, overcast clouds |
+| ☁️ Groningen | 10°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 40.2082345525 days |
+| 🎉 King&#039;s Day | 40.083198226065 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft&#039;s &#039;unhackable&#039; Xbox One has been hacked by &#039;Bliss&#039;](https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level)
+> [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
 >
-> 🔥 191 points
+> 🔥 174 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
