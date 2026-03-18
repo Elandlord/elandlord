@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Wednesday, March 18 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, March 18 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 9°C, broken clouds |
+| ☁️ Groningen | 8°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 39.749886010185 days |
+| 🎉 King&#039;s Day | 39.666511511887 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory)
+> [Have a Fucking Website](https://www.otherstrangeness.com/2026/03/14/have-a-fucking-website/)
 >
-> 🔥 108 points
+> 🔥 197 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
