@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Wednesday, March 18 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, March 18 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 10°C, broken clouds |
+| ☁️ Groningen | 9°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 39.874885168079 days |
+| 🎉 King&#039;s Day | 39.749886010185 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
+> [More than 135 open hardware devices flashable with your own firmware](https://openhardware.directory)
 >
-> 🔥 416 points
+> 🔥 108 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
