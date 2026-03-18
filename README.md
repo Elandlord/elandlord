@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Wednesday, March 18 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, March 18 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 12°C, few clouds |
+| ☁️ Groningen | 14°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 39.583219745625 days |
+| 🎉 King&#039;s Day | 39.458123195845 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [JPEG Compression](https://www.sophielwang.com/blog/jpeg)
+> [Rob Pike&#039;s 5 Rules of Programming](https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html)
 >
-> 🔥 138 points
+> 🔥 127 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
