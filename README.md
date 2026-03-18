@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good night! 🔥
 
-🏠 **Done for the day** · Tuesday, March 17 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, March 18 · ⏰ 03:00 CET
 
 ---
 
@@ -36,8 +36,8 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | New Moon |
 | ☁️ Groningen | 10°C, broken clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 40.083198226065 days |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 39.874885168079 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [A Decade of Slug](https://terathon.com/blog/decade-slug.html)
 >
-> 🔥 174 points
+> 🔥 416 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "First, solve the problem. Then, write the code."
+> "Experience is the name everyone gives to their mistakes."
 >
-> — *John Johnson*
+> — *Oscar Wilde*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer virus was created in 1983 as an experiment.
+&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
