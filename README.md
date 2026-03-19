@@ -1,6 +1,6 @@
-# Good evening! 🎨
+# Good night! 🌟
 
-🏠 **Done for the day** · Thursday, March 19 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, March 19 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 11°C, overcast clouds |
+| ☁️ Groningen | 7°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 38.208159850556 days |
+| 🎉 King&#039;s Day | 38.083196254769 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Astral to Join OpenAI](https://astral.sh/blog/openai)
 >
-> 🔥 802 points
+> 🔥 1041 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
