@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Thursday, March 19 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, March 19 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☀️ Groningen | 9°C, clear sky |
+| ☁️ Groningen | 14°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 38.583226855486 days |
+| 🎉 King&#039;s Day | 38.458224372095 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Translate Garry Tan&#039;s LinkedIn-speak to plain English](https://github.com/garrytan/gstack/pull/213)
+> [2% of ICML papers desk rejected because the authors used LLM in their reviews](https://blog.icml.cc/2026/03/18/on-violations-of-llm-review-policies/)
 >
-> 🔥 6 points
+> 🔥 92 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
