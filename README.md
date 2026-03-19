@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-☕ **Getting ready for work** · Thursday, March 19 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, March 19 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☀️ Groningen | -0°C, clear sky |
+| ☀️ Groningen | 9°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 38.666539443715 days |
+| 🎉 King&#039;s Day | 38.583226855486 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code)
+> [Translate Garry Tan&#039;s LinkedIn-speak to plain English](https://github.com/garrytan/gstack/pull/213)
 >
-> 🔥 201 points
+> 🔥 6 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
