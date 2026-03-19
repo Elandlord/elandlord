@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Thursday, March 19 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, March 19 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 4°C, overcast clouds |
+| 🌫️ Groningen | -0°C, mist |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 38.874883651528 days |
+| 🎉 King&#039;s Day | 38.749876537361 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Austin’s surge of new housing construction drove down rents](https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents)
+> [Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)
 >
-> 🔥 223 points
+> 🔥 85 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
