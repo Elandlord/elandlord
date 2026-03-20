@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Thursday, March 19 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, March 20 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 7°C, overcast clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 38.083196254769 days |
+| ☁️ Groningen | 5°C, overcast clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 King&#039;s Day | 37.874890204803 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Astral to Join OpenAI](https://astral.sh/blog/openai)
+> [Claude Code: Channels](https://code.claude.com/docs/en/channels)
 >
-> 🔥 1041 points
+> 🔥 143 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
