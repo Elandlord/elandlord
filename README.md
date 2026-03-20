@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Friday, March 20 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, March 20 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 5°C, overcast clouds |
+| ☁️ Groningen | 5°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 37.874890204803 days |
+| 🎉 King&#039;s Day | 37.749875045312 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code: Channels](https://code.claude.com/docs/en/channels)
+> [Push events into a running session with channels](https://code.claude.com/docs/en/channels)
 >
-> 🔥 143 points
+> 🔥 250 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
