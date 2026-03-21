@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, March 21 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 21 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | 🌫️ Groningen | 2°C, fog |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 36.749889589664 days |
+| 🎉 King&#039;s Day | 36.666570842315 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenCode – Open source AI coding agent](https://opencode.ai/)
+> [Google adds 24-hour wait and mandatory reboot to Android sideloading flow](https://android-developers.googleblog.com/2025/08/elevating-android-security.html)
 >
-> 🔥 573 points
+> 🔥 23 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
