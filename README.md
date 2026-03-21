@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good afternoon! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, March 21 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 21 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌫️ Groningen | 4°C, mist |
+| ☁️ Groningen | 6°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 36.458229765394 days |
+| 🎉 King&#039;s Day | 36.291570283264 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenCode – Open source AI coding agent](https://opencode.ai/)
+> [404 Deno CEO not found](https://dbushell.com/2026/03/20/denos-decline-and-layoffs/)
 >
-> 🔥 873 points
+> 🔥 10 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
