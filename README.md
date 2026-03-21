@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good night! 🛠️
 
-🏠 **Done for the day** · Friday, March 20 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 21 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌑
+## Quick Stats 🌒
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 4°C, overcast clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 37.083213661794 days |
+| 🌙 Moon phase | Waxing Crescent |
+| 🌫️ Groningen | 2°C, fog |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 36.874906573576 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [France&#039;s aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html)
+> [OpenCode – Open source AI coding agent](https://opencode.ai/)
 >
-> 🔥 364 points
+> 🔥 435 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Simplicity is the soul of efficiency."
+> "Make it work, make it right, make it fast."
 >
-> — *Austin Freeman*
+> — *Kent Beck*
 
 ---
 
 ## Did You Know? 🤓
 
-The QWERTY keyboard was designed to slow typists down.
+The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
