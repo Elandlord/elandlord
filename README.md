@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 14°C, clear sky |
+| ☀️ Groningen | 13°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 35.29156027316 days |
+| 🎉 King&#039;s Day | 35.208240783264 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Bored of eating your own dogfood? Try smelling your own farts](https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/)
+> [The Future of Version Control](https://bramcohen.com/p/manyana)
 >
-> 🔥 193 points
+> 🔥 108 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
