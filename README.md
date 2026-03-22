@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌫️ Groningen | 2°C, mist |
+| 🌫️ Groningen | 3°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 35.749899017766 days |
+| 🎉 King&#039;s Day | 35.66657637191 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
+> [The three pillars of JavaScript bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 >
-> 🔥 84 points
+> 🔥 146 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
