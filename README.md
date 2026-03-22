@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌫️ Groningen | 3°C, mist |
+| 🌫️ Groningen | 2°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 35.874870158287 days |
+| 🎉 King&#039;s Day | 35.749899017766 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+> [The Three Pillars of JavaScript Bloat](https://43081j.com/2026/03/three-pillars-of-javascript-bloat)
 >
-> 🔥 319 points
+> 🔥 84 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
