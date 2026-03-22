@@ -1,6 +1,6 @@
-# Good evening! 🌟
+# Good night! 🏃
 
-🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 13°C, clear sky |
+| ☀️ Groningen | 6°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 35.208240783264 days |
+| 🎉 King&#039;s Day | 35.083221164271 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Future of Version Control](https://bramcohen.com/p/manyana)
+> [We indexed the Delve audit leak: 533 reports, 455 companies, 99.8% identical](https://trustcompliance.xyz)
 >
-> 🔥 108 points
+> 🔥 73 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
