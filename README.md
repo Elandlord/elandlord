@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🎉 **Enjoying the weekend** · Saturday, March 21 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 22 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌫️ Groningen | 4°C, mist |
+| 🌫️ Groningen | 3°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 36.083233089572 days |
+| 🎉 King&#039;s Day | 35.874870158287 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Tinybox- offline AI device 120B parameters](https://tinygrad.org/#tinybox)
+> [Tinybox – Offline AI device 120B parameters](https://tinygrad.org/#tinybox)
 >
-> 🔥 88 points
+> 🔥 319 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
