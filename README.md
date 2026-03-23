@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Monday, March 23 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, March 23 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 10°C, scattered clouds |
+| ☁️ Groningen | 12°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 34.58322210603 days |
+| 🎉 King&#039;s Day | 34.458224156898 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [POSSE – Publish on your Own Site, Syndicate Elsewhere](https://indieweb.org/POSSE)
+> [Migrating to the EU](https://rz01.org/eu-migration/)
 >
-> 🔥 32 points
+> 🔥 160 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
