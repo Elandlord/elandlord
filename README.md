@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Tuesday, March 24 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, March 24 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 10°C, overcast clouds |
+| ☁️ Groningen | 12°C, few clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 33.58320099463 days |
+| 🎉 King&#039;s Day | 33.458142869282 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
+> [Microsoft&#039;s &quot;Fix&quot; for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)
 >
-> 🔥 106 points
+> 🔥 226 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
