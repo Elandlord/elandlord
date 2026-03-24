@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Tuesday, March 24 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, March 24 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 12°C, few clouds |
+| ☁️ Groningen | 12°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 33.458142869282 days |
+| 🎉 King&#039;s Day | 33.291544108125 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft&#039;s &quot;Fix&quot; for Windows 11: Flowers After the Beating](https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/)
+> [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512)
 >
-> 🔥 226 points
+> 🔥 434 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
