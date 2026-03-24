@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Monday, March 23 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, March 24 · ⏰ 03:00 CET
 
 ---
 
@@ -36,31 +36,31 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
 | 🌫️ Groningen | 6°C, mist |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 34.083199912164 days |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 King&#039;s Day | 33.874892295729 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Autoresearch on an old research idea](https://ykumar.me/blog/eclip-autoresearch/)
+> [Windows 3.1 tiled background .bmp archive](https://github.com/andreasjansson/win-3.1-backgrounds)
 >
-> 🔥 149 points
+> 🔥 139 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
