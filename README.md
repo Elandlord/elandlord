@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🏠 **Done for the day** · Tuesday, March 24 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, March 24 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 11°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 33.208096784988 days |
+| 🎉 King&#039;s Day | 33.083117117106 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [LiteLLM Python package compromised by supply-chain attack](https://github.com/BerriAI/litellm/issues/24512)
+> [GitHub is once again down](https://www.githubstatus.com/incidents/kp06czybl7dw)
 >
-> 🔥 653 points
+> 🔥 69 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
