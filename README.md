@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Tuesday, March 24 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, March 24 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 7°C, overcast clouds |
+| ☁️ Groningen | 8°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 33.749901733056 days |
+| 🎉 King&#039;s Day | 33.666542586875 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Epoch confirms GPT5.4 Pro solved a frontier math open problem](https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs)
+> [Box of Secrets: Discreetly modding an apartment intercom to work with Apple Home](https://www.jackhogan.me/blog/box-of-secrets/)
 >
-> 🔥 170 points
+> 🔥 58 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
