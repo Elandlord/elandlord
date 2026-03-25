@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-☕ **Getting ready for work** · Wednesday, March 25 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, March 25 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌧️ Groningen | 7°C, light rain |
+| ☁️ Groningen | 8°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 32.666572690741 days |
+| 🎉 King&#039;s Day | 32.583184048148 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
+> [I Forked Httpx](https://tildeweb.nl/~michiel/httpxyz.html)
 >
-> 🔥 67 points
+> 🔥 31 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
