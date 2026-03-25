@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Wednesday, March 25 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, March 25 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 8°C, few clouds |
+| ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 32.583184048148 days |
+| 🎉 King&#039;s Day | 32.458188933287 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I Forked Httpx](https://tildeweb.nl/~michiel/httpxyz.html)
+> [Meta told to pay $375M for misleading users over child safety](https://www.bbc.com/news/articles/cql75dn07n2o)
 >
-> 🔥 31 points
+> 🔥 88 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
