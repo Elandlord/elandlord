@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Wednesday, March 25 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, March 25 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌧️ Groningen | 10°C, light intensity shower rain |
+| 🌧️ Groningen | 7°C, moderate rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 32.874892292789 days |
+| 🎉 King&#039;s Day | 32.749878793137 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [In Edison’s Revenge, Data Centers Are Transitioning From AC to DC](https://spectrum.ieee.org/data-center-dc)
+> [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
 >
-> 🔥 42 points
+> 🔥 104 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
