@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Wednesday, March 25 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, March 25 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌧️ Groningen | 7°C, moderate rain |
+| 🌧️ Groningen | 7°C, light rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 32.749878793137 days |
+| 🎉 King&#039;s Day | 32.666572690741 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf)
+> [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/)
 >
-> 🔥 104 points
+> 🔥 67 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
