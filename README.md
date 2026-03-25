@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good evening! 🏃
 
-🏠 **Done for the day** · Wednesday, March 25 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, March 25 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 8°C, broken clouds |
+| 🌧️ Groningen | 6°C, light rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 32.291517129514 days |
+| 🎉 King&#039;s Day | 32.208209218102 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Local LLM App by Ente](https://ente.com/blog/ensu/)
+> [My Astrophotography in the Movie Project Hail Mary](https://rpastro.square.site/s/stories/phm)
 >
-> 🔥 178 points
+> 🔥 384 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
