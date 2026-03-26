@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Thursday, March 26 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, March 26 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 3°C, few clouds |
+| ❄️ Groningen | 3°C, snow |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 31.749892098669 days |
+| 🎉 King&#039;s Day | 31.666540001759 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Running Tesla Model 3&#039;s computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/)
 >
-> 🔥 471 points
+> 🔥 536 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
