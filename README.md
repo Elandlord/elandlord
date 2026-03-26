@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Thursday, March 26 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, March 26 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌧️ Groningen | 6°C, light rain |
+| ☁️ Groningen | 6°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 31.583210036539 days |
+| 🎉 King&#039;s Day | 31.458216818657 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Personal Encyclopedias](https://whoami.wiki/blog/personal-encyclopedias)
 >
-> 🔥 80 points
+> 🔥 293 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
