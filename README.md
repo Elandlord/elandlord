@@ -1,6 +1,6 @@
-# Good evening! 🌊
+# Good night! ☕
 
-🏠 **Done for the day** · Thursday, March 26 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, March 26 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 4°C, broken clouds |
+| ☁️ Groningen | 2°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 31.20818619 days |
+| 🎉 King&#039;s Day | 31.083170096088 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Moving from GitHub to Codeberg, for lazy people](https://unterwaditzer.net/2025/codeberg.html)
+> [We haven&#039;t seen the worst of what gambling and prediction markets will do](https://www.derekthompson.org/p/we-havent-seen-the-worst-of-what)
 >
-> 🔥 364 points
+> 🔥 223 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
