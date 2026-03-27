@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Friday, March 27 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, March 27 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 7°C, broken clouds |
+| ☁️ Groningen | 11°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 30.583167611539 days |
+| 🎉 King&#039;s Day | 30.4582220475 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A Faster Alternative to Jq](https://micahkepe.com/blog/jsongrep/)
+> [Hold on to Your Hardware](https://xn--gckvb8fzb.com/hold-on-to-your-hardware/)
 >
-> 🔥 56 points
+> 🔥 131 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
