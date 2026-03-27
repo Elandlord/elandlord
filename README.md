@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Friday, March 27 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, March 27 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 2°C, few clouds |
+| ☁️ Groningen | 3°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 30.749891676528 days |
+| 🎉 King&#039;s Day | 30.666542847257 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Why so many control rooms were seafoam green (2025)](https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam)
+> [Schedule tasks on the web](https://code.claude.com/docs/en/web-scheduled-tasks)
 >
-> 🔥 691 points
+> 🔥 79 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
