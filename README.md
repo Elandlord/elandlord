@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Friday, March 27 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, March 27 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 9°C, overcast clouds |
+| 🌧️ Groningen | 7°C, light intensity drizzle |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 30.208230844896 days |
+| 🎉 King&#039;s Day | 30.083207585301 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder)
+> [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
 >
-> 🔥 191 points
+> 🔥 130 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
