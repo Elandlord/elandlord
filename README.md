@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good evening! 💻
 
-🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 8°C, scattered clouds |
+| ☁️ Groningen | 7°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 29.291540473819 days |
+| 🎉 King&#039;s Day | 29.208242055822 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I put all 8,642 Spanish laws in Git – every reform is a commit](https://github.com/EnriqueLop/legalize-es)
+> [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 >
-> 🔥 445 points
+> 🔥 32 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
