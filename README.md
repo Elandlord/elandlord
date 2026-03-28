@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 7°C, broken clouds |
+| ☁️ Groningen | 8°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 29.583237830475 days |
+| 🎉 King&#039;s Day | 29.458226416146 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
+> [Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly](https://github.com/J-x-Z/cocoa-way)
 >
-> 🔥 311 points
+> 🔥 71 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
