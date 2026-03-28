@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 7°C, scattered clouds |
+| ☁️ Groningen | 5°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 29.208242055822 days |
+| 🎉 King&#039;s Day | 29.083220401204 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 >
-> 🔥 32 points
+> 🔥 376 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
