@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 6°C, overcast clouds |
+| 🌫️ Groningen | 6°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 29.874888653183 days |
+| 🎉 King&#039;s Day | 29.749906729722 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Make macOS consistently bad (unironically)](https://lr0.org/blog/p/macos/)
+> [Don&#039;t YOLO your file system](https://jai.scs.stanford.edu/)
 >
-> 🔥 304 points
+> 🔥 159 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
