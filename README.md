@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 7°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 29.666566369097 days |
+| 🎉 King&#039;s Day | 29.583237830475 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Go hard on agents, not on your filesystem](https://jai.scs.stanford.edu/)
 >
-> 🔥 231 points
+> 🔥 311 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
