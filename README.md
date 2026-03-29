@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌧️ Groningen | 8°C, light rain |
+| 🌧️ Groningen | 5°C, heavy intensity rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 28.208211522407 days |
+| 🎉 King&#039;s Day | 28.08321816544 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Say No to Palantir in Europe](https://action.wemove.eu/sign/2026-03-palantir-petition-EN)
+> [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
 >
-> 🔥 383 points
+> 🔥 223 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
