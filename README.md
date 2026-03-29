@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🎉 **Enjoying the weekend** · Saturday, March 28 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 5°C, broken clouds |
+| ☁️ Groningen | 4°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 29.083220401204 days |
+| 🎉 King&#039;s Day | 28.874899474433 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+> [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
 >
-> 🔥 376 points
+> 🔥 87 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
