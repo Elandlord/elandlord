@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 2°C, clear sky |
+| ☀️ Groningen | 3°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 28.74990059485 days |
+| 🎉 King&#039;s Day | 28.666548953565 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+> [OpenYak – An open-source Cowork that runs any model and owns your filesystem](https://github.com/openyak/desktop)
 >
-> 🔥 783 points
+> 🔥 36 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
