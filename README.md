@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good morning! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 4°C, few clouds |
+| ☀️ Groningen | 2°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 28.874899474433 days |
+| 🎉 King&#039;s Day | 28.74990059485 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [South Korea Mandates Solar Panels for Public Parking Lots](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
+> [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
 >
-> 🔥 87 points
+> 🔥 783 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
