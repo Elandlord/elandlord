@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 11°C, broken clouds |
+| ☁️ Groningen | 10°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 28.458229934016 days |
+| 🎉 King&#039;s Day | 28.291562461968 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Founder of GitLab battles cancer by founding companies](https://sytse.com/cancer/)
+> [Overestimation of microplastics potentially caused by scientists&#039; gloves](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
 >
-> 🔥 1096 points
+> 🔥 273 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
