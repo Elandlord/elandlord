@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Monday, March 30 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, March 30 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌧️ Groningen | 6°C, light rain |
+| ☁️ Groningen | 9°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 27.583206054919 days |
+| 🎉 King&#039;s Day | 27.458214081296 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
 >
-> 🔥 93 points
+> 🔥 198 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
