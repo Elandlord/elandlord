@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Monday, March 30 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, March 30 · ⏰ 17:00 CET
 
 ---
 
@@ -24,9 +24,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 📁 Public repos | 49 |
-| ⭐ Total stars | 7 |
+| ⭐ Total stars | 8 |
 | 👥 Followers | 7 |
-| 📈 Top repo | [nats-php](https://github.com/Elandlord/nats-php) (2 ⭐) |
+| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (3 ⭐) |
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 9°C, scattered clouds |
+| 🌧️ Groningen | 8°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 27.458214081296 days |
+| 🎉 King&#039;s Day | 27.291573104306 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
+> [How to Turn Anything into a Router](https://nbailey.ca/post/router/)
 >
-> 🔥 198 points
+> 🔥 120 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
