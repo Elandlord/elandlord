@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Monday, March 30 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, March 30 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 6°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 27.874911092581 days |
+| 🎉 King&#039;s Day | 27.749910759329 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
+> [New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
 >
-> 🔥 139 points
+> 🔥 116 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
