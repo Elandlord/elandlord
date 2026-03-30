@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-☕ **Getting ready for work** · Monday, March 30 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, March 30 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌧️ Groningen | 5°C, light rain |
+| 🌧️ Groningen | 6°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 27.666573169606 days |
+| 🎉 King&#039;s Day | 27.583206054919 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Copilot Edited an Ad into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
+> [The curious case of retro demo scene graphics](https://www.datagubbe.se/aipixels/)
 >
-> 🔥 159 points
+> 🔥 93 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
