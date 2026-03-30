@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Sunday, March 29 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, March 30 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌧️ Groningen | 5°C, heavy intensity rain |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 28.08321816544 days |
+| ☁️ Groningen | 6°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 King&#039;s Day | 27.874911092581 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Voyager 1 runs on 69 KB of memory and an 8-track tape recorder](https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/)
+> [Claude Code runs Git reset –hard origin/main against project repo every 10 mins](https://github.com/anthropics/claude-code/issues/40710)
 >
-> 🔥 223 points
+> 🔥 139 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
