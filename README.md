@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-😴 **Still sleeping (or should be)** · Monday, March 30 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, March 30 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 6°C, broken clouds |
+| 🌧️ Groningen | 5°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 27.749910759329 days |
+| 🎉 King&#039;s Day | 27.666573169606 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [New Apple Silicon M4 and M5 HiDPI Limitation on 4K External Displays](https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/)
+> [Copilot Edited an Ad into My PR](https://notes.zachmanson.com/copilot-edited-an-ad-into-my-pr/)
 >
-> 🔥 116 points
+> 🔥 159 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
