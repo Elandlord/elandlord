@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-😴 **Still sleeping (or should be)** · Tuesday, March 31 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, March 31 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☀️ Groningen | 4°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 26.874919073252 days |
+| 🎉 King&#039;s Day | 26.749919192025 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
+> [Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 >
-> 🔥 384 points
+> 🔥 100 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
