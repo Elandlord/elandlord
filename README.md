@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Tuesday, March 31 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, March 31 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 4°C, clear sky |
+| ☁️ Groningen | 4°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 26.749919192025 days |
+| 🎉 King&#039;s Day | 26.666572943819 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Axios Compromised on NPM – Malicious Versions Drop Remote Access Trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
+> [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 >
-> 🔥 100 points
+> 🔥 375 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
