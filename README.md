@@ -1,6 +1,6 @@
-# Good evening! 🎯
+# Good night! 🎯
 
-🏠 **Done for the day** · Monday, March 30 · ⏰ 19:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, March 31 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 6°C, broken clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 27.208239410787 days |
+| ☀️ Groningen | 4°C, clear sky |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 King&#039;s Day | 26.874919073252 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How to turn anything into a router](https://nbailey.ca/post/router/)
+> [Fedware: Government apps that spy harder than the apps they ban](https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/)
 >
-> 🔥 272 points
+> 🔥 384 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
