@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Tuesday, March 31 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, March 31 · ⏰ 17:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☁️ Groningen | 11°C, few clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 26.458247515289 days |
+| 🎉 King&#039;s Day | 26.291573025799 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Axios compromised on NPM – Malicious versions drop remote access trojan](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan)
 >
-> 🔥 874 points
+> 🔥 1335 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
