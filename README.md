@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good night! ⚡
 
-🏠 **Done for the day** · Tuesday, March 31 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, April 1 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌔
+## Quick Stats 🌕
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 5°C, few clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 26.083244432697 days |
+| 🌙 Moon phase | Full Moon |
+| 🌫️ Groningen | 3°C, fog |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 25.874905345868 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GitHub&#039;s Historic Uptime](https://damrnelson.github.io/github-historical-uptime/)
+> [The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)
 >
-> 🔥 118 points
+> 🔥 713 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Code is like humor. When you have to explain it, it&#039;s bad."
+> "First, solve the problem. Then, write the code."
 >
-> — *Cory House*
+> — *John Johnson*
 
 ---
 
 ## Did You Know? 🤓
 
-JavaScript was created in just 10 days.
+The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
