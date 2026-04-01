@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Wednesday, April 1 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, April 1 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 3°C, broken clouds |
+| 🌫️ Groningen | 5°C, fog |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 25.66656786456 days |
+| 🎉 King&#039;s Day | 25.583244328912 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
 >
-> 🔥 35 points
+> 🔥 237 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
