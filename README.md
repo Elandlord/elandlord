@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Wednesday, April 1 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, April 1 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 8°C, few clouds |
+| ☀️ Groningen | 12°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 25.458244089294 days |
+| 🎉 King&#039;s Day | 25.291571044815 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
+> [Is BGP Safe Yet? No. Test Your ISP](https://isbgpsafeyet.com/)
 >
-> 🔥 457 points
+> 🔥 91 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
