@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Wednesday, April 1 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, April 1 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | 3°C, fog |
+| ☁️ Groningen | 3°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 25.749899438866 days |
+| 🎉 King&#039;s Day | 25.66656786456 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We intercepted the White House app&#039;s traffic. 77% of requests go to 3rd parties](https://www.atomic.computer/blog/white-house-app-network-traffic-analysis/)
+> [Claude Code Unpacked : A visual guide](https://ccunpacked.dev/)
 >
-> 🔥 149 points
+> 🔥 35 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
