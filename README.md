@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good night! 🔥
 
-🏠 **Done for the day** · Wednesday, April 1 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, April 2 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 8°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 25.083232105544 days |
+| ☁️ Groningen | 6°C, broken clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 24.874918512245 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [EmDash – a spiritual successor to WordPress that solves plugin security](https://blog.cloudflare.com/emdash-wordpress/)
+> [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
 >
-> 🔥 313 points
+> 🔥 59 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "First, solve the problem. Then, write the code."
+> "Experience is the name everyone gives to their mistakes."
 >
-> — *John Johnson*
+> — *Oscar Wilde*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer virus was created in 1983 as an experiment.
+&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
