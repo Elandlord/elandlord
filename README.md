@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Thursday, April 2 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, April 2 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 6°C, broken clouds |
+| ☁️ Groningen | 7°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 24.874918512245 days |
+| 🎉 King&#039;s Day | 24.749902088565 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A new C++ back end for ocamlc](https://github.com/ocaml/ocaml/pull/14701)
+> [Live: Artemis II Launch Day Updates](https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/)
 >
-> 🔥 59 points
+> 🔥 725 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
