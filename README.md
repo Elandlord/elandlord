@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Thursday, April 2 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, April 2 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 7°C, overcast clouds |
+| ☁️ Groningen | 5°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 24.208247233924 days |
+| 🎉 King&#039;s Day | 24.083251411806 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
 >
-> 🔥 206 points
+> 🔥 721 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
