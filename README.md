@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🏠 **Done for the day** · Thursday, April 2 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, April 2 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 8°C, overcast clouds |
+| ☁️ Groningen | 7°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 24.291570837546 days |
+| 🎉 King&#039;s Day | 24.208247233924 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [LinkedIn Is Illegally Searching Your Computer](https://browsergate.eu/)
+> [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
 >
-> 🔥 545 points
+> 🔥 206 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
