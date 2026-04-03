@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Friday, April 3 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, April 3 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 9°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 23.583242886771 days |
+| 🎉 King&#039;s Day | 23.458247173009 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
+> [Show HN: European alternatives to Google, Apple, Dropbox and 120 US apps](https://only-eu.eu/en/)
 >
-> 🔥 1397 points
+> 🔥 134 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
