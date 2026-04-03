@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ✨
 
-🏠 **Done for the day** · Thursday, April 2 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, April 3 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 5°C, scattered clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 24.083251411806 days |
+| ☁️ Groningen | 3°C, few clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 King&#039;s Day | 23.874913248125 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)
 >
-> 🔥 721 points
+> 🔥 1107 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Experience is the name everyone gives to their mistakes."
+> "The best error message is the one that never shows up."
 >
-> — *Oscar Wilde*
+> — *Thomas Fuchs*
 
 ---
 
 ## Did You Know? 🤓
 
-&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
+There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
