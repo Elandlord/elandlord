@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Friday, April 3 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 4 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌧️ Groningen | 10°C, light rain |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 23.0832565161 days |
+| ☁️ Groningen | 10°C, few clouds |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 22.874915297535 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [iNaturalist](https://www.inaturalist.org/)
+> [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
 >
-> 🔥 191 points
+> 🔥 186 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
