@@ -1,6 +1,6 @@
-# Good evening! 🛠️
+# Good night! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, April 4 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 4 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 15°C, broken clouds |
+| ☁️ Groningen | 13°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 22.208257417593 days |
+| 🎉 King&#039;s Day | 22.083251450035 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
+> [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
 >
-> 🔥 340 points
+> 🔥 254 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
