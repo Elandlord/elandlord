@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🎉 **Enjoying the weekend** · Saturday, April 4 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 4 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 13°C, few clouds |
+| ☁️ Groningen | 15°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 22.458247217407 days |
+| 🎉 King&#039;s Day | 22.29159220213 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)
+> [Simple self-distillation improves code generation](https://arxiv.org/abs/2604.01193)
 >
-> 🔥 737 points
+> 🔥 254 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
