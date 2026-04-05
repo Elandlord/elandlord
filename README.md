@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good afternoon! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, April 5 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 5 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 11°C, broken clouds |
+| ☁️ Groningen | 12°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 21.458257927708 days |
+| 🎉 King&#039;s Day | 21.291588269479 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Talk like caveman](https://github.com/JuliusBrussee/caveman)
+> [Someone at BrowserStack Is Leaking Users&#039; Email Address](https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/)
 >
-> 🔥 62 points
+> 🔥 183 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
