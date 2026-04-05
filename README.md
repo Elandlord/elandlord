@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good afternoon! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, April 5 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 5 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 12°C, broken clouds |
+| ☁️ Groningen | 11°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 21.58325306853 days |
+| 🎉 King&#039;s Day | 21.458257927708 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: A game where you build a GPU](https://jaso1024.com/mvidia/)
+> [Talk like caveman](https://github.com/JuliusBrussee/caveman)
 >
-> 🔥 670 points
+> 🔥 62 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
