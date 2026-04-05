@@ -1,6 +1,6 @@
-# Good evening! 📚
+# Good night! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, April 5 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 5 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 7°C, broken clouds |
+| ☁️ Groningen | 8°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 21.208256001944 days |
+| 🎉 King&#039;s Day | 21.083259381667 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Artemis II crew see first glimpse of far side of Moon [video]](https://www.bbc.com/news/videos/ce3d5gkd2geo)
+> [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
 >
-> 🔥 136 points
+> 🔥 44 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
