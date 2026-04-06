@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Monday, April 6 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, April 6 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 10°C, scattered clouds |
+| ☁️ Groningen | 11°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 20.583248784074 days |
+| 🎉 King&#039;s Day | 20.458253718576 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
+> [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
 >
-> 🔥 360 points
+> 🔥 19 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
