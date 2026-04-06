@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Monday, April 6 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, April 6 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 5°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 20.874916790961 days |
+| 🎉 King&#039;s Day | 20.749915894398 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [In Japan, the robot isn&#039;t coming for your job; it&#039;s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
+> [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
 >
-> 🔥 86 points
+> 🔥 150 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
