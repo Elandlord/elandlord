@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Monday, April 6 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, April 6 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 11°C, broken clouds |
+| ☁️ Groningen | 12°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 20.458253718576 days |
+| 🎉 King&#039;s Day | 20.291579476181 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Age Verification as Mass Surveillance Infrastructure](https://tboteproject.com/surveillancefindings/)
+> [I Won&#039;t Download Your App. The Web Version Is A-OK](https://www.0xsid.com/blog/wont-download-your-app)
 >
-> 🔥 19 points
+> 🔥 92 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
