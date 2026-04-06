@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-☕ **Getting ready for work** · Monday, April 6 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, April 6 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 5°C, overcast clouds |
+| ☁️ Groningen | 10°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 20.666577568958 days |
+| 🎉 King&#039;s Day | 20.583248784074 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm)
 >
-> 🔥 249 points
+> 🔥 360 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
