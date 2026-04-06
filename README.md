@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🎉 **Enjoying the weekend** · Sunday, April 5 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, April 6 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 8°C, overcast clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 21.083259381667 days |
+| ☁️ Groningen | 5°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 King&#039;s Day | 20.874916790961 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Bacteria found in the human intestine capable of improving muscle strength](https://www.ugr.es/en/about/news/bacteria-found-human-intestine-capable-improving-muscle-strength)
+> [In Japan, the robot isn&#039;t coming for your job; it&#039;s filling the one nobody wants](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)
 >
-> 🔥 44 points
+> 🔥 86 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
