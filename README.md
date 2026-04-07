@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Tuesday, April 7 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, April 7 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 12°C, few clouds |
+| 🌤️ Groningen | 13°C, haze |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 19.458247358484 days |
+| 🎉 King&#039;s Day | 19.291572547581 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Are We Idiocracy Yet?](https://idiocracy.wtf/)
+> [Show HN: Brutalist Concrete Laptop Stand (2024)](https://sam-burns.com/posts/concrete-laptop-stand/)
 >
-> 🔥 135 points
+> 🔥 226 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
