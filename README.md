@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Tuesday, April 7 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, April 7 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 1°C, clear sky |
+| 🌫️ Groningen | 2°C, fog |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 19.749919859363 days |
+| 🎉 King&#039;s Day | 19.666391695185 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS](https://github.com/matthartman/ghost-pepper)
 >
-> 🔥 277 points
+> 🔥 328 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
