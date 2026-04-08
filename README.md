@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-☕ **Getting ready for work** · Wednesday, April 8 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, April 8 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 4°C, clear sky |
+| ☁️ Groningen | 9°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 18.666575742928 days |
+| 🎉 King&#039;s Day | 18.583251159444 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 >
-> 🔥 1108 points
+> 🔥 1217 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
