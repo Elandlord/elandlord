@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good evening! 🎮
 
-🏠 **Done for the day** · Wednesday, April 8 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, April 8 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 16°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 18.291584218148 days |
+| 🎉 King&#039;s Day | 18.208235972303 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
+> [I Ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
 >
-> 🔥 820 points
+> 🔥 237 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
