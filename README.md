@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Wednesday, April 8 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, April 8 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 18.458239822801 days |
+| 🎉 King&#039;s Day | 18.291584218148 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Veracrypt Project Update](https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/)
+> [Git commands I run before reading any code](https://piechowski.io/post/git-commands-before-reading-code/)
 >
-> 🔥 337 points
+> 🔥 820 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
