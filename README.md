@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Wednesday, April 8 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, April 8 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Last Quarter |
 | ☀️ Groningen | 4°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 18.749912743194 days |
+| 🎉 King&#039;s Day | 18.666575742928 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenAI says its new model GPT-2 is too dangerous to release (2019)](https://slate.com/technology/2019/02/openai-gpt2-text-generating-algorithm-ai-dangerous.html)
+> [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 >
-> 🔥 241 points
+> 🔥 1108 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
