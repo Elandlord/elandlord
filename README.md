@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Tuesday, April 7 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, April 8 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌖
+## Quick Stats 🌗
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 7°C, clear sky |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 19.083253249537 days |
+| 🌙 Moon phase | Last Quarter |
+| ☀️ Groningen | 5°C, clear sky |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 King&#039;s Day | 18.874917365822 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Project Glasswing: Securing critical software for the AI era](https://www.anthropic.com/glasswing)
 >
-> 🔥 333 points
+> 🔥 859 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
