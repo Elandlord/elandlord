@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Thursday, April 9 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, April 9 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Last Quarter |
 | ☁️ Groningen | 8°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 17.874905584294 days |
+| 🎉 King&#039;s Day | 17.749917384375 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I ported Mac OS X to the Nintendo Wii](https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html)
+> [LittleSnitch for Linux](https://obdev.at/products/littlesnitch-linux/index.html)
 >
-> 🔥 1212 points
+> 🔥 278 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
