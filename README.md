@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good evening! 🌊
 
-🏠 **Done for the day** · Friday, April 10 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, April 10 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 12°C, scattered clouds |
+| ☁️ Groningen | 11°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 16.291571096215 days |
+| 🎉 King&#039;s Day | 16.208238187176 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Why do we tell ourselves scary stories about AI?](https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/)
+> [You can&#039;t trust macOS Privacy and Security settings](https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/)
 >
-> 🔥 10 points
+> 🔥 145 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
