@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Friday, April 10 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, April 10 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 7°C, few clouds |
+| ☀️ Groningen | 8°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 16.666580322257 days |
+| 🎉 King&#039;s Day | 16.583235988368 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
 >
-> 🔥 229 points
+> 🔥 314 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
