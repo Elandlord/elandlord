@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Friday, April 10 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, April 10 · ⏰ 13:00 CET
 
 ---
 
@@ -24,9 +24,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 📁 Public repos | 49 |
-| ⭐ Total stars | 8 |
+| ⭐ Total stars | 9 |
 | 👥 Followers | 7 |
-| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (3 ⭐) |
+| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 8°C, clear sky |
+| ☁️ Groningen | 11°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 16.583235988368 days |
+| 🎉 King&#039;s Day | 16.458245736146 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How NASA built Artemis II’s fault-tolerant computer](https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/)
+> [France Launches Government Linux Desktop Plan as Windows Exit Begins](https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/)
 >
-> 🔥 314 points
+> 🔥 84 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
