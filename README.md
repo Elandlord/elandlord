@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, April 11 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 11 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 16°C, light rain |
+| 🌧️ Groningen | 8°C, heavy intensity drizzle |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 15.208254679988 days |
+| 🎉 King&#039;s Day | 15.083243743912 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
+> [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 >
-> 🔥 140 points
+> 🔥 428 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
