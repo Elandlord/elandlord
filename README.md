@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, April 11 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 11 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 14°C, overcast clouds |
+| 🌧️ Groningen | 16°C, light rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 15.458243718484 days |
+| 🎉 King&#039;s Day | 15.291585249155 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
+> [Cirrus Labs to join OpenAI](https://cirruslabs.org/)
 >
-> 🔥 859 points
+> 🔥 67 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
