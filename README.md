@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-🎉 **Enjoying the weekend** · Saturday, April 11 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 11 · ⏰ 06:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Last Quarter |
 | ☁️ Groningen | 4°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 15.874914799502 days |
+| 🎉 King&#039;s Day | 15.749924616667 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Filing the corners off my MacBooks](https://kentwalters.com/posts/corners/)
 >
-> 🔥 276 points
+> 🔥 490 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
