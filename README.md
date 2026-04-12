@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 13°C, scattered clouds |
+| ☁️ Groningen | 15°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 14.458247283171 days |
+| 🎉 King&#039;s Day | 14.291570835069 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [MiniMax M2.7 Is Now Open Source](https://firethering.com/minimax-m2-7-agentic-model/)
+> [Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage](https://github.com/anthropics/claude-code/issues/45756)
 >
-> 🔥 12 points
+> 🔥 269 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
