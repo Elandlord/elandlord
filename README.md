@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 10°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 14.208250707269 days |
+| 🎉 King&#039;s Day | 14.083246233206 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Building a SaaS in 2026 Using Only EU Infrastructure](https://eualternative.eu/guides/building-saas-eu-stack/)
+> [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
 >
-> 🔥 46 points
+> 🔥 92 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
