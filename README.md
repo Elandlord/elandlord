@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Crescent |
 | ☁️ Groningen | 6°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 14.874914826424 days |
+| 🎉 King&#039;s Day | 14.749907041979 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
+> [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
 >
-> 🔥 800 points
+> 🔥 60 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
