@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, April 11 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌗
+## Quick Stats 🌘
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 8°C, heavy intensity drizzle |
+| 🌙 Moon phase | Waning Crescent |
+| ☁️ Groningen | 6°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 15.083243743912 days |
+| 🎉 King&#039;s Day | 14.874914826424 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Small models also found the vulnerabilities that Mythos found](https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier)
 >
-> 🔥 428 points
+> 🔥 800 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
