@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 9°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 14.666575803819 days |
+| 🎉 King&#039;s Day | 14.583246115093 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The End of Eleventy](https://brennan.day/the-end-of-eleventy/)
+> [I run multiple $10K MRR companies on a $20/month tech stack](https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack)
 >
-> 🔥 107 points
+> 🔥 51 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
