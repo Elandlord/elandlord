@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🎉 **Enjoying the weekend** · Sunday, April 12 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, April 13 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 10°C, overcast clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 14.083246233206 days |
+| ☁️ Groningen | 5°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 King&#039;s Day | 13.874902116794 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Closing of the Frontier](https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html)
+> [Taking on CUDA with ROCm: &#039;One Step After Another&#039;](https://www.eetimes.com/taking-on-cuda-with-rocm-one-step-after-another/)
 >
-> 🔥 92 points
+> 🔥 33 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
