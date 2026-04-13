@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Monday, April 13 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, April 13 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 9°C, light rain |
+| ☁️ Groningen | 13°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 13.583235489711 days |
+| 🎉 King&#039;s Day | 13.458239161424 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind](https://www.viktorcessan.com/the-economics-of-software-teams/)
+> [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
 >
-> 🔥 80 points
+> 🔥 444 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
