@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good evening! ☕
 
-🏠 **Done for the day** · Monday, April 13 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, April 13 · ⏰ 19:00 CET
 
 ---
 
@@ -24,9 +24,8 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 📁 Public repos | 49 |
-| ⭐ Total stars | 9 |
+| ⭐ Total stars | 0 |
 | 👥 Followers | 7 |
-| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
 
 ---
 
@@ -35,17 +34,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 13°C, few clouds |
+| ☁️ Groningen | 11°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 13.291568820694 days |
+| 🎉 King&#039;s Day | 13.208063738646 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
+> [Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets](https://github.com/sterlingcrispin/nothing-ever-happens)
 >
-> 🔥 120 points
+> 🔥 119 points
 
 ---
 
@@ -63,4 +62,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
