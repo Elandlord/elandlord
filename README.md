@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Monday, April 13 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, April 13 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 13°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 13.458239161424 days |
+| 🎉 King&#039;s Day | 13.291568820694 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [All elementary functions from a single binary operator](https://arxiv.org/abs/2603.21852)
+> [Servo is now available on crates.io](https://servo.org/blog/2026/04/13/servo-0.1.0-release/)
 >
-> 🔥 444 points
+> 🔥 120 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
