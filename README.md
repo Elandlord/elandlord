@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🏠 **Done for the day** · Monday, April 13 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, April 14 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 9°C, light rain |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 13.083239953565 days |
+| 🌫️ Groningen | 8°C, mist |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 King&#039;s Day | 12.8748992039 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
+> [Someone bought 30 WordPress plugins and planted a backdoor in all of them](https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/)
 >
-> 🔥 288 points
+> 🔥 654 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
