@@ -1,6 +1,6 @@
-# Good evening! 🎯
+# Good night! ✨
 
-🏠 **Done for the day** · Tuesday, April 14 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, April 14 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 15°C, broken clouds |
+| ☀️ Groningen | 9°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 12.208245099317 days |
+| 🎉 King&#039;s Day | 12.08324791978 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Rare concert recordings are landing on the Internet Archive](https://techcrunch.com/2026/04/13/thousands-of-rare-concert-recordings-are-landing-on-the-internet-archive-listen-now/)
+> [I wrote to Flock&#039;s privacy contact to opt out of their domestic spying program](https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html)
 >
-> 🔥 214 points
+> 🔥 278 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
