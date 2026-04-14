@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-☕ **Getting ready for work** · Tuesday, April 14 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, April 14 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 5°C, scattered clouds |
+| ☀️ Groningen | 8°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 12.666571280312 days |
+| 🎉 King&#039;s Day | 12.583245953391 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [DaVinci Resolve releases Photo Editor](https://www.blackmagicdesign.com/products/davinciresolve/photo)
 >
-> 🔥 272 points
+> 🔥 441 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
