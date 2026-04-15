@@ -1,6 +1,6 @@
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Wednesday, April 15 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, April 15 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 15°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 11.208221632604 days |
+| 🎉 King&#039;s Day | 11.083232789688 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [God Sleeps in the Minerals](https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/)
+> [AI-Assisted Cognition Endangers Human Development](https://heidenstedt.org/posts/2026/ai-assisted-cognition-endangers-human-development/)
 >
-> 🔥 251 points
+> 🔥 158 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
