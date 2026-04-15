@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-☕ **Getting ready for work** · Wednesday, April 15 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, April 15 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 6°C, light rain |
+| ☁️ Groningen | 13°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 11.666546273021 days |
+| 🎉 King&#039;s Day | 11.583212114988 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Saying Goodbye to Agile](https://lewiscampbell.tech/blog/260414.html)
+> [Peter Steinberger – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
 >
-> 🔥 63 points
+> 🔥 41 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
