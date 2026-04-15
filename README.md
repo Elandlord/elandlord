@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-😴 **Still sleeping (or should be)** · Wednesday, April 15 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, April 15 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 7°C, few clouds |
+| 🌫️ Groningen | 5°C, mist |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 11.87490671728 days |
+| 🎉 King&#039;s Day | 11.749897808056 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Code Routines](https://code.claude.com/docs/en/routines)
 >
-> 🔥 401 points
+> 🔥 488 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
