@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Wednesday, April 15 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, April 15 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 11.583212114988 days |
+| 🎉 King&#039;s Day | 11.45823623228 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Peter Steinberger – WhatsApp CLI: sync, search, send](https://github.com/steipete/wacli)
+> [Want to Write a Compiler? Just Read These Two Papers (2008)](https://prog21.dadgum.com/30.html)
 >
-> 🔥 41 points
+> 🔥 72 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
