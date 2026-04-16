@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good morning! 🎨
 
-😴 **Still sleeping (or should be)** · Thursday, April 16 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, April 16 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 12°C, few clouds |
+| 🌫️ Groningen | 12°C, fog |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 10.874904613808 days |
+| 🎉 King&#039;s Day | 10.749909554711 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cybersecurity looks like proof of work now](https://www.dbreunig.com/2026/04/14/cybersecurity-is-proof-of-work-now.html)
+> [The paper computer](https://jsomers.net/blog/the-paper-computer)
 >
-> 🔥 212 points
+> 🔥 34 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
