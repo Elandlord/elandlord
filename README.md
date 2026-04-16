@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🏠 **Done for the day** · Thursday, April 16 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, April 16 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 16°C, scattered clouds |
+| ☁️ Groningen | 10°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 10.208242537546 days |
+| 🎉 King&#039;s Day | 10.083239550579 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cloudflare Email Service](https://blog.cloudflare.com/email-for-agents/)
+> [Codex for almost everything](https://openai.com/index/codex-for-almost-everything/)
 >
-> 🔥 257 points
+> 🔥 382 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
