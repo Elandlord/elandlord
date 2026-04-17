@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Friday, April 17 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, April 17 · ⏰ 06:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | New Moon |
 | ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 9.8749030392477 days |
+| 🎉 King&#039;s Day | 9.749912613044 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
 >
-> 🔥 1428 points
+> 🔥 1554 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
