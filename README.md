@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Friday, April 17 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, April 17 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 18°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 9.4582440744444 days |
+| 🎉 King&#039;s Day | 9.2915738330324 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
+> [Isaac Asimov: The Last Question (1956)](https://hex.ooo/library/last_question.html)
 >
-> 🔥 79 points
+> 🔥 289 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
