@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Friday, April 17 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, April 17 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 9.5832402662037 days |
+| 🎉 King&#039;s Day | 9.4582440744444 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Opus 4.7](https://www.anthropic.com/news/claude-opus-4-7)
+> [Ada, Its Design, and the Language That Built the Languages](https://www.iqiipi.com/the-quiet-colossus.html)
 >
-> 🔥 1695 points
+> 🔥 79 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
