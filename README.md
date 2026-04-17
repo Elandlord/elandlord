@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Friday, April 17 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, April 17 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 14°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 9.2082468733912 days |
+| 🎉 King&#039;s Day | 9.0832426722801 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
 >
-> 🔥 323 points
+> 🔥 588 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
