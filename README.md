@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🎉 **Enjoying the weekend** · Saturday, April 18 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 18 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 15°C, overcast clouds |
+| ☁️ Groningen | 16°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 8.5832419493866 days |
+| 🎉 King&#039;s Day | 8.4582517549537 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Category Theory Illustrated – Orders](https://abuseofnotation.github.io/category-theory-illustrated/04_order/)
 >
-> 🔥 18 points
+> 🔥 81 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
