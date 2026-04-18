@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, April 18 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 18 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 13°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 8.2915796035069 days |
+| 🎉 King&#039;s Day | 8.2082421634954 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
+> [Migrating from DigitalOcean to Hetzner](https://isayeter.com/posts/digitalocean-to-hetzner-migration/)
 >
-> 🔥 175 points
+> 🔥 400 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
