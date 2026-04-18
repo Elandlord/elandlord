@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, April 18 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 18 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| 🌧️ Groningen | 13°C, light rain |
+| ☁️ Groningen | 12°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 8.7499139390394 days |
+| 🎉 King&#039;s Day | 8.6665803074769 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)
 >
-> 🔥 899 points
+> 🔥 955 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
