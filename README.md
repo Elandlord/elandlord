@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 8°C, overcast clouds |
+| ☁️ Groningen | 10°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 7.6665847062847 days |
+| 🎉 King&#039;s Day | 7.5832496874884 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [NIST scientists create &#039;any wavelength&#039; lasers](https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits)
+> [Game Devs Explain the Tricks Involved with Letting You Pause a Game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
 >
-> 🔥 245 points
+> 🔥 37 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
