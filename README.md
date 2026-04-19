@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 10°C, few clouds |
+| ☁️ Groningen | 10°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 7.5832496874884 days |
+| 🎉 King&#039;s Day | 7.4582389309375 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Game Devs Explain the Tricks Involved with Letting You Pause a Game](https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339)
+> [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
 >
-> 🔥 37 points
+> 🔥 58 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
