@@ -1,6 +1,6 @@
-# Good evening! 🛠️
+# Good night! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 11°C, overcast clouds |
+| ☁️ Groningen | 8°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 7.2082557253356 days |
+| 🎉 King&#039;s Day | 7.0832478988194 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vercel Says Internal Systems Hit in Breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
+> [Vercel says internal systems hit in breach](https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/)
 >
-> 🔥 124 points
+> 🔥 361 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
