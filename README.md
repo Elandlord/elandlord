@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 19 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 10°C, overcast clouds |
+| ☁️ Groningen | 10°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 7.4582389309375 days |
+| 🎉 King&#039;s Day | 7.2915831795602 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)](https://www.usenix.org/system/files/conference/woot17/woot17-paper-guri.pdf)
+> [Archive of Byte magazine, starting with issue #1 in 1975](https://archive.org/details/byte-magazine-1975-09)
 >
-> 🔥 58 points
+> 🔥 265 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
