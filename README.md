@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Monday, April 20 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, April 20 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 6°C, clear sky |
+| ☀️ Groningen | 4°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 6.8749133471644 days |
+| 🎉 King&#039;s Day | 6.7499142127083 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+> [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)
 >
-> 🔥 506 points
+> 🔥 84 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
