@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good evening! 📚
 
-🏠 **Done for the day** · Monday, April 20 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, April 20 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌧️ Groningen | 8°C, drizzle |
+| ☁️ Groningen | 9°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 King&#039;s Day | 6.2915651898264 days |
+| 🎉 King&#039;s Day | 6.2082450904861 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Saunas lower nighttime heart rate more than exercise (n=59,000)](https://tryterra.co/research/sauna-effect-on-heart-rate)
+> [Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving](https://qwen.ai/blog?id=qwen3.6-max-preview)
 >
-> 🔥 143 points
+> 🔥 219 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
