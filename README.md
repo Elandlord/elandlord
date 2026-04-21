@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🏠 **Done for the day** · Tuesday, April 21 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, April 21 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 13°C, clear sky |
+| ☀️ Groningen | 12°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 5.2915684114236 days |
+| 🎉 King&#039;s Day | 5.2082422214352 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
+> [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
 >
-> 🔥 338 points
+> 🔥 137 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
