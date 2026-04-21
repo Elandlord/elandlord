@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Tuesday, April 21 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, April 21 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 14°C, clear sky |
+| ☀️ Groningen | 13°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 5.4582358806366 days |
+| 🎉 King&#039;s Day | 5.2915684114236 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [John Ternus to become Apple CEO](https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/)
+> [Laws of Software Engineering](https://lawsofsoftwareengineering.com)
 >
-> 🔥 1838 points
+> 🔥 338 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
