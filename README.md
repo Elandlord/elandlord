@@ -1,6 +1,6 @@
-# Good evening! 🌟
+# Good night! 🏃
 
-🏠 **Done for the day** · Tuesday, April 21 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, April 21 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 12°C, clear sky |
+| ☀️ Groningen | 8°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 King&#039;s Day | 5.2082422214352 days |
+| 🎉 King&#039;s Day | 5.0832292893519 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Original GrapheneOS responses to WIRED fact checker](https://discuss.grapheneos.org/d/34369-original-grapheneos-responses-to-wired-fact-checker)
+> [The Vercel breach: OAuth attack exposes risk in platform environment variables](https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html)
 >
-> 🔥 137 points
+> 🔥 144 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
