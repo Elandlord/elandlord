@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🏠 **Done for the day** · Wednesday, April 22 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, April 22 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 13°C, clear sky |
+| ☀️ Groningen | 8°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 4.2082338460648 days |
+| 🎉 King&#039;s Day | 4.0832467611111 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Alberta Startup Sells No-Tech Tractors for Half Price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+> [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 >
-> 🔥 92 points
+> 🔥 725 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
