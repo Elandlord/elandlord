@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-☕ **Getting ready for work** · Wednesday, April 22 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, April 22 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 2°C, clear sky |
+| ☀️ Groningen | 10°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 4.6665685710532 days |
+| 🎉 King&#039;s Day | 4.5832441179977 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
+> [XOR&#039;ing a register with itself is the idiom for zeroing it out. Why not sub?](https://devblogs.microsoft.com/oldnewthing/20260421-00/?p=112247)
 >
-> 🔥 154 points
+> 🔥 38 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
