@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Wednesday, April 22 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, April 22 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☀️ Groningen | 2°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 4.7499136094097 days |
+| 🎉 King&#039;s Day | 4.6665685710532 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/)
+> [Making RAM at Home [video]](https://www.youtube.com/watch?v=h6GWikWlAQA)
 >
-> 🔥 555 points
+> 🔥 154 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
