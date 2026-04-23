@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Thursday, April 23 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, April 23 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 14°C, broken clouds |
+| ☁️ Groningen | 13°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 3.4582427751968 days |
+| 🎉 King&#039;s Day | 3.2915664337153 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
+> [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
 >
-> 🔥 406 points
+> 🔥 99 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
