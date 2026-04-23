@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-☕ **Getting ready for work** · Thursday, April 23 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, April 23 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 7°C, overcast clouds |
+| ☁️ Groningen | 9°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 3.6665696592245 days |
+| 🎉 King&#039;s Day | 3.5832281835069 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 >
-> 🔥 64 points
+> 🔥 235 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
