@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🏠 **Done for the day** · Thursday, April 23 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, April 23 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 11°C, few clouds |
+| ☁️ Groningen | 8°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 3.2082296385301 days |
+| 🎉 King&#039;s Day | 3.0832343574537 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [France confirms data breach at government agency that manages citizens&#039; IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
+> [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
 >
-> 🔥 136 points
+> 🔥 602 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
