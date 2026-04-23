@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good evening! 🎮
 
-🏠 **Done for the day** · Thursday, April 23 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, April 23 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 13°C, few clouds |
+| ☁️ Groningen | 11°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 3.2915664337153 days |
+| 🎉 King&#039;s Day | 3.2082296385301 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Honker – Postgres NOTIFY/LISTEN Semantics for SQLite](https://github.com/russellromney/honker)
+> [France confirms data breach at government agency that manages citizens&#039; IDs](https://techcrunch.com/2026/04/22/france-confirms-data-breach-at-government-agency-that-manages-citizens-ids/)
 >
-> 🔥 99 points
+> 🔥 136 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
