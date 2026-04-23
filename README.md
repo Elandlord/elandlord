@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Thursday, April 23 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, April 23 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 6°C, overcast clouds |
+| ☁️ Groningen | 7°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 3.7499127584606 days |
+| 🎉 King&#039;s Day | 3.6665696592245 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
+> [I am building a cloud](https://crawshaw.io/blog/building-a-cloud)
 >
-> 🔥 1455 points
+> 🔥 64 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
