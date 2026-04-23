@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Wednesday, April 22 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, April 23 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌒
+## Quick Stats 🌓
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 8°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 King&#039;s Day | 4.0832467611111 days |
+| 🌙 Moon phase | First Quarter |
+| ☁️ Groningen | 7°C, overcast clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 King&#039;s Day | 3.8749146122222 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Alberta startup sells no-tech tractors for half price](https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/)
 >
-> 🔥 725 points
+> 🔥 1259 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
