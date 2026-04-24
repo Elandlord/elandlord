@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good evening! 🏃
 
-🏠 **Done for the day** · Friday, April 24 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, April 24 · ⏰ 19:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 11°C, clear sky |
+| ☁️ Groningen | 11°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 2.29157435125 days |
+| 🎉 King&#039;s Day | 2.2082376008796 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Sabotaging projects by overthinking, scope creep, and structural diffing](https://kevinlynagh.com/newsletter/2026_04_overthinking/)
 >
-> 🔥 36 points
+> 🔥 159 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
