@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Friday, April 24 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, April 24 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 9°C, overcast clouds |
+| ☁️ Groningen | 12°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 2.5832375172801 days |
+| 🎉 King&#039;s Day | 2.4582196685764 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DeepSeek v4](https://api-docs.deepseek.com/)
+> [S. Korea police arrest man over AI image of runaway wolf that misled authorities](https://www.bbc.com/news/articles/c4gx1n0dl9no)
 >
-> 🔥 745 points
+> 🔥 68 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
