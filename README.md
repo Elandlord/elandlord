@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🏠 **Done for the day** · Thursday, April 23 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, April 24 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 8°C, broken clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 King&#039;s Day | 3.0832343574537 days |
+| ☁️ Groningen | 7°C, overcast clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 King&#039;s Day | 2.8749090506829 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
 >
-> 🔥 602 points
+> 🔥 1046 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
