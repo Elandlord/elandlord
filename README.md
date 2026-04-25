@@ -1,6 +1,6 @@
-# Good evening! 🌊
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Saturday, April 25 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 25 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 12°C, few clouds |
+| ☁️ Groningen | 8°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 1.2082447418403 days |
+| 🎉 King&#039;s Day | 1.0832419840394 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [1-Bit Hokusai&#039;s &quot;The Great Wave&quot; (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 >
-> 🔥 277 points
+> 🔥 423 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
