@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Friday, April 24 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 25 · ⏰ 03:00 CET
 
 ---
 
@@ -36,31 +36,31 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
 | ☁️ Groningen | 7°C, overcast clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 King&#039;s Day | 2.0832316043866 days |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 King&#039;s Day | 1.8749055663426 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API](https://developers.openai.com/api/docs/changelog)
+> [Google plans to invest up to $40B in Anthropic](https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic)
 >
-> 🔥 88 points
+> 🔥 291 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Deleted code is debugged code."
+> "The only way to go fast, is to go well."
 >
-> — *Jeff Sickel*
+> — *Robert C. Martin*
 
 ---
 
 ## Did You Know? 🤓
 
-The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
+The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
