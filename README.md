@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good afternoon! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, April 25 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, April 25 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 12°C, clear sky |
+| ☁️ Groningen | 13°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 1.4582443078009 days |
+| 🎉 King&#039;s Day | 1.291572805787 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [New 10 GbE USB adapters are cooler, smaller, cheaper](https://www.jeffgeerling.com/blog/2026/new-10-gbe-usb-adapters-cooler-smaller-cheaper/)
+> [1-Bit Hokusai&#039;s &quot;The Great Wave&quot; (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
 >
-> 🔥 209 points
+> 🔥 170 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
