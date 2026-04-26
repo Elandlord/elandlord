@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 5°C, clear sky |
+| ☁️ Groningen | 3°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 0.87491047329861 days |
+| 🎉 King&#039;s Day | 0.74990648962963 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html)
+> [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
 >
-> 🔥 135 points
+> 🔥 134 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
