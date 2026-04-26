@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, April 25 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 8°C, broken clouds |
+| ☀️ Groningen | 5°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 1.0832419840394 days |
+| 🎉 King&#039;s Day | 0.87491047329861 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [1-Bit Hokusai&#039;s &quot;The Great Wave&quot; (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/)
+> [USB Cheat Sheet (2022)](https://fabiensanglard.net/usbcheat/index.html)
 >
-> 🔥 423 points
+> 🔥 135 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
