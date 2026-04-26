@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 11°C, scattered clouds |
+| ☀️ Groningen | 7°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 0.20824167815972 days |
+| 🎉 King&#039;s Day | 0.083239912280093 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Clay PCB Tutorial](https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial)
+> [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
 >
-> 🔥 50 points
+> 🔥 278 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
