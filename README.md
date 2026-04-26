@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 3°C, scattered clouds |
+| ☁️ Groningen | 4°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 0.74990648962963 days |
+| 🎉 King&#039;s Day | 0.66657309269676 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Amateur armed with ChatGPT solves an Erdős problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/)
 >
-> 🔥 134 points
+> 🔥 238 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
