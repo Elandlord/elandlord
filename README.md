@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good evening! 💻
 
-🏠 **Done for the day** · Monday, April 27 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, April 27 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 12°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 7.2915748307986 days |
+| 🎉 Liberation Day | 7.2082401192477 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Pgbackrest is no longer being maintained](https://github.com/pgbackrest/pgbackrest)
+> [Microsoft and OpenAI end their exclusive and revenue-sharing deal](https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai)
 >
-> 🔥 255 points
+> 🔥 292 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
