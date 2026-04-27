@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, April 26 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, April 27 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌓
+## Quick Stats 🌔
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 7°C, clear sky |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 King&#039;s Day | 0.083239912280093 days |
+| 🌙 Moon phase | Waxing Gibbous |
+| ☁️ Groningen | 3°C, scattered clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Liberation Day | 7.8749088981829 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GoDaddy Gave a Domain to a Stranger Without Any Documentation](https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/)
+> [I bought Friendster for $30k – Here&#039;s what I&#039;m doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
 >
-> 🔥 278 points
+> 🔥 332 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
