@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Monday, April 27 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, April 27 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 3°C, scattered clouds |
+| ☁️ Groningen | 2°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 7.8749088981829 days |
+| 🎉 Liberation Day | 7.749900241088 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [I bought Friendster for $30k – Here&#039;s what I&#039;m doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
 >
-> 🔥 332 points
+> 🔥 516 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
