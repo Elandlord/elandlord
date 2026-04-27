@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Monday, April 27 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, April 27 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 2°C, broken clouds |
+| ☁️ Groningen | 4°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 7.749900241088 days |
+| 🎉 Liberation Day | 7.6665747437384 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I bought Friendster for $30k – Here&#039;s what I&#039;m doing with it](https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d)
+> [Flipdiscs](https://flipdisc.io)
 >
-> 🔥 516 points
+> 🔥 67 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
