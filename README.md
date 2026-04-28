@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good evening! ☕
 
-🏠 **Done for the day** · Tuesday, April 28 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, April 28 · ⏰ 19:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 16°C, broken clouds |
+| ☁️ Groningen | 15°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Liberation Day | 6.2915613884144 days |
+| 🎉 Liberation Day | 6.2082339564005 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Localsend: An open-source cross-platform alternative to AirDrop](https://github.com/localsend/localsend)
 >
-> 🔥 306 points
+> 🔥 470 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
