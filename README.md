@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🏠 **Done for the day** · Monday, April 27 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, April 28 · ⏰ 03:00 CET
 
 ---
 
@@ -36,31 +36,31 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
 | ☁️ Groningen | 8°C, overcast clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 7.083241638206 days |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Liberation Day | 6.8749178633102 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [China blocks Meta&#039;s acquisition of AI startup Manus](https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html)
+> [To My Students](http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml)
 >
-> 🔥 87 points
+> 🔥 173 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
