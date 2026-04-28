@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Tuesday, April 28 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, April 28 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 12°C, broken clouds |
+| ☁️ Groningen | 14°C, scattered clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Liberation Day | 6.5832437078356 days |
+| 🎉 Liberation Day | 6.4582420856134 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GTFOBins](https://gtfobins.org/)
+> [An Update on GitHub Availability](https://github.blog/news-insights/company-news/an-update-on-github-availability/)
 >
-> 🔥 83 points
+> 🔥 52 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
