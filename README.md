@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Wednesday, April 29 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, April 29 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 11°C, few clouds |
+| ☁️ Groningen | 16°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Liberation Day | 5.5832357377662 days |
+| 🎉 Liberation Day | 5.4582385982639 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
+> [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
 >
-> 🔥 2385 points
+> 🔥 78 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
