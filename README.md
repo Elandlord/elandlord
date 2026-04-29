@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🏠 **Done for the day** · Tuesday, April 28 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, April 29 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 11°C, clear sky |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Liberation Day | 6.0832507774884 days |
+| ☀️ Groningen | 6°C, clear sky |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Liberation Day | 5.874911599213 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 >
-> 🔥 210 points
+> 🔥 1569 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
