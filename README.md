@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Wednesday, April 29 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, April 29 · ⏰ 06:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☀️ Groningen | 6°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Liberation Day | 5.874911599213 days |
+| 🎉 Liberation Day | 5.7499111758449 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Ghostty is leaving GitHub](https://mitchellh.com/writing/ghostty-leaving-github)
 >
-> 🔥 1569 points
+> 🔥 1933 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
