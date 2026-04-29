@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Wednesday, April 29 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, April 29 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 16°C, few clouds |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Liberation Day | 5.4582385982639 days |
+| 🎉 Liberation Day | 5.291556555544 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Soft launch of open-source code platform for government](https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/)
+> [Zed is 1.0](https://zed.dev/blog/zed-1-0)
 >
-> 🔥 78 points
+> 🔥 119 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
