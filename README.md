@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Thursday, April 30 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, April 30 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 16°C, clear sky |
+| ☀️ Groningen | 19°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Liberation Day | 4.4582375591667 days |
+| 🎉 Liberation Day | 4.291569468125 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Granite 4.1: IBM&#039;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
+> [Belgium stops decommissioning nuclear power plants](https://dpa-international.com/general-news/urn:newsml:dpa.com:20090101:260430-930-14717/)
 >
-> 🔥 25 points
+> 🔥 305 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
