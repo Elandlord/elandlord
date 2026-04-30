@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-😴 **Still sleeping (or should be)** · Thursday, April 30 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, April 30 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 8°C, few clouds |
+| ☀️ Groningen | 5°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Liberation Day | 4.874903118044 days |
+| 🎉 Liberation Day | 4.7499150570833 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Zed 1.0](https://zed.dev/blog/zed-1-0)
+> [Where the Goblins Came From](https://openai.com/index/where-the-goblins-came-from/)
 >
-> 🔥 1492 points
+> 🔥 80 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
