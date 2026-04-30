@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-☕ **Getting ready for work** · Thursday, April 30 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, April 30 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 7°C, clear sky |
+| ☀️ Groningen | 13°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Liberation Day | 4.666573511169 days |
+| 🎉 Liberation Day | 4.5832307315856 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
 >
-> 🔥 313 points
+> 🔥 478 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
