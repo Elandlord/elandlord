@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Thursday, April 30 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, April 30 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 13°C, clear sky |
+| ☀️ Groningen | 16°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Liberation Day | 4.5832307315856 days |
+| 🎉 Liberation Day | 4.4582375591667 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Where the goblins came from](https://openai.com/index/where-the-goblins-came-from/)
+> [Granite 4.1: IBM&#039;s 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)
 >
-> 🔥 478 points
+> 🔥 25 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
