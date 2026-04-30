@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🏠 **Done for the day** · Wednesday, April 29 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, April 30 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌔
+## Quick Stats 🌕
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 11°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Liberation Day | 5.0832318458681 days |
+| 🌙 Moon phase | Full Moon |
+| ☁️ Groningen | 8°C, few clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Liberation Day | 4.874903118044 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [HERMES.md: Anthropic bug causes $200 extra charge, refuses refund](https://github.com/anthropics/claude-code/issues/53262)
+> [Zed 1.0](https://zed.dev/blog/zed-1-0)
 >
-> 🔥 382 points
+> 🔥 1492 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
