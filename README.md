@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Friday, May 1 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, May 1 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 7°C, clear sky |
+| ☀️ Groningen | 9°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Liberation Day | 3.7499152353819 days |
+| 🎉 Liberation Day | 3.6665812035532 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Winpodx – run Windows apps on Linux as native windows](https://github.com/kernalix7/winpodx)
+> [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
 >
-> 🔥 30 points
+> 🔥 520 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
