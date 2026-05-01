@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Friday, May 1 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, May 1 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 15°C, clear sky |
+| ☀️ Groningen | 20°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Liberation Day | 3.5832417233102 days |
+| 🎉 Liberation Day | 3.4582518976736 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+> [After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber](https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/)
 >
-> 🔥 568 points
+> 🔥 23 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
