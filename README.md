@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good night! ⚡
 
-🏠 **Done for the day** · Thursday, April 30 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, May 1 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 15°C, clear sky |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Liberation Day | 4.0831945600347 days |
+| ☀️ Groningen | 10°C, clear sky |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Liberation Day | 3.8749121595139 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
+> [Rivian allows you to disable all internet connectivity](https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle)
 >
-> 🔥 270 points
+> 🔥 443 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Code is like humor. When you have to explain it, it&#039;s bad."
+> "First, solve the problem. Then, write the code."
 >
-> — *Cory House*
+> — *John Johnson*
 
 ---
 
 ## Did You Know? 🤓
 
-JavaScript was created in just 10 days.
+The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
