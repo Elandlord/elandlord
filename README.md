@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Friday, May 1 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, May 1 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 9°C, clear sky |
+| ☀️ Groningen | 15°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Liberation Day | 3.6665812035532 days |
+| 🎉 Liberation Day | 3.5832417233102 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [How Mark Klein told the EFF about Room 641A [book excerpt]](https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/)
 >
-> 🔥 520 points
+> 🔥 568 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
