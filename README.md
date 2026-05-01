@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good evening! 🔥
 
-🏠 **Done for the day** · Friday, May 1 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, May 1 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | ☀️ Groningen | 24°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Liberation Day | 3.2915748163426 days |
+| 🎉 Liberation Day | 3.208202572963 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Your Website Is Not for You](https://websmith.studio/blog/your-website-is-not-for-you/)
+> [Uber Torches 2026 AI Budget on Claude Code in Four Months](https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/)
 >
-> 🔥 151 points
+> 🔥 81 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
