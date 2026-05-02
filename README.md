@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good afternoon! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 20°C, clear sky |
+| ☁️ Groningen | 23°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 2.5832522770833 days |
+| 🎉 Liberation Day | 2.458247800787 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Why does it take so long to release black fan versions?](https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions)
+> [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
 >
-> 🔥 124 points
+> 🔥 27 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
