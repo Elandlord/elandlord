@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 12°C, clear sky |
+| ☀️ Groningen | 11°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 2.8748956206829 days |
+| 🎉 Liberation Day | 2.749919655463 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Ti-84 Evo](https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo)
 >
-> 🔥 257 points
+> 🔥 348 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
