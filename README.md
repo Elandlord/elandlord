@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 22°C, scattered clouds |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 2.291572466713 days |
+| 🎉 Liberation Day | 2.2082306861343 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
+> [LLMs consistently pick resumes they generate over ones by humans or other models](https://arxiv.org/abs/2509.00462)
 >
-> 🔥 123 points
+> 🔥 203 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
