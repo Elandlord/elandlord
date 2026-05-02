@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 17:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 23°C, scattered clouds |
+| ☁️ Groningen | 22°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 2.458247800787 days |
+| 🎉 Liberation Day | 2.291572466713 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [How fast is a macOS VM, and how small could it be?](https://eclecticlight.co/2026/05/02/how-fast-is-a-macos-vm-and-how-small-could-it-be/)
 >
-> 🔥 27 points
+> 🔥 123 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
