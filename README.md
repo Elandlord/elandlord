@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌧️ Groningen | 12°C, light intensity drizzle |
+| 🌫️ Groningen | 14°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 1.749919171412 days |
+| 🎉 Liberation Day | 1.6665664029514 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
+> [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
 >
-> 🔥 43 points
+> 🔥 131 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
