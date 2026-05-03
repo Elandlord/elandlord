@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 10:03 CET
+🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 13:00 CET
 
 ---
 
@@ -23,9 +23,10 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 | | |
 |--------|-------|
-| 📁 Public repos | 0 |
-| ⭐ Total stars | 0 |
-| 👥 Followers | 0 |
+| 📁 Public repos | 48 |
+| ⭐ Total stars | 8 |
+| 👥 Followers | 7 |
+| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
 
 ---
 
@@ -34,15 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 21°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 1.5806219234375 days |
+| 🎉 Liberation Day | 1.4582379883218 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> No stories available right now
+> [A couple million lines of Haskell: Production engineering at Mercury](https://blog.haskell.org/a-couple-million-lines-of-haskell/)
+>
+> 🔥 234 points
 
 ---
 
@@ -60,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:03 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
