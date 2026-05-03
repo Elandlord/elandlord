@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good morning! 📚
 
-🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 13°C, few clouds |
+| 🌧️ Groningen | 12°C, light intensity drizzle |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 1.8749076306134 days |
+| 🎉 Liberation Day | 1.749919171412 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [VS Code inserting &#039;Co-Authored-by Copilot&#039; into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
+> [Open Source Does Not Imply Open Community](https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/)
 >
-> 🔥 682 points
+> 🔥 43 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
