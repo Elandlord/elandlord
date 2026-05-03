@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ✨
 
-🎉 **Enjoying the weekend** · Saturday, May 2 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 15°C, overcast clouds |
+| ☁️ Groningen | 13°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 2.0832429988773 days |
+| 🎉 Liberation Day | 1.8749076306134 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Dav2d](https://code.videolan.org/videolan/dav2d)
+> [VS Code inserting &#039;Co-Authored-by Copilot&#039; into commits regardless of usage](https://github.com/microsoft/vscode/pull/310226)
 >
-> 🔥 131 points
+> 🔥 682 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Experience is the name everyone gives to their mistakes."
+> "The best error message is the one that never shows up."
 >
-> — *Oscar Wilde*
+> — *Thomas Fuchs*
 
 ---
 
 ## Did You Know? 🤓
 
-&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
+There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
