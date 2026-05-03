@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 10:03 CET
 
 ---
 
@@ -23,10 +23,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 | | |
 |--------|-------|
-| 📁 Public repos | 49 |
-| ⭐ Total stars | 9 |
-| 👥 Followers | 7 |
-| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
+| 📁 Public repos | 0 |
+| ⭐ Total stars | 0 |
+| 👥 Followers | 0 |
 
 ---
 
@@ -35,17 +34,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌫️ Groningen | 14°C, mist |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 1.6665664029514 days |
+| 🎉 Liberation Day | 1.5806219234375 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge](https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/)
->
-> 🔥 131 points
+> No stories available right now
 
 ---
 
@@ -63,4 +60,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:03 CET · Built with Laravel</sub>
