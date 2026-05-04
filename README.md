@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Monday, May 4 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, May 4 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | 🌫️ Groningen | 12°C, mist |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 0.74990876774306 days |
+| 🎉 Liberation Day | 0.66657632858796 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+> [Humanoid Robot Actuators: The Complete Engineering Guide](https://www.firgelli.com/pages/humanoid-robot-actuators)
 >
-> 🔥 297 points
+> 🔥 45 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
