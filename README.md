@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Monday, May 4 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, May 4 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌫️ Groningen | 13°C, mist |
+| 🌧️ Groningen | 13°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 0.58323344908565 days |
+| 🎉 Liberation Day | 0.45823894383102 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Humanoid Robot Actuators](https://www.firgelli.com/pages/humanoid-robot-actuators)
+> [GameStop makes $55.5B takeover offer for eBay](https://www.bbc.co.uk/news/articles/cn0p8yled1do)
 >
-> 🔥 105 points
+> 🔥 99 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
