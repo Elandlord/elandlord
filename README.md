@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Monday, May 4 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, May 4 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 12°C, overcast clouds |
+| 🌫️ Groningen | 12°C, mist |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 0.87490950050926 days |
+| 🎉 Liberation Day | 0.74990876774306 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
+> [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
 >
-> 🔥 50 points
+> 🔥 297 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
