@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, May 3 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, May 4 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌕
+## Quick Stats 🌖
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 15°C, overcast clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Liberation Day | 1.0832384463194 days |
+| 🌙 Moon phase | Waning Gibbous |
+| ☁️ Groningen | 12°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Liberation Day | 0.87490950050926 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [BYOMesh – New LoRa mesh radio offers 100x the bandwidth](https://partyon.xyz/@nullagent/116499715071759135)
+> [The text mode lie: why modern TUIs are a nightmare for accessibility](https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility)
 >
-> 🔥 95 points
+> 🔥 50 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
