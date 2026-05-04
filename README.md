@@ -1,6 +1,6 @@
-# Good evening! 🛠️
+# Good night! 🎸
 
-🏠 **Done for the day** · Monday, May 4 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, May 4 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 10°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 0.20823438541667 days |
+| 🎉 Liberation Day | 0.083236188761574 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Removable batteries in smartphones will be mandatory in the EU starting in 2027](https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/)
+> [Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
 >
-> 🔥 278 points
+> 🔥 105 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
