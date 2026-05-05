@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Tuesday, May 5 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, May 5 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 233.87490180696 days |
+| 🎉 Christmas | 233.74990604458 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
+> [What I&#039;m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
 >
-> 🔥 256 points
+> 🔥 61 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
