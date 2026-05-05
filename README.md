@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-😴 **Still sleeping (or should be)** · Tuesday, May 5 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, May 5 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 233.74990604458 days |
+| 🎉 Christmas | 233.66658127212 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [What I&#039;m Hearing About Cognitive Debt (So Far)](https://margaretstorey.com/blog/2026/02/18/cognitive-debt-revisited/)
+> [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
 >
-> 🔥 61 points
+> 🔥 78 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
