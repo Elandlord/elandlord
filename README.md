@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good night! 🛠️
 
-🏠 **Done for the day** · Monday, May 4 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, May 5 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 10°C, overcast clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Liberation Day | 0.083236188761574 days |
+| ☁️ Groningen | 9°C, overcast clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 233.87490180696 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Securing a DoD Contractor: Finding a Multi-Tenant Authorization Vulnerability](https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup)
+> [How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/)
 >
-> 🔥 105 points
+> 🔥 256 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Simplicity is the soul of efficiency."
+> "Make it work, make it right, make it fast."
 >
-> — *Austin Freeman*
+> — *Kent Beck*
 
 ---
 
 ## Did You Know? 🤓
 
-The QWERTY keyboard was designed to slow typists down.
+The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
