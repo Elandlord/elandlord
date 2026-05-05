@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good morning! 🚀
 
-☕ **Getting ready for work** · Tuesday, May 5 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, May 5 · ⏰ 10:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 233.66658127212 days |
+| 🎉 Christmas | 233.5832163695 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [About 10% of AMC movie showings sell zero tickets. This site finds them](https://walzr.com/empty-screenings)
+> [Async Rust never left the MVP state](https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state)
 >
-> 🔥 78 points
+> 🔥 34 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
