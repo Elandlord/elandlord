@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🏠 **Done for the day** · Wednesday, May 6 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, May 6 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 13°C, few clouds |
+| ☁️ Groningen | 13°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 232.29156876932 days |
+| 🎉 Christmas | 232.20824260229 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Red Squares – GitHub outages as contributions](https://red-squares.cian.lol/)
+> [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
 >
-> 🔥 563 points
+> 🔥 213 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
