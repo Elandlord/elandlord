@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🏠 **Done for the day** · Thursday, May 7 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, May 7 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 14°C, scattered clouds |
+| ☁️ Groningen | 11°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 231.20823260498 days |
+| 🎉 Christmas | 231.08321022542 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
 >
-> 🔥 281 points
+> 🔥 432 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
