@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Thursday, May 7 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, May 7 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 14°C, broken clouds |
+| ☁️ Groningen | 15°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 231.45824327361 days |
+| 🎉 Christmas | 231.29157345307 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Valve releases Steam Controller CAD files under Creative Commons license](https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license)
+> [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
 >
-> 🔥 1464 points
+> 🔥 110 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
