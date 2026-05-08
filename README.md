@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🏠 **Done for the day** · Friday, May 8 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, May 8 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 17°C, few clouds |
+| ☀️ Groningen | 14°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 230.20824342071 days |
+| 🎉 Christmas | 230.0832410369 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Serving a Website on a Raspberry Pi Zero Running in RAM](https://btxx.org/posts/memory/)
+> [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
 >
-> 🔥 69 points
+> 🔥 508 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
