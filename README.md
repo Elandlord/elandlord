@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Friday, May 8 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, May 8 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 9°C, broken clouds |
+| ☁️ Groningen | 7°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 230.87489652559 days |
+| 🎉 Christmas | 230.74990834183 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
+> [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 >
-> 🔥 152 points
+> 🔥 370 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
