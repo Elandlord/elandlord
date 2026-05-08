@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Friday, May 8 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, May 8 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 7°C, broken clouds |
+| ☁️ Groningen | 8°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 230.74990834183 days |
+| 🎉 Christmas | 230.666574422 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Canvas is down as ShinyHunters threatens to leak schools’ data](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 >
-> 🔥 370 points
+> 🔥 488 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
