@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Thursday, May 7 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, May 8 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌖
+## Quick Stats 🌗
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 11°C, scattered clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 231.08321022542 days |
+| 🌙 Moon phase | Last Quarter |
+| ☁️ Groningen | 9°C, broken clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 230.87489652559 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The map that keeps Burning Man honest](https://www.not-ship.com/burning-man-moop/)
+> [Canvas (Instructure) LMS Down in Ongoing Ransomware Attack](https://www.theverge.com/tech/926458/canvas-shinyhunters-breach)
 >
-> 🔥 432 points
+> 🔥 152 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
