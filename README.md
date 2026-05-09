@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good morning! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, May 9 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 9 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 7°C, few clouds |
+| ☁️ Groningen | 6°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 229.87491504436 days |
+| 🎉 Christmas | 229.74990379712 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
 >
-> 🔥 555 points
+> 🔥 738 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
