@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🏠 **Done for the day** · Friday, May 8 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 9 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 14°C, clear sky |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 230.0832410369 days |
+| ☁️ Groningen | 7°C, few clouds |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 Christmas | 229.87491504436 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Google Cloud Fraud Defence is just WEI repackaged](https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/)
+> [Google broke reCAPTCHA for de-googled Android users](https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users)
 >
-> 🔥 508 points
+> 🔥 555 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
