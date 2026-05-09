@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🎉 **Enjoying the weekend** · Saturday, May 9 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 9 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 16°C, broken clouds |
+| ☁️ Groningen | 14°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 229.20825188972 days |
+| 🎉 Christmas | 229.08324170466 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Internet Archive Switzerland](https://internetarchive.ch/)
+> [Bun&#039;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
 >
-> 🔥 285 points
+> 🔥 74 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
