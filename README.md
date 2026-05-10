@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good afternoon! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, May 10 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 10 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 12°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 228.45825334744 days |
+| 🎉 Christmas | 228.29157604992 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Idempotency Is Easy Until the Second Request Is Different](https://blog.dochia.dev/blog/idempotency/)
+> [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
 >
-> 🔥 56 points
+> 🔥 160 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
