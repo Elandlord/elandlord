@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good night! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, May 9 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 10 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 12°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 229.08324170466 days |
+| 🎉 Christmas | 228.87490274181 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Bun&#039;s experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc](https://twitter.com/jarredsumner/status/2053047748191232310)
 >
-> 🔥 74 points
+> 🔥 384 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Deleted code is debugged code."
+> "The only way to go fast, is to go well."
 >
-> — *Jeff Sickel*
+> — *Robert C. Martin*
 
 ---
 
 ## Did You Know? 🤓
 
-The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
+The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
