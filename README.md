@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good evening! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, May 10 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 10 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 12°C, overcast clouds |
+| ☁️ Groningen | 11°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 228.29157604992 days |
+| 🎉 Christmas | 228.20824309944 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Space Cadet Pinball on Linux](https://brennan.io/2026/05/09/pinball-and-escrow/)
+> [I returned to AWS, and was reminded why I left](http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html)
 >
-> 🔥 160 points
+> 🔥 370 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
