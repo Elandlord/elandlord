@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🏠 **Done for the day** · Monday, May 11 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, May 11 · ⏰ 19:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 10°C, broken clouds |
+| ☁️ Groningen | 9°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 227.29157365116 days |
+| 🎉 Christmas | 227.20823756185 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 >
-> 🔥 324 points
+> 🔥 449 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
