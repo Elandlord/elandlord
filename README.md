@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Monday, May 11 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, May 11 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 9°C, few clouds |
+| 🌧️ Groningen | 7°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 227.20823756185 days |
+| 🎉 Christmas | 227.0832103426 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
+> [CUDA-oxide: Nvidia&#039;s official Rust to CUDA compiler](https://nvlabs.github.io/cuda-oxide/index.html)
 >
-> 🔥 449 points
+> 🔥 277 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
