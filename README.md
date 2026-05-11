@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, May 10 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, May 11 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 9°C, overcast clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 228.08324505735 days |
+| ☁️ Groningen | 5°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 227.87490761672 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
 >
-> 🔥 347 points
+> 🔥 824 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
