@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Monday, May 11 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, May 11 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 9°C, light rain |
+| ☁️ Groningen | 10°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 227.45824395774 days |
+| 🎉 Christmas | 227.29157365116 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Hardware Attestation as Monopoly Enabler](https://grapheneos.social/@GrapheneOS/116550899908879585)
+> [Ratty – A terminal emulator with inline 3D graphics](https://ratty-term.org/)
 >
-> 🔥 1616 points
+> 🔥 324 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
