@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🏠 **Done for the day** · Tuesday, May 12 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, May 12 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 11°C, scattered clouds |
+| 🌧️ Groningen | 9°C, drizzle |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 226.20824023821 days |
+| 🎉 Christmas | 226.08322632578 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
+> [Googlebook](https://googlebook.google/)
 >
-> 🔥 216 points
+> 🔥 294 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
