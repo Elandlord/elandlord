@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-☕ **Getting ready for work** · Tuesday, May 12 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, May 12 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 7°C, scattered clouds |
+| ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 226.66656341449 days |
+| 🎉 Christmas | 226.5832276331 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
+> [Postmortem: TanStack NPM supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
 >
-> 🔥 705 points
+> 🔥 781 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
