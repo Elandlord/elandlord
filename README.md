@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Tuesday, May 12 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, May 12 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 11°C, few clouds |
+| ☁️ Groningen | 12°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 226.45823626936 days |
+| 🎉 Christmas | 226.291575166 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Learning Software Architecture](https://matklad.github.io/2026/05/12/software-architecture.html)
+> [Rendering the Sky, Sunsets, and Planets](https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/)
 >
-> 🔥 75 points
+> 🔥 105 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
