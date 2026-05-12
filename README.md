@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Monday, May 11 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, May 12 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌗
+## Quick Stats 🌘
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 7°C, light rain |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 227.0832103426 days |
+| 🌙 Moon phase | Waning Crescent |
+| ☁️ Groningen | 6°C, overcast clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 226.87489915243 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [CUDA-oxide: Nvidia&#039;s official Rust to CUDA compiler](https://nvlabs.github.io/cuda-oxide/index.html)
+> [Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
 >
-> 🔥 277 points
+> 🔥 485 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
