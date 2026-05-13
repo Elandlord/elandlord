@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Wednesday, May 13 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, May 13 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 7°C, broken clouds |
+| ☁️ Groningen | 6°C, scattered clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 225.87490942515 days |
+| 🎉 Christmas | 225.74990107257 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Googlebook](https://googlebook.google/)
+> [Restore full BambuNetwork support for Bambu Lab printers](https://github.com/FULU-Foundation/OrcaSlicer-bambulab)
 >
-> 🔥 590 points
+> 🔥 247 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
