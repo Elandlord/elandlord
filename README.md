@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Wednesday, May 13 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, May 13 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 13°C, broken clouds |
+| 🌧️ Groningen | 11°C, moderate rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 225.458231446 days |
+| 🎉 Christmas | 225.29154646074 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
+> [I Moved My Digital Stack to Europe](https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/)
 >
-> 🔥 199 points
+> 🔥 463 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
