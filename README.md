@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-☕ **Getting ready for work** · Wednesday, May 13 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, May 13 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 7°C, scattered clouds |
+| 🌧️ Groningen | 8°C, light rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 225.66657581074 days |
+| 🎉 Christmas | 225.58323746503 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Deterministic Fully-Static Whole-Binary Translation Without Heuristics](https://arxiv.org/abs/2605.08419)
 >
-> 🔥 63 points
+> 🔥 136 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
