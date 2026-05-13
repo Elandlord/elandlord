@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Wednesday, May 13 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, May 13 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 10°C, overcast clouds |
+| ☁️ Groningen | 9°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 225.20822324315 days |
+| 🎉 Christmas | 225.08323939446 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Setting up a free *.city.state.us locality domain](https://fredchan.org/blog/locality-domains-guide/)
+> [Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/)
 >
-> 🔥 209 points
+> 🔥 375 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
