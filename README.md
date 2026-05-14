@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🏠 **Done for the day** · Thursday, May 14 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, May 14 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 12°C, broken clouds |
+| ☁️ Groningen | 12°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 224.2915612978 days |
+| 🎉 Christmas | 224.20822149666 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Computer Hobby Movement in Canada](https://museum.eecs.yorku.ca/exhibits/show/hobby_canada/hobby_canada)
+> [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/)
 >
-> 🔥 66 points
+> 🔥 104 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
