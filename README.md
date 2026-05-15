@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good evening! ⚡
 
-🏠 **Done for the day** · Friday, May 15 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, May 15 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| 🌧️ Groningen | 10°C, light rain |
+| ☁️ Groningen | 9°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 223.29156270052 days |
+| 🎉 Christmas | 223.20824051064 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Wonders of AI: We Are Retiring Our Bug Bounty Program](https://turso.tech/blog/the-wonders-of-ai)
+> [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
 >
-> 🔥 148 points
+> 🔥 93 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
