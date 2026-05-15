@@ -1,6 +1,6 @@
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Friday, May 15 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, May 15 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 9°C, few clouds |
+| 🌧️ Groningen | 8°C, light rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 223.20824051064 days |
+| 🎉 Christmas | 223.08323624118 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
 >
-> 🔥 93 points
+> 🔥 436 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
