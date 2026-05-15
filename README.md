@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-😴 **Still sleeping (or should be)** · Friday, May 15 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, May 15 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | New Moon |
 | ☁️ Groningen | 5°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 223.87490186354 days |
+| 🎉 Christmas | 223.7499074063 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+> [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
 >
-> 🔥 577 points
+> 🔥 102 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
