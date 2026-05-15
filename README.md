@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Friday, May 15 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, May 15 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 5°C, overcast clouds |
+| ☁️ Groningen | 7°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 223.7499074063 days |
+| 🎉 Christmas | 223.66655510418 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Mullvad exit IPs are surprisingly identifying](https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/)
 >
-> 🔥 102 points
+> 🔥 224 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
