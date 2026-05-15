@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Friday, May 15 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, May 15 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 10°C, overcast clouds |
+| ☁️ Groningen | 12°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 223.5832321774 days |
+| 🎉 Christmas | 223.45824198447 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/)
+> [Explore Wikipedia Like a Windows XP Desktop](https://explorer.samismith.com/)
 >
-> 🔥 795 points
+> 🔥 93 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
