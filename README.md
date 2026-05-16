@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, May 16 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 16 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 4°C, broken clouds |
+| ☀️ Groningen | 5°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 222.87490359912 days |
+| 🎉 Christmas | 222.74990919837 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Erlang/OTP 29.0](https://www.erlang.org/news/188)
+> [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
 >
-> 🔥 54 points
+> 🔥 776 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
