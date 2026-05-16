@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, May 16 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 16 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 11°C, broken clouds |
+| ☁️ Groningen | 9°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 222.20823973332 days |
+| 🎉 Christmas | 222.08323386584 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools](https://mag.openrockets.com/p/how-an-australian-teen-team-is-making-radio-astronomy-affordable-for-rural-schools-4894opuisyhfdisubgi/?b=2)
+> [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
 >
-> 🔥 49 points
+> 🔥 56 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
