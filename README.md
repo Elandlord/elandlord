@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good night! ⚡
 
-🏠 **Done for the day** · Friday, May 15 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 16 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| 🌧️ Groningen | 8°C, light rain |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 223.08323624118 days |
+| ☁️ Groningen | 4°C, broken clouds |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 Christmas | 222.87490359912 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Project Gutenberg – keeps getting better](https://www.gutenberg.org/)
+> [Erlang/OTP 29.0](https://www.erlang.org/news/188)
 >
-> 🔥 436 points
+> 🔥 54 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Code is like humor. When you have to explain it, it&#039;s bad."
+> "First, solve the problem. Then, write the code."
 >
-> — *Cory House*
+> — *John Johnson*
 
 ---
 
 ## Did You Know? 🤓
 
-JavaScript was created in just 10 days.
+The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
