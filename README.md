@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good night! 🔥
 
-🎉 **Enjoying the weekend** · Saturday, May 16 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 17 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 9°C, overcast clouds |
+| ☁️ Groningen | 6°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 222.08323386584 days |
+| 🎉 Christmas | 221.87490393757 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Why is this site named Antipope?](https://www.antipope.org/charlie/old/antipope.html)
+> [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
 >
-> 🔥 56 points
+> 🔥 122 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "First, solve the problem. Then, write the code."
+> "Experience is the name everyone gives to their mistakes."
 >
-> — *John Johnson*
+> — *Oscar Wilde*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer virus was created in 1983 as an experiment.
+&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
