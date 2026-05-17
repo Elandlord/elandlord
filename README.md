@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🎉 **Enjoying the weekend** · Sunday, May 17 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 17 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 13°C, broken clouds |
+| ☁️ Groningen | 11°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 221.20824762929 days |
+| 🎉 Christmas | 221.08322911987 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
+> [Mercurial, 20 years and counting: how are we still alive and kicking? [video]](https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/)
 >
-> 🔥 84 points
+> 🔥 67 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
