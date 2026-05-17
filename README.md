@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good morning! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, May 17 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 17 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 8°C, broken clouds |
+| 🌧️ Groningen | 9°C, drizzle |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 221.66656057895 days |
+| 🎉 Christmas | 221.58323268215 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Zerostack – A Unix-inspired coding agent written in pure Rust](https://crates.io/crates/zerostack/1.0.0)
 >
-> 🔥 285 points
+> 🔥 343 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
