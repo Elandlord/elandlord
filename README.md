@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🎉 **Enjoying the weekend** · Sunday, May 17 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 17 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 16°C, broken clouds |
+| ☁️ Groningen | 13°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 221.2915763962 days |
+| 🎉 Christmas | 221.20824762929 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I don&#039;t think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)
+> [I turned a $80 RK3562 Android tablet into a Debian Linux workstation](https://github.com/tech4bot/rk3562deb)
 >
-> 🔥 158 points
+> 🔥 84 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
