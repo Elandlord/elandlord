@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎨
 
-🏠 **Done for the day** · Monday, May 18 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, May 18 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| 🌧️ Groningen | 13°C, heavy intensity rain |
+| ☁️ Groningen | 14°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 220.29153402082 days |
+| 🎉 Christmas | 220.20822951803 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
+> [We stopped AI bot spam in our GitHub repo using Git&#039;s –author flag](https://archestra.ai/blog/only-responsible-ai)
 >
-> 🔥 111 points
+> 🔥 149 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
