@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Monday, May 18 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, May 18 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 10°C, overcast clouds |
+| 🌧️ Groningen | 10°C, moderate rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 220.87489907197 days |
+| 🎉 Christmas | 220.74991509287 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [GenCAD](https://gencad.github.io/)
 >
-> 🔥 73 points
+> 🔥 163 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
