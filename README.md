@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Monday, May 18 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, May 18 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 14°C, overcast clouds |
+| 🌧️ Groningen | 13°C, heavy intensity rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 220.45822279368 days |
+| 🎉 Christmas | 220.29153402082 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The foundations of a provably secure operating system (PSOS) (1979) [pdf]](http://www.csl.sri.com/users/neumann/psos.pdf)
+> [Show HN: Files.md – Open-source alternative to Obsidian](https://github.com/zakirullin/files.md)
 >
-> 🔥 30 points
+> 🔥 111 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
