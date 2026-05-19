@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Tuesday, May 19 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, May 19 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 17°C, few clouds |
+| ☁️ Groningen | 18°C, few clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 219.45818834118 days |
+| 🎉 Christmas | 219.29156290537 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
+> [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)
 >
-> 🔥 72 points
+> 🔥 150 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
