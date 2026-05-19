@@ -1,6 +1,6 @@
-# Good evening! 🛠️
+# Good night! 🎸
 
-🏠 **Done for the day** · Tuesday, May 19 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, May 19 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌧️ Groningen | 16°C, light rain |
+| 🌧️ Groningen | 13°C, light rain |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 219.20823806788 days |
+| 🎉 Christmas | 219.0832327478 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I&#039;ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
+> [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
 >
-> 🔥 115 points
+> 🔥 192 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
