@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-☕ **Getting ready for work** · Tuesday, May 19 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, May 19 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 9°C, few clouds |
+| ☁️ Groningen | 15°C, few clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 219.66655633404 days |
+| 🎉 Christmas | 219.58321370028 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
 >
-> 🔥 186 points
+> 🔥 321 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
