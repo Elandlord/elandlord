@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Tuesday, May 19 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, May 19 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 15°C, few clouds |
+| ☁️ Groningen | 17°C, few clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 219.58321370028 days |
+| 🎉 Christmas | 219.45818834118 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)
+> [I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert](https://medium.com/@breid.at/ultra-pure-quantum-crystals-from-an-abandoned-mine-in-a-mysterious-desert-93cc87d12314)
 >
-> 🔥 321 points
+> 🔥 72 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
