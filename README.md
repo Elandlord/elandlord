@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Tuesday, May 19 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, May 19 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 8°C, clear sky |
+| 🌫️ Groningen | 6°C, fog |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 219.8748654759 days |
+| 🎉 Christmas | 219.74937263889 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Click (2016)](https://clickclickclick.click/)
+> [Peter Salus has died](https://www.tuhs.org/pipermail/tuhs/2026-May/033750.html)
 >
-> 🔥 167 points
+> 🔥 56 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
