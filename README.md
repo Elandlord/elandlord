@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Monday, May 18 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, May 19 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌑
+## Quick Stats 🌒
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 11°C, overcast clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 220.08323723498 days |
+| 🌙 Moon phase | Waxing Crescent |
+| ☀️ Groningen | 8°C, clear sky |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 219.8748654759 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Haiku OS runs on M1 Macs now](https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2)
+> [Click (2016)](https://clickclickclick.click/)
 >
-> 🔥 119 points
+> 🔥 167 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
