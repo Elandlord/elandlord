@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🏠 **Done for the day** · Tuesday, May 19 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, May 19 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 18°C, few clouds |
+| 🌧️ Groningen | 16°C, light rain |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 219.29156290537 days |
+| 🎉 Christmas | 219.20823806788 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenBSD 7.9 Released](https://www.openbsd.org/79.html)
+> [I&#039;ve built a virtual museum with nearly every operating system you can think of](https://virtualosmuseum.org/)
 >
-> 🔥 150 points
+> 🔥 115 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
