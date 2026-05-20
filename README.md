@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-😴 **Still sleeping (or should be)** · Wednesday, May 20 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, May 20 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 13°C, broken clouds |
+| ☁️ Groningen | 14°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 218.74990929767 days |
+| 🎉 Christmas | 218.66656580058 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
 >
-> 🔥 275 points
+> 🔥 379 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
