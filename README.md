@@ -1,6 +1,6 @@
-# Good evening! 📚
+# Good night! 🎮
 
-🏠 **Done for the day** · Wednesday, May 20 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, May 20 · ⏰ 22:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 15°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 218.2082288464 days |
+| 🎉 Christmas | 218.08324243269 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
+> [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 >
-> 🔥 659 points
+> 🔥 149 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
