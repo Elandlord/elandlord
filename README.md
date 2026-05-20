@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Wednesday, May 20 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, May 20 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 13°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 218.87490571711 days |
+| 🎉 Christmas | 218.74990929767 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gemini 3.5 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/)
+> [Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519)
 >
-> 🔥 532 points
+> 🔥 275 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
