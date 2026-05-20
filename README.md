@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Wednesday, May 20 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, May 20 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 15°C, broken clouds |
+| ☁️ Groningen | 16°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 218.45823503992 days |
+| 🎉 Christmas | 218.29156217461 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Everything in C is undefined behavior](https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html)
+> [Meta blocks human rights accounts from reaching audiences in Arabia and the UAE](https://www.alqst.org/ar/posts/1190)
 >
-> 🔥 212 points
+> 🔥 366 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
