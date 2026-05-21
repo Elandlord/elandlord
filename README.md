@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Thursday, May 21 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, May 21 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 19°C, broken clouds |
+| ☁️ Groningen | 20°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 217.45823712648 days |
+| 🎉 Christmas | 217.29156550135 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Google officially announces that ads will be included in AI Mode search results](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
+> [AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
 >
-> 🔥 55 points
+> 🔥 349 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
