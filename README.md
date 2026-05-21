@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🏠 **Done for the day** · Thursday, May 21 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, May 21 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 20°C, broken clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 217.29156550135 days |
+| 🎉 Christmas | 217.20822442906 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI is just unauthorised plagiarism at a bigger scale](https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/)
+> [Flipper One – we need your help](https://blog.flipper.net/flipper-one-we-need-your-help/)
 >
-> 🔥 349 points
+> 🔥 717 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
