@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Thursday, May 21 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, May 21 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 17°C, few clouds |
+| ☁️ Groningen | 19°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 217.58323648847 days |
+| 🎉 Christmas | 217.45823712648 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vivaldi 8.0: our biggest design overhaul](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
+> [Google officially announces that ads will be included in AI Mode search results](https://blog.google/products/ads-commerce/google-marketing-live-search-ads/)
 >
-> 🔥 32 points
+> 🔥 55 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
