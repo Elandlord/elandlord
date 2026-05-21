@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🏠 **Done for the day** · Wednesday, May 20 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, May 21 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 15°C, overcast clouds |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 218.08324243269 days |
+| ☁️ Groningen | 14°C, overcast clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 217.87491020285 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
 >
-> 🔥 149 points
+> 🔥 683 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
