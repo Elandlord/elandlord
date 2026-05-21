@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-☕ **Getting ready for work** · Thursday, May 21 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, May 21 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 14°C, broken clouds |
+| ☁️ Groningen | 17°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 217.66653864914 days |
+| 🎉 Christmas | 217.58323648847 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [An OpenAI model has disproved a central conjecture in discrete geometry](https://openai.com/index/model-disproves-discrete-geometry-conjecture/)
+> [Vivaldi 8.0: our biggest design overhaul](https://vivaldi.com/blog/vivaldi-on-desktop-8-0/)
 >
-> 🔥 964 points
+> 🔥 32 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
