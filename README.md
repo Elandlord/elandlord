@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🏠 **Done for the day** · Friday, May 22 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, May 22 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 25°C, few clouds |
+| ☁️ Groningen | 19°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 216.20823558844 days |
+| 🎉 Christmas | 216.0832363311 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 >
-> 🔥 158 points
+> 🔥 326 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
