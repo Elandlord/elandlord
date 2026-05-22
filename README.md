@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good night! 🌟
 
-🏠 **Done for the day** · Thursday, May 21 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, May 22 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 16°C, few clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 217.08321623237 days |
+| ☁️ Groningen | 14°C, overcast clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 216.87487053881 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Amazon, Facebook, FBI have access to a private intelligence-sharing network](https://prismreports.org/2026/05/20/seattle-shield-private-companies-surveillance/)
+> [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
 >
-> 🔥 306 points
+> 🔥 527 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Any fool can write code that a computer can understand."
+> "Programs must be written for people to read."
 >
-> — *Martin Fowler*
+> — *Harold Abelson*
 
 ---
 
 ## Did You Know? 🤓
 
-Email is older than the World Wide Web.
+The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
