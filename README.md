@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎸
 
-🟢 **Working from Groningen** · Friday, May 22 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, May 22 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 22°C, few clouds |
+| ☁️ Groningen | 25°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 216.45822441616 days |
+| 🎉 Christmas | 216.20823558844 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
+> [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many)
 >
-> 🔥 4 points
+> 🔥 158 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
