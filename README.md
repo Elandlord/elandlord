@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Friday, May 22 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, May 22 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 19°C, scattered clouds |
+| ☁️ Groningen | 22°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 216.58323167559 days |
+| 🎉 Christmas | 216.45822441616 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs](https://arxiv.org/abs/2605.19269)
+> [The case against boolean logic](https://abuseofnotation.github.io/boolean-thinking/)
 >
-> 🔥 49 points
+> 🔥 4 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
