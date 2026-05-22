@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good morning! 🏃
 
-😴 **Still sleeping (or should be)** · Friday, May 22 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, May 22 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 14°C, overcast clouds |
+| 🌧️ Groningen | 13°C, light rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 216.87487053881 days |
+| 🎉 Christmas | 216.74990283969 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Project Hail Mary – Stellar Navigation Chart](https://valhovey.github.io/gaia-mary/)
 >
-> 🔥 527 points
+> 🔥 665 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
