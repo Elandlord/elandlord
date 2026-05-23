@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🎉 **Enjoying the weekend** · Saturday, May 23 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 23 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 27°C, overcast clouds |
+| ☁️ Groningen | 28°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 215.45824112741 days |
+| 🎉 Christmas | 215.29157346594 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
+> [On The &lt;dl&gt;](https://benmyers.dev/blog/on-the-dl/)
 >
-> 🔥 483 points
+> 🔥 89 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
