@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, May 23 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 23 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 17°C, scattered clouds |
+| ☁️ Groningen | 21°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 215.66656844847 days |
+| 🎉 Christmas | 215.58324442543 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)
+> [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda)
 >
-> 🔥 188 points
+> 🔥 380 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
