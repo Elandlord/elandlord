@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good morning! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, May 24 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 24 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 14°C, overcast clouds |
+| 🌫️ Groningen | 13°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 214.87490977028 days |
+| 🎉 Christmas | 214.7498962402 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [It&#039;s time to talk about my writerdeck](https://veronicaexplains.net/my-first-writerdeck/)
+> [Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
 >
-> 🔥 266 points
+> 🔥 87 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
