@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🎉 **Enjoying the weekend** · Sunday, May 24 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 24 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 21°C, few clouds |
+| ☁️ Groningen | 17°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 214.20823313693 days |
+| 🎉 Christmas | 214.08324792156 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Usborne 1980s Computer Books](https://usborne.com/us/books/computer-and-coding-books)
+> [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
 >
-> 🔥 39 points
+> 🔥 272 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
