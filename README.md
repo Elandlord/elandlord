@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-🎉 **Enjoying the weekend** · Sunday, May 24 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 24 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌫️ Groningen | 13°C, mist |
+| 🌫️ Groningen | 14°C, mist |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 214.7498962402 days |
+| 🎉 Christmas | 214.66656630042 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft open-sources &quot;the earliest DOS source code discovered to date&quot;](https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/)
+> [Amazon Web Services – Four Years and Out](https://www.adventuresinoss.com/aws-four-years/)
 >
-> 🔥 87 points
+> 🔥 48 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
