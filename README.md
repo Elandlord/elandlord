@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Monday, May 25 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, May 25 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 12°C, scattered clouds |
+| ☁️ Groningen | 15°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 213.74990511587 days |
+| 🎉 Christmas | 213.66656229206 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
+> [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
 >
-> 🔥 226 points
+> 🔥 25 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
