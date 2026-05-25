@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good night! 🏃
 
-🎉 **Enjoying the weekend** · Sunday, May 24 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, May 25 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 17°C, few clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 214.08324792156 days |
+| ☁️ Groningen | 13°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 213.87491185861 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost](https://esengine.github.io/DeepSeek-Reasonix/)
+> [Show HN: Audiomass – a free, open-source multitrack audio editor for the web](https://audiomass.co/?multitrack=1)
 >
-> 🔥 272 points
+> 🔥 121 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Deleted code is debugged code."
+> "The only way to go fast, is to go well."
 >
-> — *Jeff Sickel*
+> — *Robert C. Martin*
 
 ---
 
 ## Did You Know? 🤓
 
-The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
+The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
