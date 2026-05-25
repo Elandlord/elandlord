@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Monday, May 25 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, May 25 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 15°C, scattered clouds |
+| ☁️ Groningen | 20°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 213.66656229206 days |
+| 🎉 Christmas | 213.58322899069 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Jira Is Turing-Complete](https://seriot.ch/computation/jira.html)
 >
-> 🔥 25 points
+> 🔥 126 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
