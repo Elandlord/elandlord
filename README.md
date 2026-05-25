@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good night! ☕
 
-🟢 **Working from Groningen** · Monday, May 25 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, May 25 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 24°C, clear sky |
+| ☀️ Groningen | 22°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 213.45824117517 days |
+| 🎉 Christmas | 213.0832328395 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Magnifica Humanitas (Encyclical Letter)](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
+> [Exit IP VPN servers mitigation rollout](https://mullvad.net/en/help/exit-ip-vpn-servers-mitigation-rollout)
 >
-> 🔥 40 points
+> 🔥 103 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
