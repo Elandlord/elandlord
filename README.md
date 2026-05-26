@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Tuesday, May 26 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, May 26 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 25°C, clear sky |
+| ☀️ Groningen | 20°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 212.20823098966 days |
+| 🎉 Christmas | 212.08324681731 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Language Models Need Sleep](https://arxiv.org/abs/2605.26099)
+> [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
 >
-> 🔥 61 points
+> 🔥 93 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
