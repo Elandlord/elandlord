@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Tuesday, May 26 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, May 26 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 28°C, clear sky |
+| ☀️ Groningen | 30°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 212.45824112081 days |
+| 🎉 Christmas | 212.29157378103 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty](https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html)
+> [GitHub Actions down again today](https://www.githubstatus.com/?today)
 >
-> 🔥 28 points
+> 🔥 454 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
