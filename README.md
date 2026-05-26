@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Tuesday, May 26 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, May 26 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 16°C, clear sky |
+| ☀️ Groningen | 14°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 212.87490947013 days |
+| 🎉 Christmas | 212.74990254992 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
 >
-> 🔥 60 points
+> 🔥 250 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
