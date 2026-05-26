@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good afternoon! 📚
 
-☕ **Getting ready for work** · Tuesday, May 26 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, May 26 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 19°C, clear sky |
+| ☀️ Groningen | 28°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 212.66656262197 days |
+| 🎉 Christmas | 212.45824112081 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)
+> [I bypassed AWS API Gateway auth with a trailing slash. Got $12K bounty](https://theguptalog.blogspot.com/2026/04/i-bypassed-aws-api-gateway-auth-with.html)
 >
-> 🔥 405 points
+> 🔥 28 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
