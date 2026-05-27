@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Wednesday, May 27 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, May 27 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 12°C, clear sky |
+| ☁️ Groningen | 14°C, scattered clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 211.7499091633 days |
+| 🎉 Christmas | 211.66656213523 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
+> [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
 >
-> 🔥 111 points
+> 🔥 127 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
