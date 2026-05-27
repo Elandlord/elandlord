@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-☕ **Getting ready for work** · Wednesday, May 27 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, May 27 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 14°C, scattered clouds |
+| ☁️ Groningen | 16°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 211.66656213523 days |
+| 🎉 Christmas | 211.58323272231 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Where does next-token prediction leave us?](https://pop.rdi.sh/where-does-next-token-prediction-leave-us/)
+> [The Structural Barriers to AI Lawyers](https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers)
 >
-> 🔥 127 points
+> 🔥 21 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
