@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Wednesday, May 27 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, May 27 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 16°C, few clouds |
+| ☁️ Groningen | 16°C, scattered clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 211.58323272231 days |
+| 🎉 Christmas | 211.4582291037 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Structural Barriers to AI Lawyers](https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers)
+> [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
 >
-> 🔥 21 points
+> 🔥 36 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
