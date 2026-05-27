@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Tuesday, May 26 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, May 27 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 20°C, clear sky |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 212.08324681731 days |
+| ☀️ Groningen | 14°C, clear sky |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Christmas | 211.8749018911 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Stop Advertising in Your Commits](https://akselmo.dev/posts/stop-advertising-in-your-commits/)
+> [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
 >
-> 🔥 93 points
+> 🔥 209 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
