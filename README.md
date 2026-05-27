@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🏠 **Done for the day** · Wednesday, May 27 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, May 27 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 16°C, clear sky |
+| ☀️ Groningen | 12°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 211.20823415536 days |
+| 🎉 Christmas | 211.08322766405 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I&#039;m Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
+> [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
 >
-> 🔥 1526 points
+> 🔥 322 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
