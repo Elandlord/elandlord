@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Wednesday, May 27 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, May 27 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 14°C, clear sky |
+| ☀️ Groningen | 12°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 211.8749018911 days |
+| 🎉 Christmas | 211.7499091633 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Chemistry behind the Garden Grove chemical tank](https://www.science.org/content/blog-post/methyl-methacrylate-tank)
+> [Cloudflare Flagship](https://developers.cloudflare.com/flagship/)
 >
-> 🔥 209 points
+> 🔥 111 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
