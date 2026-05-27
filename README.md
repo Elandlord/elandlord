@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Wednesday, May 27 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, May 27 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 16°C, scattered clouds |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 211.4582291037 days |
+| 🎉 Christmas | 211.29155239769 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mini Micro Fantasy Computer](https://miniscript.org/MiniMicro/index.html#about)
+> [I&#039;m Tired of Talking to AI](https://orchidfiles.com/im-tired-of-ai-generated-answers/)
 >
-> 🔥 36 points
+> 🔥 996 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
