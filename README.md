@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Thursday, May 28 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, May 28 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 21°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 210.4582371712 days |
+| 🎉 Christmas | 210.29156676198 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
+> [Five frontier LLMs disagree on 67% of 1k real-world fact-check claims](https://lenz.io/research/llm-disagreement)
 >
-> 🔥 916 points
+> 🔥 309 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
