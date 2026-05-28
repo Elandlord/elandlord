@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🏠 **Done for the day** · Wednesday, May 27 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, May 28 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 12°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 211.08322766405 days |
+| ☁️ Groningen | 9°C, overcast clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 210.87490191638 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)
+> [Can we have the day off?](https://mlsu.io/posts/day-off/)
 >
-> 🔥 322 points
+> 🔥 62 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
