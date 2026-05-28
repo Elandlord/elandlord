@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good morning! ✨
 
-😴 **Still sleeping (or should be)** · Thursday, May 28 · ⏰ 03:00 CET
+☕ **Getting ready for work** · Thursday, May 28 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 9°C, overcast clouds |
+| ☁️ Groningen | 10°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 210.87490191638 days |
+| 🎉 Christmas | 210.66655082104 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Can we have the day off?](https://mlsu.io/posts/day-off/)
+> [YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)
 >
-> 🔥 62 points
+> 🔥 717 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
