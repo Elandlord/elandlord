@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Thursday, May 28 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, May 28 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 21°C, broken clouds |
+| ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 210.20822759433 days |
+| 🎉 Christmas | 210.08323299418 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 >
-> 🔥 117 points
+> 🔥 826 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
