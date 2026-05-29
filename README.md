@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🏠 **Done for the day** · Friday, May 29 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, May 29 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌧️ Groningen | 28°C, moderate rain |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 209.29156463131 days |
+| 🎉 Christmas | 209.208235077 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
+> [Bijou64: A variable-length integer encoding](https://www.inkandswitch.com/tangents/bijou64/)
 >
-> 🔥 347 points
+> 🔥 105 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
