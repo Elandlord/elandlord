@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-☕ **Getting ready for work** · Friday, May 29 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, May 29 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌧️ Groningen | 16°C, moderate rain |
+| ☁️ Groningen | 21°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 209.66615541245 days |
+| 🎉 Christmas | 209.58269106935 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cars are trying to spy on you, and it&#039;s only just the beginning](https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse)
+> [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 >
-> 🔥 214 points
+> 🔥 1467 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
