@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Friday, May 29 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, May 29 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 29°C, overcast clouds |
+| 🌧️ Groningen | 28°C, moderate rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 209.45823695694 days |
+| 🎉 Christmas | 209.29156463131 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+> [Please Use AI](https://shawnsmucker.substack.com/p/please-use-ai)
 >
-> 🔥 1555 points
+> 🔥 347 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
