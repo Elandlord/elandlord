@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🏠 **Done for the day** · Thursday, May 28 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, May 29 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 16°C, broken clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 210.08323299418 days |
+| ☀️ Groningen | 13°C, clear sky |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 209.87490773646 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 >
-> 🔥 826 points
+> 🔥 1188 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
