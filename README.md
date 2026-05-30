@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🎉 **Enjoying the weekend** · Saturday, May 30 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 30 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 20°C, broken clouds |
+| ☁️ Groningen | 23°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 208.45823014774 days |
+| 🎉 Christmas | 208.29156998001 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
+> [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
 >
-> 🔥 81 points
+> 🔥 132 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
