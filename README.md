@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good evening! ⚡
 
-🎉 **Enjoying the weekend** · Saturday, May 30 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 30 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 23°C, broken clouds |
+| ☁️ Groningen | 22°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 208.29156998001 days |
+| 🎉 Christmas | 208.20822610962 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Anthropic surpasses OpenAI to become most valuable AI startup](https://qazinform.com/news/anthropic-surpasses-openai-to-become-worlds-most-valuable-ai-startup)
+> [Voxel Space](https://s-macke.github.io/VoxelSpace/)
 >
-> 🔥 132 points
+> 🔥 103 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
