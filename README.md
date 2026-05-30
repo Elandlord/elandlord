@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good afternoon! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, May 30 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, May 30 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 18°C, scattered clouds |
+| ☁️ Groningen | 20°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 208.58323414884 days |
+| 🎉 Christmas | 208.45823014774 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [SQLite is all you need for durable workflows](https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/)
+> [Zig: Build System Reworked](https://ziglang.org/devlog/2026/#2026-05-26)
 >
-> 🔥 496 points
+> 🔥 81 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
