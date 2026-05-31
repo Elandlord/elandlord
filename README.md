@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good evening! 🔥
 
-🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 19:00 CET
 
 ---
 
@@ -25,7 +25,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 📁 Public repos | 48 |
 | ⭐ Total stars | 8 |
-| 👥 Followers | 7 |
+| 👥 Followers | 8 |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
 
 ---
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 22°C, broken clouds |
+| ☁️ Groningen | 21°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 207.29156936693 days |
+| 🎉 Christmas | 207.20822756132 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
+> [The solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html)
 >
-> 🔥 235 points
+> 🔥 228 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
