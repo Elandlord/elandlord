@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 21°C, overcast clouds |
+| ☁️ Groningen | 22°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 207.45823106207 days |
+| 🎉 Christmas | 207.29156936693 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Website Specification](https://specification.website/)
+> [Dav2d](https://jbkempf.com/blog/2026/dav2d/)
 >
-> 🔥 182 points
+> 🔥 235 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
