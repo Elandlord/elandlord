@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 15°C, broken clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 207.66655594399 days |
+| 🎉 Christmas | 207.5832216277 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/)
+> [The Website Specification](https://specification.website/)
 >
-> 🔥 425 points
+> 🔥 59 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
