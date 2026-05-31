@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, May 31 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 21°C, broken clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 207.20822756132 days |
+| 🎉 Christmas | 207.08323947468 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The solution might be cancelling my AI subscription](https://thoughts.hmmz.org/2026-05-31.html)
+> [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
 >
-> 🔥 228 points
+> 🔥 321 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
