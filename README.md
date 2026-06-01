@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Monday, June 1 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, June 1 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☁️ Groningen | 19°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 206.20821280676 days |
+| 🎉 Christmas | 206.08320055856 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DuckDuckGo makes its &#039;no-AI&#039; search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
+> [The newest Instagram “exploit” is the goofiest I&#039;ve seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 >
-> 🔥 82 points
+> 🔥 726 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
