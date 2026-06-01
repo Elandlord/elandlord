@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Monday, June 1 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, June 1 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 22°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 206.58322582488 days |
+| 🎉 Christmas | 206.45822362411 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
+> [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
 >
-> 🔥 244 points
+> 🔥 159 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
