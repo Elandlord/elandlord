@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Monday, June 1 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, June 1 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 22°C, few clouds |
+| ☁️ Groningen | 23°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 206.45822362411 days |
+| 🎉 Christmas | 206.29156630396 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A 10 year old Xeon is all you need](https://point.free/blog/gemma-4-on-a-2016-xeon/)
+> [NPM packages from Red Hat have been compromised](https://github.com/RedHatInsights/javascript-clients/issues/492)
 >
-> 🔥 159 points
+> 🔥 348 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
