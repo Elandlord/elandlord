@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🏠 **Done for the day** · Monday, June 1 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, June 1 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 23°C, overcast clouds |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 206.29156630396 days |
+| 🎉 Christmas | 206.20821280676 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [NPM packages from Red Hat have been compromised](https://github.com/RedHatInsights/javascript-clients/issues/492)
+> [DuckDuckGo makes its &#039;no-AI&#039; search engine easier to access as its traffic booms](https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/)
 >
-> 🔥 348 points
+> 🔥 82 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
