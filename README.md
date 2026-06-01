@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Monday, June 1 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, June 1 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 13°C, scattered clouds |
+| ☁️ Groningen | 15°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 206.74989598603 days |
+| 🎉 Christmas | 206.66655942735 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cloudflare Turnstile requiring fingerprintable WebGL](https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting)
+> [Chuwi Minibook X](https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/)
 >
-> 🔥 552 points
+> 🔥 166 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
