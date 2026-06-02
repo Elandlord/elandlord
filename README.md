@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ✨
 
-🏠 **Done for the day** · Monday, June 1 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, June 2 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 19°C, broken clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 206.08320055856 days |
+| ☁️ Groningen | 16°C, overcast clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 205.87490726192 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [The newest Instagram “exploit” is the goofiest I&#039;ve seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
 >
-> 🔥 726 points
+> 🔥 1289 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Experience is the name everyone gives to their mistakes."
+> "The best error message is the one that never shows up."
 >
-> — *Oscar Wilde*
+> — *Thomas Fuchs*
 
 ---
 
 ## Did You Know? 🤓
 
-&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
+There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
