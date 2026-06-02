@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Tuesday, June 2 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, June 2 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | ☁️ Groningen | 16°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 205.87490726192 days |
+| 🎉 Christmas | 205.7498901463 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The newest Instagram “exploit” is the goofiest I&#039;ve seen](https://www.0xsid.com/blog/meta-account-takeover-fiasco)
+> [macOS needs its grid back](https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/)
 >
-> 🔥 1289 points
+> 🔥 96 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
