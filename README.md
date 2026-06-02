@@ -1,6 +1,6 @@
-# Good evening! 🎨
+# Good night! 🌟
 
-🏠 **Done for the day** · Tuesday, June 2 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, June 2 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| 🌧️ Groningen | 22°C, light rain |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 205.20821603623 days |
+| 🎉 Christmas | 205.08321820672 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A walking tour of surveillance infrastructure in Seattle](https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/)
+> [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
 >
-> 🔥 148 points
+> 🔥 147 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
