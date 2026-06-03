@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Wednesday, June 3 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, June 3 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 17°C, broken clouds |
+| ☁️ Groningen | 19°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 204.58322681221 days |
+| 🎉 Christmas | 204.45822517499 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
+> [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 >
-> 🔥 332 points
+> 🔥 62 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
