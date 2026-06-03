@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Tuesday, June 2 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, June 3 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌕
+## Quick Stats 🌖
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 17°C, overcast clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 205.08321820672 days |
+| 🌙 Moon phase | Waning Gibbous |
+| ☁️ Groningen | 15°C, overcast clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Christmas | 204.87488767701 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
 >
-> 🔥 147 points
+> 🔥 374 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
