@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🏠 **Done for the day** · Wednesday, June 3 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, June 3 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 20°C, broken clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 204.29154900475 days |
+| 🎉 Christmas | 204.20819965516 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
+> [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 >
-> 🔥 350 points
+> 🔥 105 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
