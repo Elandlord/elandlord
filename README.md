@@ -1,6 +1,6 @@
-# Good evening! 🛠️
+# Good night! 🎸
 
-🏠 **Done for the day** · Wednesday, June 3 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, June 3 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 18°C, overcast clouds |
+| 🌧️ Groningen | 16°C, light rain |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 204.20819965516 days |
+| 🎉 Christmas | 204.0832234656 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+> [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 >
-> 🔥 105 points
+> 🔥 134 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
