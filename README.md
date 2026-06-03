@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-☕ **Getting ready for work** · Wednesday, June 3 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, June 3 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 15°C, broken clouds |
+| ☁️ Groningen | 17°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 204.66655158991 days |
+| 🎉 Christmas | 204.58322681221 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
 >
-> 🔥 228 points
+> 🔥 332 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
