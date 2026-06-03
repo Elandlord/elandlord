@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Wednesday, June 3 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, June 3 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 15°C, overcast clouds |
+| ☁️ Groningen | 13°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 204.87488767701 days |
+| 🎉 Christmas | 204.74989351679 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [MAI-Code-1-Flash](https://microsoft.ai/news/introducingmai-code-1-flash/)
+> [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
 >
-> 🔥 374 points
+> 🔥 89 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
