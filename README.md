@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Wednesday, June 3 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, June 3 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 19°C, broken clouds |
+| ☁️ Groningen | 20°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 204.45822517499 days |
+| 🎉 Christmas | 204.29154900475 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+> [Hacking your PC using your speaker without ever touching it](https://blog.nns.ee/2026/06/03/katana-badusb/)
 >
-> 🔥 62 points
+> 🔥 350 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
