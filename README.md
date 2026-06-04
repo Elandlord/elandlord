@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good evening! 📚
 
-🏠 **Done for the day** · Thursday, June 4 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, June 4 · ⏰ 19:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 18°C, overcast clouds |
+| 🌧️ Groningen | 15°C, light rain |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 203.29155112725 days |
+| 🎉 Christmas | 203.20821952612 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
 >
-> 🔥 197 points
+> 🔥 351 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
