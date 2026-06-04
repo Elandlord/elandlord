@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good night! 🛠️
 
-🏠 **Done for the day** · Wednesday, June 3 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, June 4 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌧️ Groningen | 16°C, light rain |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 204.0832234656 days |
+| ☁️ Groningen | 15°C, overcast clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 203.87488720039 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Elixir v1.20 released: now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
+> [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 >
-> 🔥 134 points
+> 🔥 514 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Simplicity is the soul of efficiency."
+> "Make it work, make it right, make it fast."
 >
-> — *Austin Freeman*
+> — *Kent Beck*
 
 ---
 
 ## Did You Know? 🤓
 
-The QWERTY keyboard was designed to slow typists down.
+The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
