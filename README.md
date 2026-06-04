@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good morning! 🚀
 
-☕ **Getting ready for work** · Thursday, June 4 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, June 4 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 15°C, broken clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 203.66654257865 days |
+| 🎉 Christmas | 203.58323001571 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [&quot;They&#039;re made out of weights&quot;](https://maxleiter.com/blog/weights)
 >
-> 🔥 287 points
+> 🔥 536 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
