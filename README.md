@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-😴 **Still sleeping (or should be)** · Thursday, June 4 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, June 4 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 14°C, broken clouds |
+| ☁️ Groningen | 15°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 203.74988700279 days |
+| 🎉 Christmas | 203.66654257865 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
+> [&quot;They&#039;re made out of weights&quot;](https://maxleiter.com/blog/weights)
 >
-> 🔥 225 points
+> 🔥 287 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
