@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🏠 **Done for the day** · Friday, June 5 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, June 5 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 202.29153247198 days |
+| 🎉 Christmas | 202.20822934512 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
+> [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
 >
-> 🔥 157 points
+> 🔥 161 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
