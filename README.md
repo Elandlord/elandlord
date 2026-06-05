@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Friday, June 5 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, June 5 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌧️ Groningen | 13°C, light rain |
+| ☁️ Groningen | 13°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 202.87488481344 days |
+| 🎉 Christmas | 202.74989616696 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
+> [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
 >
-> 🔥 65 points
+> 🔥 117 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
