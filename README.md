@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Friday, June 5 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, June 5 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 17°C, broken clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 202.45823344712 days |
+| 🎉 Christmas | 202.29153247198 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+> [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
 >
-> 🔥 323 points
+> 🔥 157 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
