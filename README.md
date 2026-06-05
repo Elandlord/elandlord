@@ -1,6 +1,6 @@
-# Good evening! 🌟
+# Good night! 🏃
 
-🏠 **Done for the day** · Friday, June 5 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, June 5 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 16°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 202.20822934512 days |
+| 🎉 Christmas | 202.0832399063 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
+> [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
 >
-> 🔥 161 points
+> 🔥 284 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
