@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🏠 **Done for the day** · Thursday, June 4 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, June 5 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| 🌧️ Groningen | 15°C, light rain |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 203.08322622528 days |
+| 🌧️ Groningen | 13°C, light rain |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 202.87488481344 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
+> [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
 >
-> 🔥 468 points
+> 🔥 65 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
