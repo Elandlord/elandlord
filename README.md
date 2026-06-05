@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-☕ **Getting ready for work** · Friday, June 5 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, June 5 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 15°C, broken clouds |
+| ☁️ Groningen | 15°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 202.666569501 days |
+| 🎉 Christmas | 202.5832368445 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+> [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
 >
-> 🔥 162 points
+> 🔥 92 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
