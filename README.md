@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Friday, June 5 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, June 5 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 13°C, broken clouds |
+| ☁️ Groningen | 15°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 202.74989616696 days |
+| 🎉 Christmas | 202.666569501 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
 >
-> 🔥 117 points
+> 🔥 162 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
