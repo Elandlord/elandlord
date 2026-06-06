@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🎉 **Enjoying the weekend** · Saturday, June 6 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 6 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 16°C, overcast clouds |
+| ☁️ Groningen | 20°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 201.58323031413 days |
+| 🎉 Christmas | 201.45823030779 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
+> [GrapheneOS user reported to authorities for using GrapheneOS](https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos)
 >
-> 🔥 241 points
+> 🔥 247 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
