@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, June 6 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 6 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 16°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 201.20818545424 days |
+| 🎉 Christmas | 201.08320739517 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Moving beyond fork() + exec()](https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/)
+> [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
 >
-> 🔥 113 points
+> 🔥 24 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
