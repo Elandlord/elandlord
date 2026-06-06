@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good morning! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, June 6 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 6 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 13°C, overcast clouds |
+| 🌧️ Groningen | 14°C, light rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 201.87489984635 days |
+| 🎉 Christmas | 201.74989470887 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+> [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
 >
-> 🔥 351 points
+> 🔥 91 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
