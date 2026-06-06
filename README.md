@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good night! 🌟
 
-🏠 **Done for the day** · Friday, June 5 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 6 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌖
+## Quick Stats 🌗
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 16°C, scattered clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 202.0832399063 days |
+| 🌙 Moon phase | Last Quarter |
+| ☁️ Groningen | 13°C, overcast clouds |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 Christmas | 201.87489984635 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
 >
-> 🔥 284 points
+> 🔥 351 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Any fool can write code that a computer can understand."
+> "Programs must be written for people to read."
 >
-> — *Martin Fowler*
+> — *Harold Abelson*
 
 ---
 
 ## Did You Know? 🤓
 
-Email is older than the World Wide Web.
+The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
