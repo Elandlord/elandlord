@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, June 7 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 7 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 20°C, broken clouds |
+| ☁️ Groningen | 17°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 200.2082378855 days |
+| 🎉 Christmas | 200.08323099074 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2849122)
+> [How&#039;s Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
 >
-> 🔥 77 points
+> 🔥 55 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
