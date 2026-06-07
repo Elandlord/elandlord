@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good morning! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, June 7 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 7 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 15°C, overcast clouds |
+| ☁️ Groningen | 13°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 200.87489874566 days |
+| 🎉 Christmas | 200.74991373323 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ntsc-rs – open-source video emulation of analog TV and VHS artifacts](https://ntsc.rs/)
+> [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
 >
-> 🔥 248 points
+> 🔥 25 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
