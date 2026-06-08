@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🏠 **Done for the day** · Monday, June 8 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, June 8 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 20°C, overcast clouds |
+| 🌧️ Groningen | 16°C, very heavy rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 199.20822416124 days |
+| 🎉 Christmas | 199.08323571738 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
+> [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
 >
-> 🔥 299 points
+> 🔥 403 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
