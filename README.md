@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good evening! 🏃
 
-🏠 **Done for the day** · Monday, June 8 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, June 8 · ⏰ 19:00 CET
 
 ---
 
@@ -25,7 +25,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 |--------|-------|
 | 📁 Public repos | 48 |
 | ⭐ Total stars | 8 |
-| 👥 Followers | 8 |
+| 👥 Followers | 7 |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
 
 ---
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☁️ Groningen | 20°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 199.29157021145 days |
+| 🎉 Christmas | 199.20822416124 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Zig by Example](https://github.com/boringcollege/zig-by-example)
+> [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
 >
-> 🔥 103 points
+> 🔥 299 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
