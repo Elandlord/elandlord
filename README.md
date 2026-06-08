@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, June 7 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, June 8 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 17°C, scattered clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 200.08323099074 days |
+| ☁️ Groningen | 14°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 199.8749102134 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How&#039;s Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
+> [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
 >
-> 🔥 55 points
+> 🔥 383 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
