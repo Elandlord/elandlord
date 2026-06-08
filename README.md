@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Monday, June 8 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, June 8 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 20°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 199.58322359681 days |
+| 🎉 Christmas | 199.45823635399 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
+> [The Cypherpunk Library](https://www.cypherpunkbooks.com)
 >
-> 🔥 194 points
+> 🔥 88 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
