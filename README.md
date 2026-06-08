@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Monday, June 8 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, June 8 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 199.45823635399 days |
+| 🎉 Christmas | 199.29157021145 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Cypherpunk Library](https://www.cypherpunkbooks.com)
+> [Zig by Example](https://github.com/boringcollege/zig-by-example)
 >
-> 🔥 88 points
+> 🔥 103 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
