@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Monday, June 8 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, June 8 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Last Quarter |
 | ☁️ Groningen | 14°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 199.8749102134 days |
+| 🎉 Christmas | 199.74990485427 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Building from zero after addiction, prison, and a felony](https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony)
+> [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
 >
-> 🔥 383 points
+> 🔥 132 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
