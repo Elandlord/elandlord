@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Monday, June 8 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, June 8 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 16°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 199.74990485427 days |
+| 🎉 Christmas | 199.66656202795 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
 >
-> 🔥 132 points
+> 🔥 169 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
