@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Tuesday, June 9 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, June 9 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 12°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 198.87489830164 days |
+| 🎉 Christmas | 198.74989881478 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenAI Submits S-1 Draft to SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+> [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
 >
-> 🔥 271 points
+> 🔥 29 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
