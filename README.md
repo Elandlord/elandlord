@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Tuesday, June 9 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, June 9 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 14°C, light rain |
+| ☀️ Groningen | 18°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 198.58322098113 days |
+| 🎉 Christmas | 198.45823001918 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
+> [Microsoft&#039;s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 >
-> 🔥 550 points
+> 🔥 190 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
