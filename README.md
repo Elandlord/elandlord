@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good evening! 🌊
 
-🏠 **Done for the day** · Tuesday, June 9 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, June 9 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 17°C, light rain |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 198.29155910568 days |
+| 🎉 Christmas | 198.20823660431 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Albania Is Not for Sale: Kushner&#039;s $4B Resort Triggers&#039;Flamingo Revolution&#039;](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)
+> [Making Graphics Like it&#039;s 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
 >
-> 🔥 193 points
+> 🔥 484 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
