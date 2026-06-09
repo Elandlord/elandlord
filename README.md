@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Tuesday, June 9 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, June 9 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 18°C, clear sky |
+| 🌧️ Groningen | 17°C, light rain |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 198.45823001918 days |
+| 🎉 Christmas | 198.29155910568 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Microsoft&#039;s open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+> [Albania Is Not for Sale: Kushner&#039;s $4B Resort Triggers&#039;Flamingo Revolution&#039;](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)
 >
-> 🔥 190 points
+> 🔥 193 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
