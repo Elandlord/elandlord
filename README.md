@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Tuesday, June 9 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, June 9 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 12°C, scattered clouds |
+| 🌧️ Groningen | 14°C, light rain |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 198.66655046491 days |
+| 🎉 Christmas | 198.58322098113 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 >
-> 🔥 486 points
+> 🔥 550 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
