@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Wednesday, June 10 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, June 10 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Crescent |
 | ☀️ Groningen | 10°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 197.87489470421 days |
+| 🎉 Christmas | 197.74988852043 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+> [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
 >
-> 🔥 1728 points
+> 🔥 344 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
