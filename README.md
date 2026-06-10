@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good morning! ✨
 
-☕ **Getting ready for work** · Wednesday, June 10 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, June 10 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 12°C, clear sky |
+| ☀️ Groningen | 16°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 197.66656398134 days |
+| 🎉 Christmas | 197.58323680914 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
 >
-> 🔥 512 points
+> 🔥 652 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
