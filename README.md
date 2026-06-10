@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🏠 **Done for the day** · Tuesday, June 9 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, June 10 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌗
+## Quick Stats 🌘
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 12°C, overcast clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 198.08323046447 days |
+| 🌙 Moon phase | Waning Crescent |
+| ☀️ Groningen | 10°C, clear sky |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Christmas | 197.87489470421 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 >
-> 🔥 1094 points
+> 🔥 1728 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
