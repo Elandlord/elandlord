@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Wednesday, June 10 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, June 10 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 16°C, heavy intensity rain |
+| ☁️ Groningen | 14°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 197.45823749928 days |
+| 🎉 Christmas | 197.29155065413 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
+> [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 >
-> 🔥 120 points
+> 🔥 267 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
