@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🏠 **Done for the day** · Wednesday, June 10 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, June 10 · ⏰ 19:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 197.29155065413 days |
+| 🎉 Christmas | 197.20822602638 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 >
-> 🔥 267 points
+> 🔥 601 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
