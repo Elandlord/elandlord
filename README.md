@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good evening! 💻
 
-🏠 **Done for the day** · Thursday, June 11 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, June 11 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 18°C, overcast clouds |
+| 🌧️ Groningen | 17°C, light rain |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 196.29155058469 days |
+| 🎉 Christmas | 196.20820878059 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
+> [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
 >
-> 🔥 170 points
+> 🔥 194 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
