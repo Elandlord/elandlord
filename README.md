@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Thursday, June 11 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, June 11 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 15°C, scattered clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 196.45820999049 days |
+| 🎉 Christmas | 196.29155058469 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
+> [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
 >
-> 🔥 313 points
+> 🔥 170 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
