@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good morning! 🎨
 
-☕ **Getting ready for work** · Thursday, June 11 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, June 11 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 11°C, clear sky |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 196.6665494006 days |
+| 🎉 Christmas | 196.58322612889 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
+> [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
 >
-> 🔥 284 points
+> 🔥 97 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
