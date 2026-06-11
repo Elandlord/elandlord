@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Wednesday, June 10 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, June 11 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 14°C, overcast clouds |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 197.08322639935 days |
+| ☀️ Groningen | 10°C, clear sky |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 196.87489082118 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
+> [Cybersecurity researchers aren&#039;t happy about the guardrails on Anthropic&#039;s Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
 >
-> 🔥 187 points
+> 🔥 164 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
