@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Thursday, June 11 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, June 11 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 17°C, clear sky |
+| ☁️ Groningen | 15°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 196.58322612889 days |
+| 🎉 Christmas | 196.45820999049 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
 >
-> 🔥 97 points
+> 🔥 313 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
