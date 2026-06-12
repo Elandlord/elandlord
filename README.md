@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🏠 **Done for the day** · Thursday, June 11 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, June 12 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| 🌧️ Groningen | 12°C, light rain |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 196.08318450589 days |
+| ☁️ Groningen | 12°C, overcast clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 195.87489856067 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
+> [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
 >
-> 🔥 538 points
+> 🔥 224 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
