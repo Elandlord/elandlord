@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Friday, June 12 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, June 12 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 195.20821310098 days |
+| 🎉 Christmas | 195.08315992402 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 >
-> 🔥 104 points
+> 🔥 431 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
