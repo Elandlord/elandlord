@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-☕ **Getting ready for work** · Friday, June 12 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, June 12 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 15°C, overcast clouds |
+| ☁️ Groningen | 16°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 195.66654484509 days |
+| 🎉 Christmas | 195.58321901416 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
+> [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
 >
-> 🔥 299 points
+> 🔥 353 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
