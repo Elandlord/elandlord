@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 16°C, clear sky |
+| ☁️ Groningen | 15°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 194.58322644664 days |
+| 🎉 Christmas | 194.45823296662 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Shepherd&#039;s Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog)
+> [Leaving Mozilla](https://blog.unitedheroes.net/5751)
 >
-> 🔥 43 points
+> 🔥 214 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
