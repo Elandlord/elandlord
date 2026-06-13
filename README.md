@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 18°C, broken clouds |
+| ☁️ Groningen | 16°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 194.29156385148 days |
+| 🎉 Christmas | 194.20823475284 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
+> [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
 >
-> 🔥 111 points
+> 🔥 288 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
