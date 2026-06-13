@@ -1,6 +1,6 @@
-# Good evening! 🎯
+# Good night! ✨
 
-🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 16°C, scattered clouds |
+| ☀️ Groningen | 14°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 194.20823475284 days |
+| 🎉 Christmas | 194.08321644253 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
 >
-> 🔥 288 points
+> 🔥 510 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
