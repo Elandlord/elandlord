@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🏠 **Done for the day** · Friday, June 12 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 17°C, overcast clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 195.08315992402 days |
+| ☀️ Groningen | 15°C, clear sky |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 Christmas | 194.87482968795 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [CRISPR tech selectively shreds cancer cells, including &quot;undruggable&quot; cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+> [US Government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 >
-> 🔥 431 points
+> 🔥 87 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
