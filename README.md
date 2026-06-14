@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 13°C, overcast clouds |
+| ☁️ Groningen | 13°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 193.87489130039 days |
+| 🎉 Christmas | 193.74991243194 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
+> [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)
 >
-> 🔥 708 points
+> 🔥 96 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
