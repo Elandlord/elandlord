@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, June 13 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌘
+## Quick Stats 🌑
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 14°C, clear sky |
+| 🌙 Moon phase | New Moon |
+| ☁️ Groningen | 13°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 194.08321644253 days |
+| 🎉 Christmas | 193.87489130039 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
+> [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
 >
-> 🔥 510 points
+> 🔥 708 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
