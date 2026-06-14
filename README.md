@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 13°C, scattered clouds |
+| ☁️ Groningen | 15°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 193.66656343359 days |
+| 🎉 Christmas | 193.58322298 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)
+> [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
 >
-> 🔥 185 points
+> 🔥 236 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
