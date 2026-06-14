@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 16°C, broken clouds |
+| ☁️ Groningen | 17°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 193.45823313558 days |
+| 🎉 Christmas | 193.29156817627 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
+> [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 >
-> 🔥 282 points
+> 🔥 96 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
