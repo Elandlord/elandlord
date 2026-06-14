@@ -1,6 +1,6 @@
-# Good evening! ⚡
+# Good night! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 14 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 16°C, scattered clouds |
+| ☀️ Groningen | 14°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 193.20822761255 days |
+| 🎉 Christmas | 193.08322247035 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Rio de Janeiro&#039;s &quot;homegrown&quot; LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
+> [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
 >
-> 🔥 44 points
+> 🔥 142 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
