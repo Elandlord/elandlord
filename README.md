@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🏠 **Done for the day** · Monday, June 15 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, June 15 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 16°C, broken clouds |
+| ☁️ Groningen | 14°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 192.20822708093 days |
+| 🎉 Christmas | 192.0832299534 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Iroh 1.0](https://www.iroh.computer/blog/v1)
 >
-> 🔥 307 points
+> 🔥 682 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
