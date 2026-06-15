@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good evening! 🔥
 
-🏠 **Done for the day** · Monday, June 15 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, June 15 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | New Moon |
 | ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 192.29156064493 days |
+| 🎉 Christmas | 192.20822708093 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [CrankGPT](https://crankgpt.com)
+> [Iroh 1.0](https://www.iroh.computer/blog/v1)
 >
-> 🔥 123 points
+> 🔥 307 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
