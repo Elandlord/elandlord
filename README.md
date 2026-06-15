@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Monday, June 15 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, June 15 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 192.45821012438 days |
+| 🎉 Christmas | 192.29156064493 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+> [CrankGPT](https://crankgpt.com)
 >
-> 🔥 639 points
+> 🔥 123 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
