@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Tuesday, June 16 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, June 16 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 9°C, overcast clouds |
+| ☁️ Groningen | 8°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 191.87489060818 days |
+| 🎉 Christmas | 191.74990147958 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+> [Microsoft turns to AWS as GitHub faces AI capacity crunch](https://runtimewire.com/article/microsoft-github-aws-ai-capacity-crunch)
 >
-> 🔥 629 points
+> 🔥 83 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
