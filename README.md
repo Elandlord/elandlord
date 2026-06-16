@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🏠 **Done for the day** · Tuesday, June 16 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, June 16 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 18°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 191.29153923218 days |
+| 🎉 Christmas | 191.20818651145 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
+> [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
 >
-> 🔥 346 points
+> 🔥 337 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
