@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Tuesday, June 16 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, June 16 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 191.45819834204 days |
+| 🎉 Christmas | 191.29153923218 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The time the x86 emulator team found code so bad they fixed it during emulation](https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419)
+> [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
 >
-> 🔥 285 points
+> 🔥 346 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
