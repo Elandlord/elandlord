@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Tuesday, June 16 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, June 16 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 18°C, broken clouds |
+| ☁️ Groningen | 14°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 191.20818651145 days |
+| 🎉 Christmas | 191.08320309784 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+> [U.S. pulling ocean sensors a &#039;shock&#039; for Canadian research as El Niño nears](https://www.timescolonist.com/local-news/us-pulling-ocean-sensors-a-shock-for-canadian-research-as-el-nino-nears-12422874)
 >
-> 🔥 337 points
+> 🔥 71 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
