@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good night! 🔥
 
-🏠 **Done for the day** · Monday, June 15 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, June 16 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 14°C, few clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 192.0832299534 days |
+| ☁️ Groningen | 9°C, overcast clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 191.87489060818 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Iroh 1.0](https://www.iroh.computer/blog/v1)
+> [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
 >
-> 🔥 682 points
+> 🔥 629 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "First, solve the problem. Then, write the code."
+> "Experience is the name everyone gives to their mistakes."
 >
-> — *John Johnson*
+> — *Oscar Wilde*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer virus was created in 1983 as an experiment.
+&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
