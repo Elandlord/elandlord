@@ -1,6 +1,6 @@
-# Good evening! 🎨
+# Good night! 🌟
 
-🏠 **Done for the day** · Wednesday, June 17 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, June 17 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☀️ Groningen | 20°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 190.20823655794 days |
+| 🎉 Christmas | 190.08324213968 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Epic Games announces Lore version control system](https://lore.org/)
 >
-> 🔥 413 points
+> 🔥 705 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
