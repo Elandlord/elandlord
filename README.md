@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-☕ **Getting ready for work** · Wednesday, June 17 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, June 17 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 190.66653318807 days |
+| 🎉 Christmas | 190.58312409206 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
+> [The founder&#039;s playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook)
 >
-> 🔥 575 points
+> 🔥 31 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
