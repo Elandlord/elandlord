@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Wednesday, June 17 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, June 17 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 190.45821382709 days |
+| 🎉 Christmas | 190.29155002624 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
+> [Want your images back? Sure... That&#039;ll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
 >
-> 🔥 95 points
+> 🔥 280 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
