@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎨
 
-🏠 **Done for the day** · Wednesday, June 17 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, June 17 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 190.29155002624 days |
+| 🎉 Christmas | 190.20823655794 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Want your images back? Sure... That&#039;ll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
+> [Epic Games announces Lore version control system](https://lore.org/)
 >
-> 🔥 280 points
+> 🔥 413 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
