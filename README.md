@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Thursday, June 18 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, June 18 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 189.74989405696 days |
+| 🎉 Christmas | 189.66655654819 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
 >
-> 🔥 236 points
+> 🔥 430 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
