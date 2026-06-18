@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Wednesday, June 17 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, June 18 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 20°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 190.08324213968 days |
+| ☁️ Groningen | 18°C, overcast clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 189.87489110295 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Epic Games announces Lore version control system](https://lore.org/)
+> [Lore – Open source version control system designed for scalability](https://lore.org/)
 >
-> 🔥 705 points
+> 🔥 958 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
