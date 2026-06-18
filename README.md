@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Thursday, June 18 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, June 18 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 189.87489110295 days |
+| 🎉 Christmas | 189.74989405696 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Lore – Open source version control system designed for scalability](https://lore.org/)
+> [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
 >
-> 🔥 958 points
+> 🔥 236 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
