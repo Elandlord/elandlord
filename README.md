@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🏠 **Done for the day** · Thursday, June 18 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, June 18 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 27°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 189.29155557488 days |
+| 🎉 Christmas | 189.20823088962 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Emacs 31 Is Around the Corner: The Changes I&#039;m Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+> [A website that lists websites to submit your website to](https://www.submission.directory/)
 >
-> 🔥 193 points
+> 🔥 93 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
