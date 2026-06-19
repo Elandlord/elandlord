@@ -1,6 +1,6 @@
-# Good evening! 📚
+# Good night! 🎮
 
-🏠 **Done for the day** · Friday, June 19 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, June 19 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 32°C, clear sky |
+| ☀️ Groningen | 25°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 188.20823877187 days |
+| 🎉 Christmas | 188.0832394353 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+> [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
 >
-> 🔥 415 points
+> 🔥 354 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
