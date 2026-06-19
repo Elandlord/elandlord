@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Friday, June 19 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, June 19 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 26°C, clear sky |
+| ☀️ Groningen | 30°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 188.58323755618 days |
+| 🎉 Christmas | 188.45822795544 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
+> [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 >
-> 🔥 122 points
+> 🔥 162 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
