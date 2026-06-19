@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good night! 🛠️
 
-🏠 **Done for the day** · Thursday, June 18 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, June 19 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 23°C, overcast clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 189.08322994481 days |
+| 🌧️ Groningen | 20°C, light rain |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 188.87489774899 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+> [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)
 >
-> 🔥 452 points
+> 🔥 58 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Simplicity is the soul of efficiency."
+> "Make it work, make it right, make it fast."
 >
-> — *Austin Freeman*
+> — *Kent Beck*
 
 ---
 
 ## Did You Know? 🤓
 
-The QWERTY keyboard was designed to slow typists down.
+The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
