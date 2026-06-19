@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Friday, June 19 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, June 19 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌧️ Groningen | 20°C, light rain |
+| 🌧️ Groningen | 19°C, light rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 188.87489774899 days |
+| 🎉 Christmas | 188.74991202605 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Update on Ocean Observatories Initiative](https://www.nsf.gov/news/update-ocean-observatories-initiative)
+> [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
 >
-> 🔥 58 points
+> 🔥 64 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
