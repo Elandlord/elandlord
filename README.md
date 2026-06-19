@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Friday, June 19 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, June 19 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 30°C, clear sky |
+| ☀️ Groningen | 32°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 188.45822795544 days |
+| 🎉 Christmas | 188.29156528072 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+> [How many of the 170k English words do you know?](https://vocabowl-870366514258.us-west1.run.app/)
 >
-> 🔥 162 points
+> 🔥 20 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
