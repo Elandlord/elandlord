@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 20°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 187.74989460921 days |
+| 🎉 Christmas | 187.66654890851 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
+> [Data Compression Explained (2012)](https://mattmahoney.net/dc/dce.html)
 >
-> 🔥 98 points
+> 🔥 69 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
