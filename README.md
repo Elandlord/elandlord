@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌧️ Groningen | 19°C, moderate rain |
+| ☁️ Groningen | 20°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 187.87489836062 days |
+| 🎉 Christmas | 187.74989460921 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Norway imposes near ban on AI in elementary school](https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/)
+> [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
 >
-> 🔥 393 points
+> 🔥 98 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
