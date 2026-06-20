@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 29°C, broken clouds |
+| ☁️ Groningen | 27°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 187.45823345914 days |
+| 🎉 Christmas | 187.29156305637 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
+> [CSSQuake](https://cssquake.com/)
 >
-> 🔥 150 points
+> 🔥 205 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
