@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 20 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 27°C, scattered clouds |
+| ☁️ Groningen | 25°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 187.29156305637 days |
+| 🎉 Christmas | 187.20823703223 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [CSSQuake](https://cssquake.com/)
+> [DOS Game &quot;F-15 Strike Eagle II&quot; reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
 >
-> 🔥 205 points
+> 🔥 52 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
