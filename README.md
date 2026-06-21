@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, June 21 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 21 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 25°C, broken clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 186.20817953065 days |
+| 🎉 Christmas | 186.08322270715 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Code duplication is far cheaper than the wrong abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+> [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 >
-> 🔥 59 points
+> 🔥 40 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
