@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good evening! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, June 21 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 21 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 27°C, broken clouds |
+| ☁️ Groningen | 25°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 186.29156054432 days |
+| 🎉 Christmas | 186.20817953065 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
+> [Code duplication is far cheaper than the wrong abstraction](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
 >
-> 🔥 167 points
+> 🔥 59 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
