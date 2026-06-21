@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🎉 **Enjoying the weekend** · Sunday, June 21 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 21 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 21°C, overcast clouds |
+| ☁️ Groningen | 24°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 186.58322384047 days |
+| 🎉 Christmas | 186.45823068737 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Developers don&#039;t understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+> [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
 >
-> 🔥 152 points
+> 🔥 125 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
