@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Monday, June 22 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, June 22 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 14°C, clear sky |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 185.74989895005 days |
+| 🎉 Christmas | 185.66655516407 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+> [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
 >
-> 🔥 252 points
+> 🔥 401 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
