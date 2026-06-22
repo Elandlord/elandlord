@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Monday, June 22 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, June 22 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 24°C, broken clouds |
+| ☁️ Groningen | 24°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 185.45822811212 days |
+| 🎉 Christmas | 185.29156121831 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+> [Pledging Another $400k to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation-2026)
 >
-> 🔥 433 points
+> 🔥 241 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
