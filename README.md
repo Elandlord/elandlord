@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Monday, June 22 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, June 22 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 15°C, few clouds |
+| ☀️ Groningen | 14°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 185.87490285076 days |
+| 🎉 Christmas | 185.74989895005 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
 >
-> 🔥 167 points
+> 🔥 252 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
