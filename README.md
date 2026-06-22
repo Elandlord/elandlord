@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, June 21 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, June 22 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 18°C, overcast clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 186.08322270715 days |
+| ☁️ Groningen | 15°C, few clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 185.87490285076 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
+> [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
 >
-> 🔥 40 points
+> 🔥 167 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
