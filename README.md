@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🏠 **Done for the day** · Monday, June 22 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, June 22 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 185.20822926486 days |
+| 🎉 Christmas | 185.08321822978 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Never Give Them Your Face](https://nevergivethemyourface.com/)
+> [Steam Machine](https://store.steampowered.com/hardware/steammachine)
 >
-> 🔥 542 points
+> 🔥 590 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
