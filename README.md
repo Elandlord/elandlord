@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-☕ **Getting ready for work** · Monday, June 22 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, June 22 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 17°C, clear sky |
+| ☁️ Groningen | 22°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 185.66655516407 days |
+| 🎉 Christmas | 185.58321972558 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+> [Deno Desktop](https://docs.deno.com/runtime/desktop/)
 >
-> 🔥 401 points
+> 🔥 211 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
