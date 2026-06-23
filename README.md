@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🏠 **Done for the day** · Tuesday, June 23 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, June 23 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 27°C, broken clouds |
+| ☀️ Groningen | 21°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 184.20823323845 days |
+| 🎉 Christmas | 184.08324632983 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
+> [Jerry&#039;s Map](http://www.jerrysmap.com/the-map)
 >
-> 🔥 182 points
+> 🔥 107 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
