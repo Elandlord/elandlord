@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Tuesday, June 23 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, June 23 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 13°C, broken clouds |
+| ☁️ Groningen | 15°C, scattered clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 184.74989598843 days |
+| 🎉 Christmas | 184.6665470585 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+> [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
 >
-> 🔥 1319 points
+> 🔥 73 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
