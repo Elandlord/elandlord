@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🏠 **Done for the day** · Monday, June 22 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, June 23 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 16°C, broken clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 185.08321822978 days |
+| 🌧️ Groningen | 14°C, light rain |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 184.87489389789 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Steam Machine](https://store.steampowered.com/hardware/steammachine)
+> [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 >
-> 🔥 590 points
+> 🔥 1160 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
