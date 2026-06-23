@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Tuesday, June 23 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, June 23 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| 🌧️ Groningen | 14°C, light rain |
+| ☁️ Groningen | 13°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 184.87489389789 days |
+| 🎉 Christmas | 184.74989598843 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
 >
-> 🔥 1160 points
+> 🔥 1319 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
