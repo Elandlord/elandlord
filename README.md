@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Tuesday, June 23 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, June 23 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 22°C, broken clouds |
+| ☁️ Groningen | 26°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 184.45823266492 days |
+| 🎉 Christmas | 184.2915568722 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Crypto in 2026: Oh, This Is the Bad Place](https://www.stephendiehl.com/posts/bad_place_2026/)
+> [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
 >
-> 🔥 53 points
+> 🔥 213 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
