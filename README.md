@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good evening! 🏃
 
-🏠 **Done for the day** · Tuesday, June 23 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, June 23 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 26°C, broken clouds |
+| ☁️ Groningen | 27°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 184.2915568722 days |
+| 🎉 Christmas | 184.20823323845 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
+> [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
 >
-> 🔥 213 points
+> 🔥 182 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
