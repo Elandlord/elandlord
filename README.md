@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Wednesday, June 24 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, June 24 · ⏰ 17:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 30°C, scattered clouds |
+| ☀️ Groningen | 32°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 183.45823504625 days |
+| 🎉 Christmas | 183.29155261 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [We&#039;re making Bunny DNS free: because a faster internet won&#039;t build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
 >
-> 🔥 158 points
+> 🔥 518 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
