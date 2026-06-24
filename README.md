@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Tuesday, June 23 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, June 24 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 21°C, clear sky |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 184.08324632983 days |
+| ☁️ Groningen | 18°C, overcast clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Christmas | 183.87489465366 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Jerry&#039;s Map](http://www.jerrysmap.com/the-map)
 >
-> 🔥 107 points
+> 🔥 318 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Deleted code is debugged code."
+> "The only way to go fast, is to go well."
 >
-> — *Jeff Sickel*
+> — *Robert C. Martin*
 
 ---
 
 ## Did You Know? 🤓
 
-The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
+The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
