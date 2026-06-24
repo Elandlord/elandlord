@@ -1,6 +1,6 @@
-# Good evening! 🌊
+# Good night! ☕
 
-🏠 **Done for the day** · Wednesday, June 24 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, June 24 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 28°C, clear sky |
+| ☀️ Groningen | 22°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 183.2082300864 days |
+| 🎉 Christmas | 183.08323165336 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
+> [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 >
-> 🔥 183 points
+> 🔥 226 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
