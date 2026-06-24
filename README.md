@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good evening! 🌊
 
-🏠 **Done for the day** · Wednesday, June 24 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, June 24 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 32°C, clear sky |
+| ☀️ Groningen | 28°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 183.29155261 days |
+| 🎉 Christmas | 183.2082300864 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We&#039;re making Bunny DNS free: because a faster internet won&#039;t build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
+> [John Carmack on the mistakes around Quake that ruined id software](https://twitter.com/ID_AA_Carmack/status/2069799283369345247)
 >
-> 🔥 518 points
+> 🔥 183 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
