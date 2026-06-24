@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Wednesday, June 24 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, June 24 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 21°C, broken clouds |
+| ☀️ Groningen | 27°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 183.66652104433 days |
+| 🎉 Christmas | 183.5832263703 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
 >
-> 🔥 185 points
+> 🔥 235 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
