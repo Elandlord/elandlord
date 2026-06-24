@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Wednesday, June 24 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, June 24 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 17°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 183.87489465366 days |
+| 🎉 Christmas | 183.74990101986 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Jerry&#039;s Map](http://www.jerrysmap.com/the-map)
+> [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
 >
-> 🔥 318 points
+> 🔥 119 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
