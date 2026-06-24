@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Wednesday, June 24 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, June 24 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 27°C, clear sky |
+| ☁️ Groningen | 30°C, scattered clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 183.5832263703 days |
+| 🎉 Christmas | 183.45823504625 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+> [We&#039;re making Bunny DNS free: because a faster internet won&#039;t build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
 >
-> 🔥 235 points
+> 🔥 158 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
