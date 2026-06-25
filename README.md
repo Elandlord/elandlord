@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🏠 **Done for the day** · Wednesday, June 24 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, June 25 · ⏰ 03:00 CET
 
 ---
 
@@ -30,14 +30,14 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌓
+## Quick Stats 🌔
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | First Quarter |
-| ☀️ Groningen | 22°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 183.08323165336 days |
+| 🌙 Moon phase | Waxing Gibbous |
+| ☀️ Groningen | 20°C, clear sky |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 182.8748905936 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 >
-> 🔥 226 points
+> 🔥 495 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
