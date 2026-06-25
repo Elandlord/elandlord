@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🏠 **Done for the day** · Thursday, June 25 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, June 25 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 24°C, clear sky |
+| ☀️ Groningen | 27°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 182.29154169825 days |
+| 🎉 Christmas | 182.20820748734 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [You can&#039;t unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
+> [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com)
 >
-> 🔥 117 points
+> 🔥 345 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
