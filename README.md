@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Thursday, June 25 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, June 25 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 27°C, clear sky |
+| ☀️ Groningen | 19°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 182.20820748734 days |
+| 🎉 Christmas | 182.08319821689 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: I made Google Trends for Hacker News by indexing 18 years of comments](https://hackernewstrends.com)
+> [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 >
-> 🔥 345 points
+> 🔥 475 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
