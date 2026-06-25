@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Thursday, June 25 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, June 25 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Gibbous |
 | ☀️ Groningen | 18°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 182.74989442444 days |
+| 🎉 Christmas | 182.66653991814 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+> [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
 >
-> 🔥 589 points
+> 🔥 265 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
