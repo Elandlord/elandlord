@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Thursday, June 25 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, June 25 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 20°C, clear sky |
+| ☀️ Groningen | 18°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 182.8748905936 days |
+| 🎉 Christmas | 182.74989442444 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 >
-> 🔥 495 points
+> 🔥 589 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
