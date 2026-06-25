@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good morning! ✨
 
-☕ **Getting ready for work** · Thursday, June 25 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, June 25 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 18°C, clear sky |
+| ☁️ Groningen | 20°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 182.66653991814 days |
+| 🎉 Christmas | 182.58322159233 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+> [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
 >
-> 🔥 265 points
+> 🔥 138 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
