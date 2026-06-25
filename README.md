@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Thursday, June 25 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, June 25 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 26°C, clear sky |
+| ☀️ Groningen | 24°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 182.45821293588 days |
+| 🎉 Christmas | 182.29154169825 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+> [You can&#039;t unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
 >
-> 🔥 278 points
+> 🔥 117 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
