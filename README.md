@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good evening! 💻
 
-🟢 **Working from Groningen** · Friday, June 26 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, June 26 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 33°C, broken clouds |
+| ☁️ Groningen | 36°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 181.45820212875 days |
+| 🎉 Christmas | 181.20821583321 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
+> [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
 >
-> 🔥 163 points
+> 🔥 60 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
