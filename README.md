@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Friday, June 26 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, June 26 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 16°C, clear sky |
+| ☀️ Groningen | 19°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 181.74987959939 days |
+| 🎉 Christmas | 181.66655549756 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
 >
-> 🔥 598 points
+> 🔥 734 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
