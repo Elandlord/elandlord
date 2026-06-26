@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Friday, June 26 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, June 26 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 25°C, broken clouds |
+| ☁️ Groningen | 33°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 181.58321493153 days |
+| 🎉 Christmas | 181.45820212875 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+> [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
 >
-> 🔥 828 points
+> 🔥 163 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
