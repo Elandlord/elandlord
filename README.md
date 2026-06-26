@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Thursday, June 25 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, June 26 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 19°C, clear sky |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 182.08319821689 days |
+| ☀️ Groningen | 17°C, clear sky |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 181.87486817302 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
 >
-> 🔥 475 points
+> 🔥 945 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
