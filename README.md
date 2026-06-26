@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🏠 **Done for the day** · Friday, June 26 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, June 26 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 36°C, overcast clouds |
+| ☁️ Groningen | 30°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 181.20821583321 days |
+| 🎉 Christmas | 181.0832216348 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
+> [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
 >
-> 🔥 60 points
+> 🔥 491 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
