@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Friday, June 26 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, June 26 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 17°C, clear sky |
+| ☀️ Groningen | 16°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 181.87486817302 days |
+| 🎉 Christmas | 181.74987959939 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+> [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
 >
-> 🔥 945 points
+> 🔥 598 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
