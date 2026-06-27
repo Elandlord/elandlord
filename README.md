@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🏠 **Done for the day** · Friday, June 26 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 27 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 30°C, few clouds |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 181.0832216348 days |
+| ☁️ Groningen | 26°C, few clouds |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 Christmas | 180.87488969139 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
 >
-> 🔥 491 points
+> 🔥 804 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
