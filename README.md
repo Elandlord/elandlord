@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🎉 **Enjoying the weekend** · Saturday, June 27 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 27 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 30°C, overcast clouds |
+| ☀️ Groningen | 23°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 180.20822342524 days |
+| 🎉 Christmas | 180.08320759553 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
+> [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
 >
-> 🔥 152 points
+> 🔥 29 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
