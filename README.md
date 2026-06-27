@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, June 27 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Saturday, June 27 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 25°C, broken clouds |
+| ☁️ Groningen | 29°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 180.66653968207 days |
+| 🎉 Christmas | 180.58322289329 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
+> [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 >
-> 🔥 927 points
+> 🔥 102 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
