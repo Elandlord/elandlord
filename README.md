@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, June 28 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 28 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 23°C, clear sky |
+| ☀️ Groningen | 30°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 179.5832382933 days |
+| 🎉 Christmas | 179.45823458072 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
 >
-> 🔥 184 points
+> 🔥 250 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
