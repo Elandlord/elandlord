@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Saturday, June 27 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 28 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 23°C, clear sky |
+| 🌧️ Groningen | 20°C, moderate rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 180.08320759553 days |
+| 🎉 Christmas | 179.87488501611 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ships keep moving through Hormuz despite strike](https://www.lloydslist.com/LL1157680/Ships-keep-moving-through-Hormuz-despite-strike-and-suspension-of-IMO-exit-strategy)
+> [IP Crawl: Living atlas of open webcams discovered on the public internet](https://ipcrawl.com/)
 >
-> 🔥 29 points
+> 🔥 233 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
