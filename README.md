@@ -1,6 +1,6 @@
-# Good evening! 🎯
+# Good night! ✨
 
-🎉 **Enjoying the weekend** · Sunday, June 28 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, June 28 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 26°C, overcast clouds |
+| ☀️ Groningen | 22°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 179.20824466684 days |
+| 🎉 Christmas | 179.08323836426 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [EU Open Sources Ten-Year Network Development Planning Tools](https://github.com/open-energy-transition/open-tyndp)
+> [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
 >
-> 🔥 143 points
+> 🔥 264 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
