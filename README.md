@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, June 28 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, June 29 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌔
+## Quick Stats 🌕
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 22°C, clear sky |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 179.08323836426 days |
+| 🌙 Moon phase | Full Moon |
+| ☁️ Groningen | 19°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 178.87486192692 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
+> [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
 >
-> 🔥 264 points
+> 🔥 396 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
