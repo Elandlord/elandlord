@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Monday, June 29 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, June 29 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 24°C, scattered clouds |
+| ☁️ Groningen | 26°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 178.4582169227 days |
+| 🎉 Christmas | 178.29154366565 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
+> [Mag 7 starting to underperform [pdf]](https://www.apollo.com/content/dam/apolloaem/pdf/daily-spark/2026/jun/28/062826-Mag7.pdf)
 >
-> 🔥 504 points
+> 🔥 53 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
