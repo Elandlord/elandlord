@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-☕ **Getting ready for work** · Monday, June 29 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, June 29 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 19°C, broken clouds |
+| ☁️ Groningen | 24°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 178.66652968709 days |
+| 🎉 Christmas | 178.58321068082 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+> [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
 >
-> 🔥 659 points
+> 🔥 294 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
