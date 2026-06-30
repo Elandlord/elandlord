@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Tuesday, June 30 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, June 30 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 177.58321705168 days |
+| 🎉 Christmas | 177.458231921 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
+> [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)
 >
-> 🔥 875 points
+> 🔥 43 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
