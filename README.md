@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Tuesday, June 30 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, June 30 · ⏰ 10:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 177.66654779603 days |
+| 🎉 Christmas | 177.58321705168 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Popping the GPU Bubble](https://moondream.ai/blog/popping-the-gpu-bubble)
+> [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
 >
-> 🔥 36 points
+> 🔥 875 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
