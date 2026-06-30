@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good evening! 🔥
 
-🏠 **Done for the day** · Tuesday, June 30 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, June 30 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 22°C, overcast clouds |
+| 🌧️ Groningen | 22°C, light rain |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 177.29154904042 days |
+| 🎉 Christmas | 177.20822915372 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518)
+> [Claude Code Is Steganographically Marking Requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 >
-> 🔥 59 points
+> 🔥 316 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
