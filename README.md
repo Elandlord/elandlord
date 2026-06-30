@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Tuesday, June 30 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, June 30 · ⏰ 17:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Full Moon |
 | ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 177.458231921 days |
+| 🎉 Christmas | 177.29154904042 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)
+> [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)](https://www.gutenberg.org/ebooks/24518)
 >
-> 🔥 43 points
+> 🔥 59 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
