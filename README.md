@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Wednesday, July 1 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, July 1 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 21°C, clear sky |
+| ☀️ Groningen | 23°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 176.45820571324 days |
+| 🎉 Christmas | 176.29154750328 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
+> [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
 >
-> 🔥 82 points
+> 🔥 296 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
