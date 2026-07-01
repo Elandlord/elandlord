@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good morning! 🎮
 
-☕ **Getting ready for work** · Wednesday, July 1 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, July 1 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 18°C, clear sky |
+| ☀️ Groningen | 20°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 176.66654188659 days |
+| 🎉 Christmas | 176.58322573748 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
 >
-> 🔥 1655 points
+> 🔥 1861 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
