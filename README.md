@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Wednesday, July 1 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, July 1 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 22°C, clear sky |
+| ☁️ Groningen | 19°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 176.20822097909 days |
+| 🎉 Christmas | 176.08322066385 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
+> [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
 >
-> 🔥 261 points
+> 🔥 88 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
