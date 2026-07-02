@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Thursday, July 2 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, July 2 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 18°C, broken clouds |
+| ☁️ Groningen | 19°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 175.45824083277 days |
+| 🎉 Christmas | 175.29155955369 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
+> [AI Can&#039;t Be Listed as Inventor on Patent Applications, Japan&#039;s Top Court Rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
 >
-> 🔥 653 points
+> 🔥 27 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
