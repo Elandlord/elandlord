@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Thursday, July 2 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, July 2 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 16°C, scattered clouds |
+| ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 175.87489082304 days |
+| 🎉 Christmas | 175.74989578633 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
 >
-> 🔥 168 points
+> 🔥 268 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
