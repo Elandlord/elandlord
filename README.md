@@ -1,6 +1,6 @@
-# Good evening! 🎨
+# Good night! 🌟
 
-🏠 **Done for the day** · Thursday, July 2 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, July 2 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 19°C, scattered clouds |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 175.208219999 days |
+| 🎉 Christmas | 175.08321603274 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
+> [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
 >
-> 🔥 138 points
+> 🔥 89 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
