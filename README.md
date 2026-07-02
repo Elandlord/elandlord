@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-☕ **Getting ready for work** · Thursday, July 2 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, July 2 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 18°C, broken clouds |
+| ☁️ Groningen | 20°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 175.66655105626 days |
+| 🎉 Christmas | 175.58321348454 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+> [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
 >
-> 🔥 329 points
+> 🔥 91 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
