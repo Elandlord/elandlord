@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎨
 
-🏠 **Done for the day** · Thursday, July 2 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, July 2 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 19°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 175.29155955369 days |
+| 🎉 Christmas | 175.208219999 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI Can&#039;t Be Listed as Inventor on Patent Applications, Japan&#039;s Top Court Rules](https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/)
+> [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
 >
-> 🔥 27 points
+> 🔥 138 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
