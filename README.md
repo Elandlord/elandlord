@@ -1,6 +1,6 @@
-# Good evening! 🛠️
+# Good night! 🎸
 
-🏠 **Done for the day** · Friday, July 3 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, July 3 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 19°C, scattered clouds |
+| ☁️ Groningen | 16°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 174.20823760458 days |
+| 🎉 Christmas | 174.08323352721 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
+> [A Cali. farmer is giving away tons of nectarines that he&#039;s not allowed to sell](https://apnews.com/article/california-farmer-nectarines-lawsuit-patent-4f7bc8ab185e8b9cbdd6d6ad4f2aabd1)
 >
-> 🔥 109 points
+> 🔥 30 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
