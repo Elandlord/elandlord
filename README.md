@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Friday, July 3 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, July 3 · ⏰ 17:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 19°C, clear sky |
+| ☁️ Groningen | 21°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 174.45823948652 days |
+| 🎉 Christmas | 174.29155992751 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 >
-> 🔥 150 points
+> 🔥 716 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
