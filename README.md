@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Friday, July 3 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 3 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 14°C, clear sky |
+| ☀️ Groningen | 15°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 174.87489283894 days |
+| 🎉 Christmas | 174.74989617007 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 >
-> 🔥 414 points
+> 🔥 595 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
