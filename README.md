@@ -1,6 +1,6 @@
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Friday, July 3 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, July 3 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 20°C, few clouds |
+| ☀️ Groningen | 19°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 174.58322357426 days |
+| 🎉 Christmas | 174.45823948652 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+> [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
 >
-> 🔥 725 points
+> 🔥 150 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
