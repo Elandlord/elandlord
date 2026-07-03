@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Thursday, July 2 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 3 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 17°C, clear sky |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 175.08321603274 days |
+| ☀️ Groningen | 14°C, clear sky |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 174.87489283894 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
+> [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 >
-> 🔥 89 points
+> 🔥 414 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
