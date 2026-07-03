@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-☕ **Getting ready for work** · Friday, July 3 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, July 3 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 17°C, clear sky |
+| ☁️ Groningen | 20°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 174.66655598272 days |
+| 🎉 Christmas | 174.58322357426 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn&#039;t](https://stefan.schueller.net/posts/the-free-market-lie/)
+> [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
 >
-> 🔥 237 points
+> 🔥 725 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
