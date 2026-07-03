@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🏠 **Done for the day** · Friday, July 3 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, July 3 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 21°C, broken clouds |
+| ☁️ Groningen | 19°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 174.29155992751 days |
+| 🎉 Christmas | 174.20823760458 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
+> [Markets are competitive if and only if P = NP](https://arxiv.org/abs/2602.20415)
 >
-> 🔥 716 points
+> 🔥 109 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
