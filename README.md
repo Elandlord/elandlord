@@ -1,6 +1,6 @@
-# Good evening! 📚
+# Good night! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, July 4 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 4 · ⏰ 22:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 19°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 173.2082419665 days |
+| 🎉 Christmas | 173.08323713712 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
+> [Leaking YouTube creators&#039; private videos](https://javoriuski.com/post/youtube)
 >
-> 🔥 172 points
+> 🔥 301 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
