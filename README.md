@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good morning! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, July 4 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 4 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 15°C, overcast clouds |
+| ☁️ Groningen | 16°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 173.74990946863 days |
+| 🎉 Christmas | 173.6665496083 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Giant trees have no trouble pumping water to top branches: new research](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+> [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 >
-> 🔥 130 points
+> 🔥 35 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
