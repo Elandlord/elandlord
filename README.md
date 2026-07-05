@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, July 5 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 5 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 18°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 172.87490017824 days |
+| 🎉 Christmas | 172.74990181095 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Scientists reverse brain aging, with a nasal spray](https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/)
+> [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
 >
-> 🔥 88 points
+> 🔥 407 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
