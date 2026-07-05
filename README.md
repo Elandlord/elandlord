@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, July 5 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 5 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 19°C, overcast clouds |
+| 🌧️ Groningen | 20°C, light rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 172.45823115707 days |
+| 🎉 Christmas | 172.2915652009 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+> [Organic Maps](https://organicmaps.app/)
 >
-> 🔥 145 points
+> 🔥 63 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
