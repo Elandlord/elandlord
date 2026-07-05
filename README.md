@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, July 5 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 5 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 18°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 172.74990181095 days |
+| 🎉 Christmas | 172.66654617495 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+> [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
 >
-> 🔥 407 points
+> 🔥 37 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
