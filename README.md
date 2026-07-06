@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Monday, July 6 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, July 6 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 21°C, overcast clouds |
+| 🌧️ Groningen | 20°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 171.45823376139 days |
+| 🎉 Christmas | 171.29155867733 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Real-time map of Great Britain&#039;s rail network](https://www.map.signalbox.io)
+> [Workers Cache](https://blog.cloudflare.com/workers-cache/)
 >
-> 🔥 75 points
+> 🔥 140 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
