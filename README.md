@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🏠 **Done for the day** · Monday, July 6 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, July 6 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 171.2082448747 days |
+| 🎉 Christmas | 171.08324085124 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
+> [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
 >
-> 🔥 122 points
+> 🔥 150 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
