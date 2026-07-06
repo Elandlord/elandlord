@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Monday, July 6 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, July 6 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 171.74990659679 days |
+| 🎉 Christmas | 171.66656585875 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
 >
-> 🔥 127 points
+> 🔥 182 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
