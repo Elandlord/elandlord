@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Tuesday, July 7 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, July 7 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 23°C, broken clouds |
+| ☁️ Groningen | 20°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 170.4582469415 days |
+| 🎉 Christmas | 170.29155602385 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+> [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
 >
-> 🔥 655 points
+> 🔥 209 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
