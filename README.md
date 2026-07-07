@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-☕ **Getting ready for work** · Tuesday, July 7 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, July 7 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 18°C, light rain |
+| ☁️ Groningen | 21°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 170.66654836068 days |
+| 🎉 Christmas | 170.5832377005 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Fable turned reMarkable into Tom Riddle&#039;s diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
 >
-> 🔥 309 points
+> 🔥 391 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
