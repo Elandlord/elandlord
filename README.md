@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Monday, July 6 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, July 7 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 19°C, overcast clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 171.08324085124 days |
+| ☁️ Groningen | 18°C, overcast clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 170.87488920079 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+> [Fable turned remarkable into Tom Riddle&#039;s diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
 >
-> 🔥 150 points
+> 🔥 100 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
