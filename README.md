@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🏠 **Done for the day** · Wednesday, July 8 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, July 8 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 21°C, scattered clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 169.2082050164 days |
+| 🎉 Christmas | 169.08268481082 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
+> [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview)
 >
-> 🔥 172 points
+> 🔥 115 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
