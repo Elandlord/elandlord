@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🏠 **Done for the day** · Tuesday, July 7 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, July 8 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 18°C, overcast clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 170.08322741219 days |
+| ☁️ Groningen | 17°C, overcast clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Christmas | 169.87489099647 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
+> [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
 >
-> 🔥 537 points
+> 🔥 62 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
