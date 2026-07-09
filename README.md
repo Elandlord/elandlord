@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Wednesday, July 8 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, July 9 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 19°C, overcast clouds |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 169.08268481082 days |
+| ☀️ Groningen | 17°C, clear sky |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 168.87430659164 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview)
+> [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
 >
-> 🔥 115 points
+> 🔥 175 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Deleted code is debugged code."
+> "The only way to go fast, is to go well."
 >
-> — *Jeff Sickel*
+> — *Robert C. Martin*
 
 ---
 
 ## Did You Know? 🤓
 
-The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
+The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
