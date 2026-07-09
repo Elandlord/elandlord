@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Thursday, July 9 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, July 9 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 18°C, clear sky |
+| ☁️ Groningen | 20°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 168.66654612789 days |
+| 🎉 Christmas | 168.58321745977 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
 >
-> 🔥 601 points
+> 🔥 726 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
