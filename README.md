@@ -1,6 +1,6 @@
-# Good evening! 🌊
+# Good night! ☕
 
-🏠 **Done for the day** · Thursday, July 9 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, July 9 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 22°C, scattered clouds |
+| ☁️ Groningen | 19°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 168.20823676419 days |
+| 🎉 Christmas | 168.0832342678 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: 18 Words](https://18words.com/)
+> [GPT-5.6](https://openai.com/index/gpt-5-6/)
 >
-> 🔥 508 points
+> 🔥 680 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
