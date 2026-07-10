@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Friday, July 10 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, July 10 · ⏰ 17:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Crescent |
 | ☀️ Groningen | 24°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 167.45823240249 days |
+| 🎉 Christmas | 167.29155770002 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GPT-5.6](https://openai.com/index/gpt-5-6/)
+> [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
 >
-> 🔥 1312 points
+> 🔥 100 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
