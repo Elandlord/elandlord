@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Friday, July 10 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, July 10 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 16°C, scattered clouds |
+| ☁️ Groningen | 17°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 167.74991018976 days |
+| 🎉 Christmas | 167.66655406362 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 >
-> 🔥 447 points
+> 🔥 513 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
