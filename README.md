@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🏠 **Done for the day** · Thursday, July 9 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 10 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌗
+## Quick Stats 🌘
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 19°C, few clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 168.0832342678 days |
+| 🌙 Moon phase | Waning Crescent |
+| ☁️ Groningen | 14°C, broken clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 167.87490191041 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GPT-5.6](https://openai.com/index/gpt-5-6/)
+> [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
 >
-> 🔥 680 points
+> 🔥 345 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
