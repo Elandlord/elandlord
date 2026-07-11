@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good evening! 💻
 
-🎉 **Enjoying the weekend** · Saturday, July 11 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 11 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 28°C, scattered clouds |
+| ☁️ Groningen | 24°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 166.29156807037 days |
+| 🎉 Christmas | 166.20823877427 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
+> [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
 >
-> 🔥 134 points
+> 🔥 66 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
