@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Friday, July 10 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 11 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 19°C, clear sky |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 167.0832421245 days |
+| ☀️ Groningen | 17°C, clear sky |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 Christmas | 166.87486718822 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+> [Einstein&#039;s relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
 >
-> 🔥 274 points
+> 🔥 61 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
