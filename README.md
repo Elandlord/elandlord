@@ -1,6 +1,6 @@
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, July 11 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 11 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 24°C, broken clouds |
+| ☁️ Groningen | 28°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 166.45823682519 days |
+| 🎉 Christmas | 166.29156807037 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Einstein&#039;s relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
+> [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
 >
-> 🔥 256 points
+> 🔥 134 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
