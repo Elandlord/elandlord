@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 22°C, broken clouds |
+| ☀️ Groningen | 22°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 165.45822744838 days |
+| 🎉 Christmas | 165.29157649818 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+> [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
 >
-> 🔥 91 points
+> 🔥 169 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
