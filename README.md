@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good night! 💻
 
-🎉 **Enjoying the weekend** · Saturday, July 11 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 19°C, clear sky |
+| ☀️ Groningen | 18°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 166.08321812906 days |
+| 🎉 Christmas | 165.87487269795 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
+> [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
 >
-> 🔥 92 points
+> 🔥 59 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Weeks of coding can save you hours of planning."
+> "There are only two hard things in CS: cache invalidation and naming things."
 >
-> — *Unknown*
+> — *Phil Karlton*
 
 ---
 
 ## Did You Know? 🤓
 
-Git was created by Linus Torvalds in just 2 weeks.
+The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
