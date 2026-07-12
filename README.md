@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good afternoon! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 22°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 165.58322598672 days |
+| 🎉 Christmas | 165.45822744838 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
+> [Vint Cerf, a “father of the Internet”, is retiring](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
 >
-> 🔥 216 points
+> 🔥 91 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
