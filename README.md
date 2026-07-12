@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 23°C, clear sky |
+| ☁️ Groningen | 18°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 165.20823330455 days |
+| 🎉 Christmas | 165.08324357213 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
+> [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
 >
-> 🔥 265 points
+> 🔥 170 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
