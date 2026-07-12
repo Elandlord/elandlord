@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 18°C, scattered clouds |
+| ☁️ Groningen | 20°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 165.66654634639 days |
+| 🎉 Christmas | 165.58322598672 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+> [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
 >
-> 🔥 71 points
+> 🔥 216 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
