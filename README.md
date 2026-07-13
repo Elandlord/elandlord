@@ -1,6 +1,6 @@
-# Good afternoon! 🎮
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Monday, July 13 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, July 13 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 25°C, few clouds |
+| ☁️ Groningen | 27°C, scattered clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 164.45821893692 days |
+| 🎉 Christmas | 164.29156394251 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
+> [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
 >
-> 🔥 297 points
+> 🔥 46 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
