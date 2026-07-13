@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Sunday, July 12 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, July 13 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌘
+## Quick Stats 🌑
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 18°C, scattered clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 165.08324357213 days |
+| 🌙 Moon phase | New Moon |
+| ☁️ Groningen | 17°C, broken clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 164.87490509314 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
+> [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
 >
-> 🔥 170 points
+> 🔥 266 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
