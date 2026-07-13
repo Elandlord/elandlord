@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🏠 **Done for the day** · Monday, July 13 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, July 13 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 27°C, scattered clouds |
+| ☁️ Groningen | 23°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 164.29156394251 days |
+| 🎉 Christmas | 164.20822922368 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
+> [Apple&#039;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
 >
-> 🔥 46 points
+> 🔥 57 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
