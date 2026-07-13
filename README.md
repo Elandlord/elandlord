@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Monday, July 13 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, July 13 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 22°C, scattered clouds |
+| ☁️ Groningen | 25°C, few clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 164.58321604701 days |
+| 🎉 Christmas | 164.45821893692 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
+> [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
 >
-> 🔥 47 points
+> 🔥 297 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
