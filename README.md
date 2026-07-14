@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🏠 **Done for the day** · Monday, July 13 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, July 14 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 21°C, scattered clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 164.08323263597 days |
+| ☁️ Groningen | 18°C, few clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 163.87490351726 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple&#039;s new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
+> [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
 >
-> 🔥 294 points
+> 🔥 281 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
