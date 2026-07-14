@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Tuesday, July 14 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, July 14 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☀️ Groningen | 28°C, clear sky |
+| ☀️ Groningen | 26°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 163.45822981531 days |
+| 🎉 Christmas | 163.29153867212 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+> [Codex starts encrypting sub-agent prompts](https://github.com/openai/codex/issues/28058)
 >
-> 🔥 520 points
+> 🔥 331 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
