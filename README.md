@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Tuesday, July 14 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, July 14 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☀️ Groningen | 24°C, clear sky |
+| ☀️ Groningen | 28°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 163.58323738679 days |
+| 🎉 Christmas | 163.45822981531 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
 >
-> 🔥 373 points
+> 🔥 520 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
