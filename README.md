@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good morning! ✨
 
-😴 **Still sleeping (or should be)** · Tuesday, July 14 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, July 14 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 18°C, few clouds |
+| ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 163.87490351726 days |
+| 🎉 Christmas | 163.74990081992 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
+> [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
 >
-> 🔥 281 points
+> 🔥 74 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
