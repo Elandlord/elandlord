@@ -1,6 +1,6 @@
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Tuesday, July 14 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, July 14 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☀️ Groningen | 25°C, clear sky |
+| ☀️ Groningen | 21°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 163.20823730381 days |
+| 🎉 Christmas | 163.08323047645 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Your &#039;app&#039; could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
+> [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
 >
-> 🔥 354 points
+> 🔥 278 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
