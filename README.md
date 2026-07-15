@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Wednesday, July 15 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, July 15 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☀️ Groningen | 17°C, clear sky |
+| ☀️ Groningen | 18°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 162.74989397682 days |
+| 🎉 Christmas | 162.66654777618 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
+> [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 >
-> 🔥 172 points
+> 🔥 196 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
