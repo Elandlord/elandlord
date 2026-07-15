@@ -1,6 +1,6 @@
-# Good night! ⚡
+# Good morning! 🎨
 
-😴 **Still sleeping (or should be)** · Wednesday, July 15 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, July 15 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 18°C, few clouds |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 162.87487911293 days |
+| 🎉 Christmas | 162.74989397682 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
+> [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
 >
-> 🔥 408 points
+> 🔥 172 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
