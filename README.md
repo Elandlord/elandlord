@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Wednesday, July 15 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, July 15 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☀️ Groningen | 25°C, clear sky |
+| ☁️ Groningen | 25°C, scattered clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 162.58323152627 days |
+| 🎉 Christmas | 162.45823418998 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
+> [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
 >
-> 🔥 125 points
+> 🔥 501 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
