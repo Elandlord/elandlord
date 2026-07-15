@@ -1,6 +1,6 @@
-# Good evening! 🔥
+# Good night! 🛠️
 
-🏠 **Done for the day** · Wednesday, July 15 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, July 15 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 26°C, broken clouds |
+| ☁️ Groningen | 21°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 162.20823614973 days |
+| 🎉 Christmas | 162.08323343248 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
+> [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 >
-> 🔥 17 points
+> 🔥 191 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
