@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good evening! 🔥
 
-🏠 **Done for the day** · Wednesday, July 15 · ⏰ 17:00 CET
+🏠 **Done for the day** · Wednesday, July 15 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 27°C, broken clouds |
+| ☁️ Groningen | 26°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 162.29157078442 days |
+| 🎉 Christmas | 162.20823614973 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+> [Primate Is the Last Great Web Framework](https://superarch.org/theanswerisc/primate-is-the-last-great-framework.html)
 >
-> 🔥 338 points
+> 🔥 17 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
