@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good night! 🔥
 
-🏠 **Done for the day** · Wednesday, July 15 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, July 16 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 21°C, overcast clouds |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 162.08323343248 days |
+| ☁️ Groningen | 19°C, overcast clouds |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 161.87489027416 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 >
-> 🔥 191 points
+> 🔥 642 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "First, solve the problem. Then, write the code."
+> "Experience is the name everyone gives to their mistakes."
 >
-> — *John Johnson*
+> — *Oscar Wilde*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer virus was created in 1983 as an experiment.
+&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
