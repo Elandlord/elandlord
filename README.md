@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Thursday, July 16 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, July 16 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 24°C, overcast clouds |
+| ☁️ Groningen | 21°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 161.20822541507 days |
+| 🎉 Christmas | 161.08324147971 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Kimi K3 is now live](https://www.kimi.com/en)
 >
-> 🔥 349 points
+> 🔥 654 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
