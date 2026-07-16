@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Thursday, July 16 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, July 16 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☁️ Groningen | 25°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 161.45822572534 days |
+| 🎉 Christmas | 161.29155514868 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
+> [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
 >
-> 🔥 374 points
+> 🔥 299 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
