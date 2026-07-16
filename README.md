@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🏠 **Done for the day** · Thursday, July 16 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, July 16 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 25°C, overcast clouds |
+| ☁️ Groningen | 24°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 161.29155514868 days |
+| 🎉 Christmas | 161.20822541507 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
+> [Kimi K3 is now live](https://www.kimi.com/en)
 >
-> 🔥 299 points
+> 🔥 349 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
