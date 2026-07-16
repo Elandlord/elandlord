@@ -1,6 +1,6 @@
-# Good morning! 🌟
+# Good morning! 🎮
 
-☕ **Getting ready for work** · Thursday, July 16 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, July 16 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 19°C, overcast clouds |
+| 🌧️ Groningen | 19°C, heavy intensity rain |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 161.66656795176 days |
+| 🎉 Christmas | 161.58322178954 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
 >
-> 🔥 37 points
+> 🔥 192 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
