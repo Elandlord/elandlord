@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ✨
 
-🏠 **Done for the day** · Thursday, July 16 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 17 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌑
+## Quick Stats 🌒
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | New Moon |
-| ☁️ Groningen | 21°C, broken clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 161.08324147971 days |
+| 🌙 Moon phase | Waxing Crescent |
+| ☀️ Groningen | 17°C, clear sky |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 160.87490165703 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kimi K3 is now live](https://www.kimi.com/en)
+> [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 >
-> 🔥 654 points
+> 🔥 1122 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Experience is the name everyone gives to their mistakes."
+> "The best error message is the one that never shows up."
 >
-> — *Oscar Wilde*
+> — *Thomas Fuchs*
 
 ---
 
 ## Did You Know? 🤓
 
-&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
+There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
