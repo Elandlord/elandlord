@@ -1,6 +1,6 @@
-# Good evening! 🎨
+# Good night! 🌟
 
-🏠 **Done for the day** · Friday, July 17 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, July 17 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 23°C, clear sky |
+| ☁️ Groningen | 18°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 160.20823825726 days |
+| 🎉 Christmas | 160.08322308351 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 >
-> 🔥 557 points
+> 🔥 827 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
