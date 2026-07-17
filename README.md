@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Friday, July 17 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, July 17 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| 🌧️ Groningen | 27°C, light rain |
+| ☁️ Groningen | 26°C, few clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 160.45822304551 days |
+| 🎉 Christmas | 160.29155931142 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
+> [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 >
-> 🔥 113 points
+> 🔥 216 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
