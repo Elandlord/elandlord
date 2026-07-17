@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Friday, July 17 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 17 · ⏰ 06:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 160.87490165703 days |
+| 🎉 Christmas | 160.74989904801 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 >
-> 🔥 1122 points
+> 🔥 1291 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
