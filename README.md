@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Friday, July 17 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, July 17 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 17°C, clear sky |
+| ☀️ Groningen | 19°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 160.74989904801 days |
+| 🎉 Christmas | 160.66655515679 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
+> [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
 >
-> 🔥 1291 points
+> 🔥 56 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
