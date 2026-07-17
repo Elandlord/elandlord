@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Friday, July 17 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, July 17 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 23°C, clear sky |
+| 🌧️ Groningen | 27°C, light rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 160.58322737722 days |
+| 🎉 Christmas | 160.45822304551 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
 >
-> 🔥 51 points
+> 🔥 113 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
