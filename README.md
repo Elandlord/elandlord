@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🎉 **Enjoying the weekend** · Saturday, July 18 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 18 · ⏰ 17:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 19°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 159.45823007049 days |
+| 🎉 Christmas | 159.29157032164 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+> [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
 >
-> 🔥 386 points
+> 🔥 164 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
