@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good night! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, July 18 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 15°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 159.08323895932 days |
+| 🎉 Christmas | 158.87490015218 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
+> [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
 >
-> 🔥 394 points
+> 🔥 239 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Simplicity is the soul of efficiency."
+> "Make it work, make it right, make it fast."
 >
-> — *Austin Freeman*
+> — *Kent Beck*
 
 ---
 
 ## Did You Know? 🤓
 
-The QWERTY keyboard was designed to slow typists down.
+The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
