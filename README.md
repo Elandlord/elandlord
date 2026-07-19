@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good afternoon! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 158.58322869583 days |
+| 🎉 Christmas | 158.45822949617 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
+> [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
 >
-> 🔥 428 points
+> 🔥 52 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
