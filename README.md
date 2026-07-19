@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good evening! 📚
 
-🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 18°C, overcast clouds |
+| 🌧️ Groningen | 16°C, light rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 158.29156228791 days |
+| 🎉 Christmas | 158.20824078657 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+> [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 >
-> 🔥 87 points
+> 🔥 485 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
