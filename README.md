@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good afternoon! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 17:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waxing Crescent |
 | ☁️ Groningen | 18°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 158.45822949617 days |
+| 🎉 Christmas | 158.29156228791 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+> [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
 >
-> 🔥 52 points
+> 🔥 87 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
