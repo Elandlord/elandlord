@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🎉 **Enjoying the weekend** · Sunday, July 19 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, July 20 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 16°C, clear sky |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 158.08322956219 days |
+| ☁️ Groningen | 15°C, few clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 157.87489668245 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
 >
-> 🔥 501 points
+> 🔥 1419 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
