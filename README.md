@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Monday, July 20 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, July 20 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 15°C, few clouds |
+| 🌧️ Groningen | 14°C, light rain |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 157.87489668245 days |
+| 🎉 Christmas | 157.74989961704 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
 >
-> 🔥 1419 points
+> 🔥 1748 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
