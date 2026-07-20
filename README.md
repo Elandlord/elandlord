@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Monday, July 20 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, July 20 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 22°C, broken clouds |
+| ☀️ Groningen | 21°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 157.45823574598 days |
+| 🎉 Christmas | 157.29156766456 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25](https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/)
+> [Hacker wipes Romania&#039;s land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
 >
-> 🔥 122 points
+> 🔥 175 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
