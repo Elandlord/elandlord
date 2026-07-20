@@ -1,6 +1,6 @@
-# Good evening! 🌟
+# Good night! 🏃
 
-🏠 **Done for the day** · Monday, July 20 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, July 20 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Crescent |
-| ☁️ Groningen | 19°C, few clouds |
+| ☀️ Groningen | 16°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 157.20822168466 days |
+| 🎉 Christmas | 157.08323988806 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Hacker wipes Romania&#039;s land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+> [China&#039;s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
 >
-> 🔥 328 points
+> 🔥 586 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
