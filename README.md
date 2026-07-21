@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Tuesday, July 21 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, July 21 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 21°C, few clouds |
+| ☁️ Groningen | 21°C, scattered clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 156.58322133961 days |
+| 🎉 Christmas | 156.45821887703 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
+> [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
 >
-> 🔥 143 points
+> 🔥 123 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
