@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🏠 **Done for the day** · Tuesday, July 21 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, July 21 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 19°C, scattered clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 156.20823084024 days |
+| 🎉 Christmas | 156.08323652381 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
+> [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
 >
-> 🔥 260 points
+> 🔥 107 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
