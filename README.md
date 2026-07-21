@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good night! 🌟
 
-🏠 **Done for the day** · Monday, July 20 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, July 21 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌒
+## Quick Stats 🌓
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waxing Crescent |
-| ☀️ Groningen | 16°C, clear sky |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 157.08323988806 days |
+| 🌙 Moon phase | First Quarter |
+| ☀️ Groningen | 12°C, clear sky |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 156.87489496948 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [China&#039;s open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
+> [Who&#039;s afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 >
-> 🔥 586 points
+> 🔥 201 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Any fool can write code that a computer can understand."
+> "Programs must be written for people to read."
 >
-> — *Martin Fowler*
+> — *Harold Abelson*
 
 ---
 
 ## Did You Know? 🤓
 
-Email is older than the World Wide Web.
+The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
