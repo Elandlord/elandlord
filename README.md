@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good morning! 🏃
 
-😴 **Still sleeping (or should be)** · Tuesday, July 21 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, July 21 · ⏰ 06:00 CET
 
 ---
 
@@ -37,7 +37,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ☀️ Groningen | 12°C, clear sky |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 156.87489496948 days |
+| 🎉 Christmas | 156.74990532234 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Who&#039;s afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
 >
-> 🔥 201 points
+> 🔥 387 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
