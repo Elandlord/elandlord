@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Wednesday, July 22 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, July 22 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 155.45821910464 days |
+| 🎉 Christmas | 155.29155601896 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+> [How to Read a Painting](https://sheets.works/data-viz/how-to-read-a-painting/)
 >
-> 🔥 1208 points
+> 🔥 29 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
