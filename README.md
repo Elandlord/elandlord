@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🏠 **Done for the day** · Wednesday, July 22 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, July 22 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 16°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 155.20822762064 days |
+| 🎉 Christmas | 155.08323206003 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
+> [Terrence Tao&#039;s ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
 >
-> 🔥 178 points
+> 🔥 308 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
