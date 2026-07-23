@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Thursday, July 23 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, July 23 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 154.45822178963 days |
+| 🎉 Christmas | 154.29155762652 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
+> [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
 >
-> 🔥 74 points
+> 🔥 68 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
