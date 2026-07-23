@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Thursday, July 23 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, July 23 · ⏰ 08:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | First Quarter |
 | ☁️ Groningen | 15°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 154.74990920429 days |
+| 🎉 Christmas | 154.66656251671 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Terence Tao&#039;s ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+> [git&#039;s –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
 >
-> 🔥 684 points
+> 🔥 66 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
