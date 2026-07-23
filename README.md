@@ -1,6 +1,6 @@
-# Good afternoon! 🎸
+# Good evening! 🏃
 
-🏠 **Done for the day** · Thursday, July 23 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, July 23 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 154.29155762652 days |
+| 🎉 Christmas | 154.2082316726 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
+> [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
 >
-> 🔥 68 points
+> 🔥 319 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
