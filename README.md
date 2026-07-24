@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Thursday, July 23 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 24 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌓
+## Quick Stats 🌔
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | First Quarter |
-| ☁️ Groningen | 15°C, overcast clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 154.08324047198 days |
+| 🌙 Moon phase | Waxing Gibbous |
+| ☁️ Groningen | 14°C, few clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 153.87490329442 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+> [98.css](https://jdan.github.io/98.css/#status-bar)
 >
-> 🔥 659 points
+> 🔥 161 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Deleted code is debugged code."
+> "The only way to go fast, is to go well."
 >
-> — *Jeff Sickel*
+> — *Robert C. Martin*
 
 ---
 
 ## Did You Know? 🤓
 
-The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
+The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
