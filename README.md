@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Friday, July 24 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 24 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 14°C, few clouds |
+| ☁️ Groningen | 14°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 153.87490329442 days |
+| 🎉 Christmas | 153.74990188264 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [98.css](https://jdan.github.io/98.css/#status-bar)
 >
-> 🔥 161 points
+> 🔥 326 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
