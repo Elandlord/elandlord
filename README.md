@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Friday, July 24 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, July 24 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 14°C, overcast clouds |
+| ☁️ Groningen | 15°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 153.74990188264 days |
+| 🎉 Christmas | 153.66657045012 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [98.css](https://jdan.github.io/98.css/#status-bar)
+> [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
 >
-> 🔥 326 points
+> 🔥 1154 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
