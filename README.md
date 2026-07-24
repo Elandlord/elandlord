@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Friday, July 24 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, July 24 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 19°C, scattered clouds |
+| ☁️ Groningen | 23°C, overcast clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 153.45823526101 days |
+| 🎉 Christmas | 153.2915566687 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+> [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
 >
-> 🔥 66 points
+> 🔥 154 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
