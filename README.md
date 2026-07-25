@@ -1,6 +1,6 @@
-# Good evening! 🚀
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 24°C, broken clouds |
+| ☁️ Groningen | 20°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 152.20822450896 days |
+| 🎉 Christmas | 152.08323582817 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Wind turbine is being used to produce zero-carbon &quot;green ammonia&quot; fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
+> [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 >
-> 🔥 41 points
+> 🔥 368 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
