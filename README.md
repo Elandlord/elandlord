@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 14°C, broken clouds |
+| ☁️ Groningen | 15°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 152.87489801093 days |
+| 🎉 Christmas | 152.74989601681 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 >
-> 🔥 1260 points
+> 🔥 1381 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
