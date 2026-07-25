@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 28°C, scattered clouds |
+| ☁️ Groningen | 24°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 152.29156549611 days |
+| 🎉 Christmas | 152.20822450896 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+> [Wind turbine is being used to produce zero-carbon &quot;green ammonia&quot; fertilizer](https://energiesmedia.com/wind-turbine-stopped-electricity-wind-water-air/)
 >
-> 🔥 545 points
+> 🔥 41 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
