@@ -1,6 +1,6 @@
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 17:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 26°C, clear sky |
+| ☁️ Groningen | 28°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 152.45823380431 days |
+| 🎉 Christmas | 152.29156549611 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
 >
-> 🔥 264 points
+> 🔥 545 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
