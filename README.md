@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good morning! 🔥
 
-🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 151.7498950414 days |
+| 🎉 Christmas | 151.66654652927 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [JetZero](https://www.jetzero.aero)
+> [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
 >
-> 🔥 65 points
+> 🔥 75 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
