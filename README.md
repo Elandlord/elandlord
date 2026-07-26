@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 18°C, overcast clouds |
+| 🌧️ Groningen | 19°C, moderate rain |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 151.58319130428 days |
+| 🎉 Christmas | 151.45822438633 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
+> [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 >
-> 🔥 108 points
+> 🔥 68 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
