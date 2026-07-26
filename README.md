@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good evening! 💻
 
-🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| 🌧️ Groningen | 21°C, light rain |
+| ☁️ Groningen | 21°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 151.29154849685 days |
+| 🎉 Christmas | 151.2082251013 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
+> [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
 >
-> 🔥 220 points
+> 🔥 123 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
