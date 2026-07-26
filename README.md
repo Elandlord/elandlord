@@ -1,6 +1,6 @@
-# Good evening! 💻
+# Good night! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 21°C, broken clouds |
+| ☁️ Groningen | 18°C, scattered clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 151.2082251013 days |
+| 🎉 Christmas | 151.08322990822 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+> [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
 >
-> 🔥 123 points
+> 🔥 52 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
