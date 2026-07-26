@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good morning! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 17°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 151.87487849336 days |
+| 🎉 Christmas | 151.7498950414 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
+> [JetZero](https://www.jetzero.aero)
 >
-> 🔥 552 points
+> 🔥 65 points
 
 ---
 
@@ -63,4 +63,4 @@ Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
