@@ -1,6 +1,6 @@
-# Good night! 🎯
+# Good night! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, July 25 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, July 26 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 20°C, scattered clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 152.08323582817 days |
+| 🎉 Christmas | 151.87487849336 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
 >
-> 🔥 368 points
+> 🔥 552 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Talk is cheap. Show me the code."
+> "Weeks of coding can save you hours of planning."
 >
-> — *Linus Torvalds*
+> — *Unknown*
 
 ---
 
 ## Did You Know? 🤓
 
-The first website ever created is still online at info.cern.ch.
+Git was created by Linus Torvalds in just 2 weeks.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
