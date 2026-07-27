@@ -1,6 +1,6 @@
-# Good afternoon! 🚀
+# Good evening! ☕
 
-🏠 **Done for the day** · Monday, July 27 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, July 27 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 20°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 150.29152995169 days |
+| 🎉 Christmas | 150.20822491132 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
+> [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
 >
-> 🔥 723 points
+> 🔥 250 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
