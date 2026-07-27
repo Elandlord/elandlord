@@ -1,6 +1,6 @@
-# Good night! 💻
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Monday, July 27 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, July 27 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 15°C, clear sky |
+| ☀️ Groningen | 13°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 150.87489739181 days |
+| 🎉 Christmas | 150.74988005784 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+> [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
 >
-> 🔥 213 points
+> 🔥 222 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
