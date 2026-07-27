@@ -1,6 +1,6 @@
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Monday, July 27 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, July 27 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☀️ Groningen | 17°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 150.20822491132 days |
+| 🎉 Christmas | 150.08322415918 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kimi-K3 Technical Report [pdf]](https://github.com/MoonshotAI/Kimi-K3/blob/main/k3_tech_report.pdf)
+> [Watching Go&#039;s new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
 >
-> 🔥 250 points
+> 🔥 66 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
