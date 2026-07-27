@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-☕ **Getting ready for work** · Monday, July 27 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Monday, July 27 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waxing Gibbous |
-| ☁️ Groningen | 14°C, scattered clouds |
+| ☀️ Groningen | 18°C, clear sky |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 150.6665574052 days |
+| 🎉 Christmas | 150.5832152845 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+> [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
 >
-> 🔥 358 points
+> 🔥 109 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer mouse was made of wood.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
