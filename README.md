@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Tuesday, July 28 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, July 28 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☁️ Groningen | 26°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 149.58322996437 days |
+| 🎉 Christmas | 149.45822617716 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
+> [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en)
 >
-> 🔥 829 points
+> 🔥 252 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
