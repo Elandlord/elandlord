@@ -1,6 +1,6 @@
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🏠 **Done for the day** · Tuesday, July 28 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, July 28 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 28°C, overcast clouds |
+| ☁️ Groningen | 27°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 149.29154153348 days |
+| 🎉 Christmas | 149.20819517868 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&amp;lang=en)
+> [You Could Have Come Up with Kimi Delta Attention](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention)
 >
-> 🔥 549 points
+> 🔥 85 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
