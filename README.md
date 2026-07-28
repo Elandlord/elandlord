@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good night! ☕
 
-🏠 **Done for the day** · Monday, July 27 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, July 28 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌔
+## Quick Stats 🌕
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waxing Gibbous |
-| ☀️ Groningen | 17°C, clear sky |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 150.08322415918 days |
+| 🌙 Moon phase | Full Moon |
+| ☁️ Groningen | 14°C, few clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 149.87489165831 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Watching Go&#039;s new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
+> [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
 >
-> 🔥 66 points
+> 🔥 395 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "There are only two hard things in CS: cache invalidation and naming things."
+> "The best code is no code at all."
 >
-> — *Phil Karlton*
+> — *Jeff Atwood*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer mouse was made of wood.
+PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
