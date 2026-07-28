@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Tuesday, July 28 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, July 28 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 14°C, few clouds |
+| ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 149.87489165831 days |
+| 🎉 Christmas | 149.74988818082 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
 >
-> 🔥 395 points
+> 🔥 580 points
 
 ---
 
@@ -63,4 +63,4 @@ PHP originally stood for &quot;Personal Home Page&quot;.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
