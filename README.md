@@ -1,6 +1,6 @@
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Wednesday, July 29 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, July 29 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 32°C, clear sky |
+| ☀️ Groningen | 24°C, clear sky |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 148.20822972505 days |
+| 🎉 Christmas | 148.08322777485 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
+> [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
 >
-> 🔥 218 points
+> 🔥 65 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
