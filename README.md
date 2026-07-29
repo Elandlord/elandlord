@@ -1,6 +1,6 @@
-# Good afternoon! 🏃
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Wednesday, July 29 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, July 29 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 31°C, broken clouds |
+| ☁️ Groningen | 33°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 148.45822295899 days |
+| 🎉 Christmas | 148.29155511211 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
+> [KOReader](https://koreader.rocks/)
 >
-> 🔥 210 points
+> 🔥 347 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
