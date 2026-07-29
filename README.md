@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-☕ **Getting ready for work** · Wednesday, July 29 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, July 29 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 19°C, overcast clouds |
+| ☁️ Groningen | 25°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 148.66655609647 days |
+| 🎉 Christmas | 148.58323047878 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 >
-> 🔥 52 points
+> 🔥 123 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
