@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good night! 🎯
 
-🏠 **Done for the day** · Tuesday, July 28 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, July 29 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 23°C, overcast clouds |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 149.0832060276 days |
+| ☁️ Groningen | 18°C, overcast clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Christmas | 148.87490315131 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Deflock Casa Grande](https://deflockcg.com/)
+> [Codex Security](https://github.com/openai/codex-security)
 >
-> 🔥 183 points
+> 🔥 321 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best code is no code at all."
+> "Code is like humor. When you have to explain it, it&#039;s bad."
 >
-> — *Jeff Atwood*
+> — *Cory House*
 
 ---
 
 ## Did You Know? 🤓
 
-PHP originally stood for &quot;Personal Home Page&quot;.
+JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
