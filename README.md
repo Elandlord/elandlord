@@ -1,6 +1,6 @@
-# Good morning! ✨
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Wednesday, July 29 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, July 29 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 19°C, overcast clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 148.74988951787 days |
+| 🎉 Christmas | 148.66655609647 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Codex Security](https://github.com/openai/codex-security)
+> [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
 >
-> 🔥 392 points
+> 🔥 52 points
 
 ---
 
@@ -63,4 +63,4 @@ JavaScript was created in just 10 days.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
