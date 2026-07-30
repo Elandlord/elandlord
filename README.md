@@ -1,6 +1,6 @@
-# Good morning! 🎨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Thursday, July 30 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Thursday, July 30 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 20°C, clear sky |
+| ☀️ Groningen | 23°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 147.74989507395 days |
+| 🎉 Christmas | 147.66656071589 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [NSF pilots 4-year PhDs with industry research placements](https://www.nsf.gov/news/nsf-partners-universities-industry-pilot-initiative-four)
+> [AI&#039;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 >
-> 🔥 40 points
+> 🔥 339 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
