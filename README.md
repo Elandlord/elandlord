@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Thursday, July 30 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, July 30 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 23°C, clear sky |
+| ☀️ Groningen | 26°C, clear sky |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 147.66656071589 days |
+| 🎉 Christmas | 147.58323391985 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [AI&#039;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 >
-> 🔥 339 points
+> 🔥 405 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
