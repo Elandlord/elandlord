@@ -1,6 +1,6 @@
-# Good morning! 🎸
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Thursday, July 30 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, July 30 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 26°C, clear sky |
+| ☁️ Groningen | 31°C, scattered clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 147.58323391985 days |
+| 🎉 Christmas | 147.45822289023 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI&#039;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
+> [Atomarine: Nuclear Data Centers at Sea](https://atomarine.co/)
 >
-> 🔥 405 points
+> 🔥 19 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
