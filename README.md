@@ -1,6 +1,6 @@
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Thursday, July 30 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, July 30 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 31°C, scattered clouds |
+| ☁️ Groningen | 25°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 147.45822289023 days |
+| 🎉 Christmas | 147.29155223519 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Atomarine: Nuclear Data Centers at Sea](https://atomarine.co/)
+> [&#039;VPNs are lawful technical tools,&#039; says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
 >
-> 🔥 19 points
+> 🔥 303 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
