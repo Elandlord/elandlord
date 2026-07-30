@@ -1,6 +1,6 @@
-# Good afternoon! 🎯
+# Good evening! 🔥
 
-🏠 **Done for the day** · Thursday, July 30 · ⏰ 17:00 CET
+🏠 **Done for the day** · Thursday, July 30 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 25°C, overcast clouds |
+| 🌧️ Groningen | 22°C, moderate rain |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 147.29155223519 days |
+| 🎉 Christmas | 147.20822021752 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [&#039;VPNs are lawful technical tools,&#039; says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
+> [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
 >
-> 🔥 303 points
+> 🔥 195 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
