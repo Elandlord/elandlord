@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good night! ⚡
 
-🏠 **Done for the day** · Wednesday, July 29 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, July 30 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 24°C, clear sky |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 148.08322777485 days |
+| ☀️ Groningen | 20°C, clear sky |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 147.87488513838 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kimi K3-256k](https://www.kimi.com/code/docs/en/kimi-code/models)
+> [AI&#039;s top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 >
-> 🔥 65 points
+> 🔥 164 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Code is like humor. When you have to explain it, it&#039;s bad."
+> "First, solve the problem. Then, write the code."
 >
-> — *Cory House*
+> — *John Johnson*
 
 ---
 
 ## Did You Know? 🤓
 
-JavaScript was created in just 10 days.
+The first computer virus was created in 1983 as an experiment.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
