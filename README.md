@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🏠 **Done for the day** · Friday, July 31 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, July 31 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 22°C, overcast clouds |
+| ☁️ Groningen | 21°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 146.2915368051 days |
+| 🎉 Christmas | 146.20821981065 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
+> [Elevators](https://john.fun/elevators)
 >
-> 🔥 291 points
+> 🔥 230 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
