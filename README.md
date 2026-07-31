@@ -1,6 +1,6 @@
-# Good morning! 🛠️
+# Good morning! 🌟
 
-😴 **Still sleeping (or should be)** · Friday, July 31 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Friday, July 31 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 17°C, broken clouds |
+| ☁️ Groningen | 18°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 146.74989097883 days |
+| 🎉 Christmas | 146.66657044416 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
+> [The AI trade now runs on borrowed money, and the lenders are repricing it](https://greyswansignals.com/?theme=dark)
 >
-> 🔥 36 points
+> 🔥 109 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
