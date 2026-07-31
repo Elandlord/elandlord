@@ -1,6 +1,6 @@
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Friday, July 31 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, July 31 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 21°C, broken clouds |
+| ☀️ Groningen | 16°C, clear sky |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 146.20821981065 days |
+| 🎉 Christmas | 146.08323423079 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Elevators](https://john.fun/elevators)
 >
-> 🔥 230 points
+> 🔥 594 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
