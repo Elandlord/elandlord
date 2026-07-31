@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Friday, July 31 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Friday, July 31 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 20°C, overcast clouds |
+| 🌧️ Groningen | 19°C, light rain |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 146.58323026439 days |
+| 🎉 Christmas | 146.45822026688 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [The session you cannot take with you](https://earendil.com/posts/session-portability/)
 >
-> 🔥 221 points
+> 🔥 397 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
