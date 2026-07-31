@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good night! 🔥
 
-🏠 **Done for the day** · Thursday, July 30 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 31 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 19°C, broken clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 147.08322526602 days |
+| ☁️ Groningen | 17°C, overcast clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 146.8748913274 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+> [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 >
-> 🔥 237 points
+> 🔥 49 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "First, solve the problem. Then, write the code."
+> "Experience is the name everyone gives to their mistakes."
 >
-> — *John Johnson*
+> — *Oscar Wilde*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer virus was created in 1983 as an experiment.
+&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
