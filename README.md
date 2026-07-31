@@ -1,6 +1,6 @@
-# Good night! 🔥
+# Good morning! 🛠️
 
-😴 **Still sleeping (or should be)** · Friday, July 31 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Friday, July 31 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Full Moon |
-| ☁️ Groningen | 17°C, overcast clouds |
+| ☁️ Groningen | 17°C, broken clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 146.8748913274 days |
+| 🎉 Christmas | 146.74989097883 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
+> [A California aquifer may have crossed the point of no return](https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return)
 >
-> 🔥 49 points
+> 🔥 36 points
 
 ---
 
@@ -63,4 +63,4 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
