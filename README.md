@@ -1,6 +1,6 @@
-# Good night! 📚
+# Good night! ✨
 
-🏠 **Done for the day** · Friday, July 31 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌕
+## Quick Stats 🌖
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Full Moon |
-| ☀️ Groningen | 16°C, clear sky |
-| 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 146.08323423079 days |
+| 🌙 Moon phase | Waning Gibbous |
+| ☀️ Groningen | 12°C, clear sky |
+| 🎉 Weekend | It&#039;s the weekend! |
+| 🎉 Christmas | 145.87489743569 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Elevators](https://john.fun/elevators)
+> [Tailscale didn&#039;t stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
 >
-> 🔥 594 points
+> 🔥 422 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Experience is the name everyone gives to their mistakes."
+> "The best error message is the one that never shows up."
 >
-> — *Oscar Wilde*
+> — *Thomas Fuchs*
 
 ---
 
 ## Did You Know? 🤓
 
-&quot;Lorem Ipsum&quot; has been the standard placeholder text since the 1500s.
+There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
