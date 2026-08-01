@@ -1,6 +1,6 @@
-# Good morning! 📚
+# Good morning! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 12°C, broken clouds |
+| ☁️ Groningen | 14°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 145.74989159162 days |
+| 🎉 Christmas | 145.66655685329 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
+> [Elevators](https://john.fun/elevators)
 >
-> 🔥 18 points
+> 🔥 1110 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
