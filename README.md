@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good evening! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 19:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 24°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 145.29156871218 days |
+| 🎉 Christmas | 145.2082455565 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/)
+> [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
 >
-> 🔥 46 points
+> 🔥 69 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
