@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 23°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 145.58321636116 days |
+| 🎉 Christmas | 145.45823147672 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+> [AI doesn&#039;t generate working products, that&#039;s still your job](https://weeraman.com/the-prototype-isnt-the-product/)
 >
-> 🔥 17 points
+> 🔥 99 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
