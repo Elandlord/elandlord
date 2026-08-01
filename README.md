@@ -1,6 +1,6 @@
-# Good night! ✨
+# Good morning! 📚
 
-🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 12°C, clear sky |
+| ☁️ Groningen | 12°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 145.87489743569 days |
+| 🎉 Christmas | 145.74989159162 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Tailscale didn&#039;t stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
+> [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
 >
-> 🔥 422 points
+> 🔥 18 points
 
 ---
 
@@ -63,4 +63,4 @@ There are approximately 700 programming languages in existence.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
