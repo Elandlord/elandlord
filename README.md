@@ -1,6 +1,6 @@
-# Good evening! 🛠️
+# Good night! 🎸
 
-🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 25°C, broken clouds |
+| ☁️ Groningen | 19°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 144.20823993613 days |
+| 🎉 Christmas | 144.08322632603 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
+> [SwiftUI After 7 Years: A Story of Mediocrity](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
 >
-> 🔥 68 points
+> 🔥 65 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
