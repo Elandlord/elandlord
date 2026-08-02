@@ -1,6 +1,6 @@
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 26°C, broken clouds |
+| ☁️ Groningen | 25°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 144.45824250047 days |
+| 🎉 Christmas | 144.29155698138 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
+> [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
 >
-> 🔥 9 points
+> 🔥 57 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
