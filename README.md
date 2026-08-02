@@ -1,6 +1,6 @@
-# Good night! 🎨
+# Good morning! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 12°C, clear sky |
+| ☀️ Groningen | 11°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 144.87489381126 days |
+| 🎉 Christmas | 144.7498898175 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
+> [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
 >
-> 🔥 120 points
+> 🔥 71 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
