@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good night! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, August 1 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☀️ Groningen | 17°C, clear sky |
+| ☀️ Groningen | 12°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 145.08322838773 days |
+| 🎉 Christmas | 144.87489381126 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+> [AI financial advice is surprisingly good if you ask the right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions)
 >
-> 🔥 53 points
+> 🔥 120 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The best error message is the one that never shows up."
+> "Simplicity is the soul of efficiency."
 >
-> — *Thomas Fuchs*
+> — *Austin Freeman*
 
 ---
 
 ## Did You Know? 🤓
 
-There are approximately 700 programming languages in existence.
+The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
