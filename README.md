@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 25°C, overcast clouds |
+| ☁️ Groningen | 25°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 144.29155698138 days |
+| 🎉 Christmas | 144.20823993613 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+> [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
 >
-> 🔥 57 points
+> 🔥 68 points
 
 ---
 
@@ -63,4 +63,4 @@ The QWERTY keyboard was designed to slow typists down.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
