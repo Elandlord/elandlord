@@ -1,6 +1,6 @@
-# Good night! 🛠️
+# Good morning! 🎸
 
-😴 **Still sleeping (or should be)** · Monday, August 3 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Monday, August 3 · ⏰ 06:00 CET
 
 ---
 
@@ -37,15 +37,15 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | 🌙 Moon phase | Waning Gibbous |
 | ☁️ Groningen | 16°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 143.87489205593 days |
+| 🎉 Christmas | 143.74988409256 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
+> [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
 >
-> 🔥 70 points
+> 🔥 131 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
