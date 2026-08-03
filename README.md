@@ -1,6 +1,6 @@
-# Good morning! 🚀
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Monday, August 3 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, August 3 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 29°C, overcast clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 143.58321863396 days |
+| 🎉 Christmas | 143.45822175478 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Don&#039;t be a meat proxy](https://gruhn.me/blog/2026-08-03/)
+> [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
 >
-> 🔥 258 points
+> 🔥 61 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
