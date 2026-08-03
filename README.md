@@ -1,6 +1,6 @@
-# Good afternoon! 🎨
+# Good evening! 📚
 
-🏠 **Done for the day** · Monday, August 3 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, August 3 · ⏰ 19:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 33°C, scattered clouds |
+| ☁️ Groningen | 32°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 143.2915620834 days |
+| 🎉 Christmas | 143.20821906123 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
 >
-> 🔥 403 points
+> 🔥 588 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
