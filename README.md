@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good night! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, August 2 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Monday, August 3 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 19°C, broken clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 144.08322632603 days |
+| ☁️ Groningen | 16°C, overcast clouds |
+| 📅 Weekend | 5 days until weekend |
+| 🎉 Christmas | 143.87489205593 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [SwiftUI After 7 Years: A Story of Mediocrity](https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/)
+> [Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours](https://github.com/pg83/shitty)
 >
-> 🔥 65 points
+> 🔥 70 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Simplicity is the soul of efficiency."
+> "Make it work, make it right, make it fast."
 >
-> — *Austin Freeman*
+> — *Kent Beck*
 
 ---
 
 ## Did You Know? 🤓
 
-The QWERTY keyboard was designed to slow typists down.
+The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
