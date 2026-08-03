@@ -1,6 +1,6 @@
-# Good evening! 📚
+# Good night! 🎮
 
-🏠 **Done for the day** · Monday, August 3 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, August 3 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 32°C, broken clouds |
+| ☁️ Groningen | 26°C, broken clouds |
 | 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 143.20821906123 days |
+| 🎉 Christmas | 143.08321896045 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Critical CVE issued for hallucinated SQLite vulnerability](https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/)
+> [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 >
-> 🔥 588 points
+> 🔥 227 points
 
 ---
 
@@ -63,4 +63,4 @@ The first 1GB hard drive weighed about 550 pounds and cost $40,000.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
