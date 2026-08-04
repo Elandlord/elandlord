@@ -1,6 +1,6 @@
-# Good evening! 🌟
+# Good night! 🏃
 
-🏠 **Done for the day** · Tuesday, August 4 · ⏰ 19:00 CET
+🏠 **Done for the day** · Tuesday, August 4 · ⏰ 22:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 29°C, broken clouds |
+| 🌧️ Groningen | 24°C, light rain |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 142.20822071569 days |
+| 🎉 Christmas | 142.08322898843 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
 >
-> 🔥 146 points
+> 🔥 323 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
