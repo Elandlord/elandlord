@@ -1,6 +1,6 @@
-# Good morning! 💻
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Tuesday, August 4 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Tuesday, August 4 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 27°C, broken clouds |
+| ☁️ Groningen | 33°C, scattered clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 142.58322794039 days |
+| 🎉 Christmas | 142.45823163293 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+> [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
 >
-> 🔥 829 points
+> 🔥 159 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
