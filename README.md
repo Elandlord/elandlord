@@ -1,6 +1,6 @@
-# Good afternoon! 🛠️
+# Good evening! 🌟
 
-🏠 **Done for the day** · Tuesday, August 4 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, August 4 · ⏰ 19:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 33°C, broken clouds |
+| ☁️ Groningen | 29°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 142.29155336954 days |
+| 🎉 Christmas | 142.20822071569 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ray Bradbury&#039;s &quot;There Will Come Soft Rains&quot; is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
+> [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
 >
-> 🔥 276 points
+> 🔥 146 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
