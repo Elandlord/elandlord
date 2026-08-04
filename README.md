@@ -1,6 +1,6 @@
-# Good morning! 🎮
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Tuesday, August 4 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Tuesday, August 4 · ⏰ 08:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 22°C, light rain |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 142.74988943679 days |
+| 🎉 Christmas | 142.66655708294 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 >
-> 🔥 576 points
+> 🔥 700 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
