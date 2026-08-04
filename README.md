@@ -1,6 +1,6 @@
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Tuesday, August 4 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, August 4 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 33°C, scattered clouds |
+| ☁️ Groningen | 33°C, broken clouds |
 | 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 142.45823163293 days |
+| 🎉 Christmas | 142.29155336954 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+> [Ray Bradbury&#039;s &quot;There Will Come Soft Rains&quot; is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
 >
-> 🔥 159 points
+> 🔥 276 points
 
 ---
 
@@ -63,4 +63,4 @@ Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
