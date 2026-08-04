@@ -1,6 +1,6 @@
-# Good night! 🎮
+# Good night! 📚
 
-🏠 **Done for the day** · Monday, August 3 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, August 4 · ⏰ 03:00 CET
 
 ---
 
@@ -30,37 +30,37 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
-## Quick Stats 🌖
+## Quick Stats 🌗
 
 | | |
 |--------|-------|
-| 🌙 Moon phase | Waning Gibbous |
-| ☁️ Groningen | 26°C, broken clouds |
-| 📅 Weekend | 5 days until weekend |
-| 🎉 Christmas | 143.08321896045 days |
+| 🌙 Moon phase | Last Quarter |
+| ☁️ Groningen | 22°C, overcast clouds |
+| 📅 Weekend | 4 days until weekend |
+| 🎉 Christmas | 142.8748706615 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+> [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
 >
-> 🔥 227 points
+> 🔥 378 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Make it work, make it right, make it fast."
+> "Any fool can write code that a computer can understand."
 >
-> — *Kent Beck*
+> — *Martin Fowler*
 
 ---
 
 ## Did You Know? 🤓
 
-The first 1GB hard drive weighed about 550 pounds and cost $40,000.
+Email is older than the World Wide Web.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
