@@ -1,6 +1,6 @@
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Wednesday, August 5 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, August 5 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 26°C, scattered clouds |
+| ☁️ Groningen | 27°C, scattered clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 141.45821678559 days |
+| 🎉 Christmas | 141.29154885854 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
+> [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
 >
-> 🔥 65 points
+> 🔥 112 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
