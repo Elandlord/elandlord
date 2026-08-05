@@ -1,6 +1,6 @@
-# Good evening! 🎸
+# Good night! 🌊
 
-🏠 **Done for the day** · Wednesday, August 5 · ⏰ 19:00 CET
+🏠 **Done for the day** · Wednesday, August 5 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 26°C, scattered clouds |
+| ☁️ Groningen | 22°C, broken clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 141.20822532873 days |
+| 🎉 Christmas | 141.0832238974 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Qwen 3.0 Image Pro](https://www.qwencloud.com/models/qwen-image-3.0-pro)
+> [Discovery Loop](https://www.discoveryloop.com/)
 >
-> 🔥 102 points
+> 🔥 372 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
