@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Wednesday, August 5 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, August 5 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 24°C, broken clouds |
+| ☁️ Groningen | 26°C, scattered clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 141.58322696047 days |
+| 🎉 Christmas | 141.45821678559 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Stateless MCP has recaptured my interest](https://simonwillison.net/2026/Jul/31/stateless-mcp/)
+> [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
 >
-> 🔥 140 points
+> 🔥 65 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
