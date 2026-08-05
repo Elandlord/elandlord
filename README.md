@@ -1,6 +1,6 @@
-# Good morning! 🏃
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Wednesday, August 5 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, August 5 · ⏰ 08:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 20°C, few clouds |
+| ☁️ Groningen | 21°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 141.74989592233 days |
+| 🎉 Christmas | 141.66656526771 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
+> [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
 >
-> 🔥 176 points
+> 🔥 158 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
