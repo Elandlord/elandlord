@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good night! 🌟
 
-🏠 **Done for the day** · Tuesday, August 4 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, August 5 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| 🌧️ Groningen | 24°C, light rain |
-| 📅 Weekend | 4 days until weekend |
-| 🎉 Christmas | 142.08322898843 days |
+| ☁️ Groningen | 22°C, broken clouds |
+| 📅 Weekend | 3 days until weekend |
+| 🎉 Christmas | 141.87489914715 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
+> [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
 >
-> 🔥 323 points
+> 🔥 88 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Any fool can write code that a computer can understand."
+> "Programs must be written for people to read."
 >
-> — *Martin Fowler*
+> — *Harold Abelson*
 
 ---
 
 ## Did You Know? 🤓
 
-Email is older than the World Wide Web.
+The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
