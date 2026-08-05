@@ -1,6 +1,6 @@
-# Good night! 🌟
+# Good morning! 🏃
 
-😴 **Still sleeping (or should be)** · Wednesday, August 5 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, August 5 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 22°C, broken clouds |
+| ☁️ Groningen | 20°C, few clouds |
 | 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 141.87489914715 days |
+| 🎉 Christmas | 141.74989592233 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
 >
-> 🔥 88 points
+> 🔥 176 points
 
 ---
 
@@ -63,4 +63,4 @@ The first domain ever registered was Symbolics.com in 1985.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
