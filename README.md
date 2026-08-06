@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Wednesday, August 5 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Thursday, August 6 · ⏰ 03:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 22°C, broken clouds |
-| 📅 Weekend | 3 days until weekend |
-| 🎉 Christmas | 141.0832238974 days |
+| ☀️ Groningen | 17°C, clear sky |
+| 📅 Weekend | 2 days until weekend |
+| 🎉 Christmas | 140.87489388642 days |
 
 ---
 
@@ -45,22 +45,22 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Discovery Loop](https://www.discoveryloop.com/)
 >
-> 🔥 372 points
+> 🔥 570 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "Programs must be written for people to read."
+> "It works on my machine."
 >
-> — *Harold Abelson*
+> — *Every Developer*
 
 ---
 
 ## Did You Know? 🤓
 
-The first domain ever registered was Symbolics.com in 1985.
+The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
