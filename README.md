@@ -1,6 +1,6 @@
-# Good evening! 🎮
+# Good night! 🚀
 
-🏠 **Done for the day** · Thursday, August 6 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, August 6 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 20°C, broken clouds |
+| ☁️ Groningen | 16°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 140.20822754214 days |
+| 🎉 Christmas | 140.08320511895 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+> [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index)
 >
-> 🔥 503 points
+> 🔥 155 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
