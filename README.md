@@ -1,6 +1,6 @@
-# Good morning! 🎯
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Thursday, August 6 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, August 6 · ⏰ 13:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 22°C, broken clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 140.58321659966 days |
+| 🎉 Christmas | 140.45822315319 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [Crime Pays but Botany Doesn&#039;t](https://www.crimepaysbutbotanydoesnt.com/reading-list)
 >
-> 🔥 112 points
+> 🔥 246 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
