@@ -1,6 +1,6 @@
-# Good night! 🎸
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Thursday, August 6 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Thursday, August 6 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☀️ Groningen | 17°C, clear sky |
+| ☁️ Groningen | 16°C, few clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 140.87489388642 days |
+| 🎉 Christmas | 140.74990003865 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Discovery Loop](https://www.discoveryloop.com/)
+> [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
 >
-> 🔥 570 points
+> 🔥 87 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
