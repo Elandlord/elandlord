@@ -1,6 +1,6 @@
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Thursday, August 6 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, August 6 · ⏰ 17:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 22°C, broken clouds |
+| ☁️ Groningen | 22°C, overcast clouds |
 | 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 140.45822315319 days |
+| 🎉 Christmas | 140.29154526546 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Crime Pays but Botany Doesn&#039;t](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+> [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 >
-> 🔥 246 points
+> 🔥 302 points
 
 ---
 
@@ -63,4 +63,4 @@ The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
