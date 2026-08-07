@@ -1,6 +1,6 @@
-# Good morning! ☕
+# Good morning! ⚡
 
-☕ **Getting ready for work** · Friday, August 7 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, August 7 · ⏰ 10:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 16°C, broken clouds |
+| ☁️ Groningen | 19°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 139.66654061361 days |
+| 🎉 Christmas | 139.58320506882 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
 >
-> 🔥 525 points
+> 🔥 614 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
