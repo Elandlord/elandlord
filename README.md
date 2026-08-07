@@ -1,6 +1,6 @@
-# Good night! 🚀
+# Good night! 🎮
 
-🏠 **Done for the day** · Thursday, August 6 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Friday, August 7 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 16°C, broken clouds |
-| 📅 Weekend | 2 days until weekend |
-| 🎉 Christmas | 140.08320511895 days |
+| ☁️ Groningen | 15°C, few clouds |
+| 📅 Weekend | 1 day until weekend |
+| 🎉 Christmas | 139.87487616042 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Qwen3.8 Max now ranked as the best overall model by agentic index](https://artificialanalysis.ai/?intelligence=agentic-index)
+> [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
 >
-> 🔥 155 points
+> 🔥 330 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "It works on my machine."
+> "Deleted code is debugged code."
 >
-> — *Every Developer*
+> — *Jeff Sickel*
 
 ---
 
 ## Did You Know? 🤓
 
-The first computer &quot;bug&quot; was an actual bug - a moth found in a Harvard Mark II computer in 1947.
+The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840s.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
