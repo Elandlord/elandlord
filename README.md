@@ -1,6 +1,6 @@
-# Good evening! 🏃
+# Good night! 💻
 
-🏠 **Done for the day** · Friday, August 7 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, August 7 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Last Quarter |
-| ☁️ Groningen | 20°C, overcast clouds |
+| ☁️ Groningen | 17°C, scattered clouds |
 | 📅 Weekend | 1 day until weekend |
-| 🎉 Christmas | 139.20821540863 days |
+| 🎉 Christmas | 139.0832309436 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
+> [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
 >
-> 🔥 29 points
+> 🔥 182 points
 
 ---
 
@@ -63,4 +63,4 @@ The first programmer was Ada Lovelace, who wrote the first algorithm in the 1840
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
