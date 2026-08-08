@@ -1,6 +1,6 @@
-# Good evening! 🌊
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Saturday, August 8 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 8 · ⏰ 22:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 24°C, few clouds |
+| ☁️ Groningen | 18°C, overcast clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 138.20822417354 days |
+| 🎉 Christmas | 138.08321021021 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
+> [Denmark Requires Oral Defenses for Students&#039; Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
 >
-> 🔥 155 points
+> 🔥 196 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
