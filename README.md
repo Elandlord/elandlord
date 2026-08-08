@@ -1,6 +1,6 @@
-# Good morning! 🔥
+# Good afternoon! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, August 8 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 8 · ⏰ 13:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 20°C, clear sky |
+| ☀️ Groningen | 25°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 138.58322431251 days |
+| 🎉 Christmas | 138.45819174851 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
+> [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
 >
-> 🔥 141 points
+> 🔥 118 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
