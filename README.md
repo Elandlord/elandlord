@@ -1,6 +1,6 @@
-# Good night! 🏃
+# Good morning! 💻
 
-🎉 **Enjoying the weekend** · Saturday, August 8 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, August 8 · ⏰ 06:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☀️ Groningen | 13°C, clear sky |
+| ☀️ Groningen | 11°C, clear sky |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 138.87488959454 days |
+| 🎉 Christmas | 138.74989640221 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+> [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
 >
-> 🔥 442 points
+> 🔥 163 points
 
 ---
 
@@ -63,4 +63,4 @@ The average coder drinks 3 cups of coffee per day.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
