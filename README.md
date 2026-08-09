@@ -1,6 +1,6 @@
-# Good morning! ⚡
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 10:00 CET
 
 ---
 
@@ -35,17 +35,17 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 15°C, overcast clouds |
+| ☁️ Groningen | 23°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 137.66656939344 days |
+| 🎉 Christmas | 137.58321069814 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [&quot;The original URL for this prediction will no longer be available in 11 years.&quot; (2011)](https://longbets.org/601/)
+> [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
 >
-> 🔥 52 points
+> 🔥 40 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
