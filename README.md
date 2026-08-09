@@ -1,6 +1,6 @@
-# Good night! 🌊
+# Good morning! ☕
 
-🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 06:00 CET
 
 ---
 
@@ -35,9 +35,9 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 14°C, few clouds |
+| ☁️ Groningen | 15°C, broken clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 137.87488185337 days |
+| 🎉 Christmas | 137.74990245565 days |
 
 ---
 
@@ -45,7 +45,7 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 > [My server is a phone now](https://seg6.space/posts/phone-server/)
 >
-> 🔥 64 points
+> 🔥 166 points
 
 ---
 
@@ -63,4 +63,4 @@ The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
