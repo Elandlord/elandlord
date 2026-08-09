@@ -1,6 +1,6 @@
-# Good night! ☕
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, August 8 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 03:00 CET
 
 ---
 
@@ -35,32 +35,32 @@ Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 | | |
 |--------|-------|
 | 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 18°C, overcast clouds |
+| ☁️ Groningen | 14°C, few clouds |
 | 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 138.08321021021 days |
+| 🎉 Christmas | 137.87488185337 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Denmark Requires Oral Defenses for Students&#039; Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+> [My server is a phone now](https://seg6.space/posts/phone-server/)
 >
-> 🔥 196 points
+> 🔥 64 points
 
 ---
 
 ## Daily Wisdom 💡
 
-> "The only way to go fast, is to go well."
+> "Talk is cheap. Show me the code."
 >
-> — *Robert C. Martin*
+> — *Linus Torvalds*
 
 ---
 
 ## Did You Know? 🤓
 
-The average coder drinks 3 cups of coffee per day.
+The first website ever created is still online at info.cern.ch.
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
