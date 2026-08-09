@@ -1,6 +1,32 @@
-# Good afternoon! 📚
+<!-- github-now:start -->
+# Good afternoon! 🎮
 
-🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 16:17 CEST
+
+![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
+
+---
+
+## Dig today's minesweeper 💣
+
+One 8×8 board a day, ten mines, one crowd. Click a square to dig it. The first dig is always
+safe, an empty square opens its neighbours, and a mine ends the day for everybody.
+
+<table cellpadding="0" cellspacing="0" border="0"><tr><td>
+<a href="https://wordle.ericlandheer.nl/mines/dig/0/0"><img src="https://wordle.ericlandheer.nl/badge/cell/0/0.svg" alt="row 0 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/0/1"><img src="https://wordle.ericlandheer.nl/badge/cell/0/1.svg" alt="row 0 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/0/2"><img src="https://wordle.ericlandheer.nl/badge/cell/0/2.svg" alt="row 0 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/0/3"><img src="https://wordle.ericlandheer.nl/badge/cell/0/3.svg" alt="row 0 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/0/4"><img src="https://wordle.ericlandheer.nl/badge/cell/0/4.svg" alt="row 0 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/0/5"><img src="https://wordle.ericlandheer.nl/badge/cell/0/5.svg" alt="row 0 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/0/6"><img src="https://wordle.ericlandheer.nl/badge/cell/0/6.svg" alt="row 0 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/0/7"><img src="https://wordle.ericlandheer.nl/badge/cell/0/7.svg" alt="row 0 column 7" width="44" height="44" align="top"></a><br>
+<a href="https://wordle.ericlandheer.nl/mines/dig/1/0"><img src="https://wordle.ericlandheer.nl/badge/cell/1/0.svg" alt="row 1 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/1/1"><img src="https://wordle.ericlandheer.nl/badge/cell/1/1.svg" alt="row 1 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/1/2"><img src="https://wordle.ericlandheer.nl/badge/cell/1/2.svg" alt="row 1 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/1/3"><img src="https://wordle.ericlandheer.nl/badge/cell/1/3.svg" alt="row 1 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/1/4"><img src="https://wordle.ericlandheer.nl/badge/cell/1/4.svg" alt="row 1 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/1/5"><img src="https://wordle.ericlandheer.nl/badge/cell/1/5.svg" alt="row 1 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/1/6"><img src="https://wordle.ericlandheer.nl/badge/cell/1/6.svg" alt="row 1 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/1/7"><img src="https://wordle.ericlandheer.nl/badge/cell/1/7.svg" alt="row 1 column 7" width="44" height="44" align="top"></a><br>
+<a href="https://wordle.ericlandheer.nl/mines/dig/2/0"><img src="https://wordle.ericlandheer.nl/badge/cell/2/0.svg" alt="row 2 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/2/1"><img src="https://wordle.ericlandheer.nl/badge/cell/2/1.svg" alt="row 2 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/2/2"><img src="https://wordle.ericlandheer.nl/badge/cell/2/2.svg" alt="row 2 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/2/3"><img src="https://wordle.ericlandheer.nl/badge/cell/2/3.svg" alt="row 2 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/2/4"><img src="https://wordle.ericlandheer.nl/badge/cell/2/4.svg" alt="row 2 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/2/5"><img src="https://wordle.ericlandheer.nl/badge/cell/2/5.svg" alt="row 2 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/2/6"><img src="https://wordle.ericlandheer.nl/badge/cell/2/6.svg" alt="row 2 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/2/7"><img src="https://wordle.ericlandheer.nl/badge/cell/2/7.svg" alt="row 2 column 7" width="44" height="44" align="top"></a><br>
+<a href="https://wordle.ericlandheer.nl/mines/dig/3/0"><img src="https://wordle.ericlandheer.nl/badge/cell/3/0.svg" alt="row 3 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/3/1"><img src="https://wordle.ericlandheer.nl/badge/cell/3/1.svg" alt="row 3 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/3/2"><img src="https://wordle.ericlandheer.nl/badge/cell/3/2.svg" alt="row 3 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/3/3"><img src="https://wordle.ericlandheer.nl/badge/cell/3/3.svg" alt="row 3 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/3/4"><img src="https://wordle.ericlandheer.nl/badge/cell/3/4.svg" alt="row 3 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/3/5"><img src="https://wordle.ericlandheer.nl/badge/cell/3/5.svg" alt="row 3 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/3/6"><img src="https://wordle.ericlandheer.nl/badge/cell/3/6.svg" alt="row 3 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/3/7"><img src="https://wordle.ericlandheer.nl/badge/cell/3/7.svg" alt="row 3 column 7" width="44" height="44" align="top"></a><br>
+<a href="https://wordle.ericlandheer.nl/mines/dig/4/0"><img src="https://wordle.ericlandheer.nl/badge/cell/4/0.svg" alt="row 4 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/4/1"><img src="https://wordle.ericlandheer.nl/badge/cell/4/1.svg" alt="row 4 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/4/2"><img src="https://wordle.ericlandheer.nl/badge/cell/4/2.svg" alt="row 4 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/4/3"><img src="https://wordle.ericlandheer.nl/badge/cell/4/3.svg" alt="row 4 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/4/4"><img src="https://wordle.ericlandheer.nl/badge/cell/4/4.svg" alt="row 4 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/4/5"><img src="https://wordle.ericlandheer.nl/badge/cell/4/5.svg" alt="row 4 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/4/6"><img src="https://wordle.ericlandheer.nl/badge/cell/4/6.svg" alt="row 4 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/4/7"><img src="https://wordle.ericlandheer.nl/badge/cell/4/7.svg" alt="row 4 column 7" width="44" height="44" align="top"></a><br>
+<a href="https://wordle.ericlandheer.nl/mines/dig/5/0"><img src="https://wordle.ericlandheer.nl/badge/cell/5/0.svg" alt="row 5 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/5/1"><img src="https://wordle.ericlandheer.nl/badge/cell/5/1.svg" alt="row 5 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/5/2"><img src="https://wordle.ericlandheer.nl/badge/cell/5/2.svg" alt="row 5 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/5/3"><img src="https://wordle.ericlandheer.nl/badge/cell/5/3.svg" alt="row 5 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/5/4"><img src="https://wordle.ericlandheer.nl/badge/cell/5/4.svg" alt="row 5 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/5/5"><img src="https://wordle.ericlandheer.nl/badge/cell/5/5.svg" alt="row 5 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/5/6"><img src="https://wordle.ericlandheer.nl/badge/cell/5/6.svg" alt="row 5 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/5/7"><img src="https://wordle.ericlandheer.nl/badge/cell/5/7.svg" alt="row 5 column 7" width="44" height="44" align="top"></a><br>
+<a href="https://wordle.ericlandheer.nl/mines/dig/6/0"><img src="https://wordle.ericlandheer.nl/badge/cell/6/0.svg" alt="row 6 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/6/1"><img src="https://wordle.ericlandheer.nl/badge/cell/6/1.svg" alt="row 6 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/6/2"><img src="https://wordle.ericlandheer.nl/badge/cell/6/2.svg" alt="row 6 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/6/3"><img src="https://wordle.ericlandheer.nl/badge/cell/6/3.svg" alt="row 6 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/6/4"><img src="https://wordle.ericlandheer.nl/badge/cell/6/4.svg" alt="row 6 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/6/5"><img src="https://wordle.ericlandheer.nl/badge/cell/6/5.svg" alt="row 6 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/6/6"><img src="https://wordle.ericlandheer.nl/badge/cell/6/6.svg" alt="row 6 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/6/7"><img src="https://wordle.ericlandheer.nl/badge/cell/6/7.svg" alt="row 6 column 7" width="44" height="44" align="top"></a><br>
+<a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
+</td></tr></table>
+
+**Digging · 0 digs · 10 mines · streak 0 days**
+
+<sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
+
 
 ---
 
@@ -8,59 +34,35 @@
 
 Software engineer with **15 years** of experience, based in **Groningen, Netherlands** 🇳🇱
 
-Currently building cool stuff at [PeterPrint](https://www.peterprint.nl/) as a Full-stack Developer.
+Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a Senior Engineer.
 
-Former co-owner of [MEN Technology & Media](https://mentechmedia.nl/).
 
 ---
 
 ## Languages I Work With 💻
 
-🐘 PHP · 🟨 JavaScript · 💚 Vue · 💜 C# · 🌐 HTML · 🎨 CSS
+🐘 PHP · 🟨 JavaScript · 💚 Vue · 💜 C# · 🌐 HTML · 🐹 Go
 ---
 
 ## GitHub 📊
 
 | | |
 |--------|-------|
-| 📁 Public repos | 48 |
-| ⭐ Total stars | 8 |
-| 👥 Followers | 7 |
+| 📁 Public repos | 48 (+0 this week) |
+| ⭐ Total stars | 8 (+0 this week) |
+| 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-
----
-
-## Quick Stats 🌘
-
-| | |
-|--------|-------|
-| 🌙 Moon phase | Waning Crescent |
-| ☁️ Groningen | 26°C, scattered clouds |
-| 🎉 Weekend | It&#039;s the weekend! |
-| 🎉 Christmas | 137.4582198012 days |
+| 🎉 Christmas | in 137.32149802545 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
+> [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
 >
-> 🔥 41 points
+> 🔥 70 points
 
 ---
 
-## Daily Wisdom 💡
-
-> "Talk is cheap. Show me the code."
->
-> — *Linus Torvalds*
-
----
-
-## Did You Know? 🤓
-
-The first website ever created is still online at info.cern.ch.
-
----
-
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 16:17 CEST · Built with Laravel</sub>
+<!-- github-now:end -->
