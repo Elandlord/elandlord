@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎮
+# Good afternoon! 🏃
 
-🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 16:52 CEST
+🎉 **Enjoying the weekend** · Sunday, August 9 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -52,7 +52,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 137.29653345763 days |
+| 🎉 Christmas | in 137.29161872346 days |
 
 ---
 
@@ -64,6 +64,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 16:52 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
