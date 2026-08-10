@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Monday, August 10 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Monday, August 10 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -69,20 +69,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 136.74993248244 days |
+| 🎉 Christmas | in 136.6665818831 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+> [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
 >
-> 🔥 75 points
+> 🔥 101 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
