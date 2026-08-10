@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Monday, August 10 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Monday, August 10 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,27 +23,10 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Digging · 1 dig · 10 mines · streak 0 days**
+**Digging · 0 digs · 10 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
-<details>
-<summary>Earlier days</summary>
-
-**2026-08-09** · unfinished · 2 digs
-
-```
-💣⬜⬜💥1️⃣⬛1️⃣⬜
-⬜💣⬜⬜2️⃣⬛2️⃣💣
-⬜⬜⬜💣1️⃣⬛3️⃣💣
-⬜⬜⬜⬜2️⃣1️⃣3️⃣💣
-⬜💣💣⬜⬜💣⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-```
-
-</details>
 
 ---
 
@@ -69,20 +52,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 136.58325828632 days |
+| 🎉 Christmas | in 136.45826987148 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+> [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 >
-> 🔥 110 points
+> 🔥 53 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
