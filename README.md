@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ✨
+# Good morning! 🛠️
 
-☕ **Getting ready for work** · Tuesday, August 11 · ⏰ 08:00 CEST
+🟢 **Working from Groningen** · Tuesday, August 11 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -69,7 +69,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 135.66659585354 days |
+| 🎉 Christmas | in 135.58322892081 days |
 
 ---
 
@@ -77,12 +77,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
 >
-> 🔥 172 points
+> 🔥 218 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
