@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Tuesday, August 11 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Tuesday, August 11 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -52,20 +52,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 135.20825237704 days |
+| 🎉 Christmas | in 135.08326432157 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [England set to be one of the first countries to eliminate hepatitis C](https://www.bbc.com/news/articles/c75gk620r22o)
+> [Nvidia Nemotron 3.5 lightning and Nemo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
 >
-> 🔥 304 points
+> 🔥 22 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
