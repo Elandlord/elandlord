@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🔥
+# Good morning! 🎨
 
-😴 **Still sleeping (or should be)** · Wednesday, August 12 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Wednesday, August 12 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -69,20 +69,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 134.74994577858 days |
+| 🎉 Christmas | in 134.6665918105 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+> [llama.cpp](https://llama.app)
 >
-> 🔥 315 points
+> 🔥 21 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
