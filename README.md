@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🛠️
+# Good morning! 🌟
 
-☕ **Getting ready for work** · Thursday, August 13 · ⏰ 08:00 CEST
+🟢 **Working from Groningen** · Thursday, August 13 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -82,7 +82,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 133.6665899287 days |
+| 🎉 Christmas | in 133.58326133584 days |
 
 ---
 
@@ -90,12 +90,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
 >
-> 🔥 848 points
+> 🔥 892 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
