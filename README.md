@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🛠️
+# Good night! 🔥
 
-🏠 **Done for the day** · Friday, August 14 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 15 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-08-14** · unfinished · 5 digs
+
+```
+💣⬜💣1️⃣⬛⬛1️⃣1️⃣
+1️⃣2️⃣1️⃣1️⃣⬛⬛1️⃣💣
+⬛⬛⬛⬛⬛⬛2️⃣⬜
+1️⃣1️⃣1️⃣⬛⬛⬛1️⃣💥
+⬜💣1️⃣⬛⬛⬛2️⃣2️⃣
+⬜1️⃣1️⃣⬛1️⃣2️⃣4️⃣💣
+⬜⬜1️⃣⬛1️⃣💣💣💣
+⬜💣1️⃣⬛1️⃣⬜⬜⬜
+```
 
 **2026-08-13** · unfinished · 6 digs
 
@@ -95,7 +108,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 132.08327641038 days |
+| 🎉 Christmas | in 131.87493818244 days |
 
 ---
 
@@ -103,12 +116,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 >
-> 🔥 577 points
+> 🔥 872 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
