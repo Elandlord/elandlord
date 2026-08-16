@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🎉 **Enjoying the weekend** · Sunday, August 16 · ⏰ 13:00 CEST
+🎉 **Enjoying the weekend** · Sunday, August 16 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -121,20 +121,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 130.45826371487 days |
+| 🎉 Christmas | in 130.29159726743 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
+> [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 >
-> 🔥 421 points
+> 🔥 144 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
