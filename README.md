@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🎨
+# Good night! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, August 16 · ⏰ 19:00 CEST
+🎉 **Enjoying the weekend** · Sunday, August 16 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -121,20 +121,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 130.20826103381 days |
+| 🎉 Christmas | in 130.08327204836 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+> [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose)
 >
-> 🔥 272 points
+> 🔥 46 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
