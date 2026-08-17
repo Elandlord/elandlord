@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Monday, August 17 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Monday, August 17 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -123,7 +123,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 ## Languages I Work With 💻
 
-🐘 PHP · 🟨 JavaScript · 💚 Vue · 💜 C# · 🌐 HTML · 🐹 Go
+
 ---
 
 ## GitHub 📊
@@ -131,23 +131,23 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | | |
 |--------|-------|
 | 📁 Public repos | 48 (+0 this week) |
-| ⭐ Total stars | 8 (+0 this week) |
+| ⭐ Total stars | 0 (-8 this week) |
 | 👥 Followers | 7 (+0 this week) |
-| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 129.45826423801 days |
+| 🎉 Christmas | in 129.29147302216 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+> [Apple&#039;s App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
 >
-> 🔥 520 points
+> 🔥 59 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
