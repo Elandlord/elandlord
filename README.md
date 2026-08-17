@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🏠 **Done for the day** · Monday, August 17 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Monday, August 17 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,7 +23,7 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Digging · 0 digs · 10 mines · streak 0 days**
+**Boom · 5 digs · 9 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
@@ -123,7 +123,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 ## Languages I Work With 💻
 
-
+🐘 PHP · 🟨 JavaScript · 💚 Vue · 💜 C# · 🌐 HTML · 🐹 Go
 ---
 
 ## GitHub 📊
@@ -131,22 +131,24 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | | |
 |--------|-------|
 | 📁 Public repos | 48 (+0 this week) |
-| ⭐ Total stars | 0 (-8 this week) |
+| ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
-| 🎉 Christmas | in 129.29147302216 days |
+| 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
+| 🎉 Christmas | in 129.20826413218 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple&#039;s App Tracking Transparency treated its own apps better than rivals](https://www.bundeskartellamt.de/SharedDocs/Meldung/EN/Pressemitteilungen/2026/08_17_2026_Apple_ATTF.html)
+> [GitHub Has an Availability Problem. Is It Time to Look Elsewhere?](https://dhruv2038.bearblog.dev/github-has-an-availability-problem-is-it-time-to-look-elsewhere/)
 >
-> 🔥 59 points
+> 🔥 33 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
