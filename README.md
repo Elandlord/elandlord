@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌟
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Monday, August 17 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Monday, August 17 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -134,7 +134,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 129.74992729554 days |
+| 🎉 Christmas | in 129.66660527257 days |
 
 ---
 
@@ -142,12 +142,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 >
-> 🔥 149 points
+> 🔥 259 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
