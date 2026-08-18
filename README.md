@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎨
+# Good evening! 📚
 
-🏠 **Done for the day** · Tuesday, August 18 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Tuesday, August 18 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 128.29158885433 days |
+| 🎉 Christmas | in 128.20826748216 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Amazon Tax](https://seths.blog/2026/08/the-amazon-tax/)
+> [Claude: Degraded Performance for Multiple Models](https://status.claude.com/incidents/q7txxvbsftgq)
 >
-> 🔥 178 points
+> 🔥 67 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
