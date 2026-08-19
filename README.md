@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🌟
+# Good night! 🏃
 
-🏠 **Done for the day** · Wednesday, August 19 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Wednesday, August 19 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 127.20827025192 days |
+| 🎉 Christmas | in 127.0832639715 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Civic Hygiene – avoid building technologies that could be used by a police state (2013)](https://shkspr.mobi/blog/2013/11/civic-hygiene/)
+> [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
 >
-> 🔥 160 points
+> 🔥 283 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
