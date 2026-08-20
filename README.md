@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🏃
+# Good night! 🌟
 
-🏠 **Done for the day** · Wednesday, August 19 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Thursday, August 20 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-08-19** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-08-18** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜💣2️⃣⬛1️⃣⬜
 ```
 
-**2026-08-12** · unfinished · 3 digs
-
-```
-⬜⬜⬜⬜⬜⬜⬜💣
-💣⬜⬜⬜⬜⬜⬜⬜
-⬜2️⃣⬜💣⬜⬜⬜⬜
-⬜⬜💣2️⃣1️⃣1️⃣💣⬜
-⬜⬜⬜2️⃣⬛1️⃣⬜⬜
-⬜⬜💣1️⃣1️⃣2️⃣⬜⬜
-⬜💣⬜⬜⬜💥💣⬜
-💣⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 127.0832639715 days |
+| 🎉 Christmas | in 126.87492643123 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+> [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724)
 >
-> 🔥 283 points
+> 🔥 74 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
