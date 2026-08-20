@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🚀
+# Good morning! ☕
 
-☕ **Getting ready for work** · Thursday, August 20 · ⏰ 08:00 CEST
+🟢 **Working from Groningen** · Thursday, August 20 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 126.66657473586 days |
+| 🎉 Christmas | in 126.58326359878 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+> [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 >
-> 🔥 770 points
+> 🔥 83 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
