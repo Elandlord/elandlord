@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🎸
+# Good night! 🌊
 
-🏠 **Done for the day** · Thursday, August 20 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Thursday, August 20 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 126.2082639272 days |
+| 🎉 Christmas | in 126.08327000065 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I like &#039;em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+> [Scientific study reveals TikTok videos deactivate key cognitive brain regions](https://www.rathbiotaclan.com/tiktok-videos-deactivate-key-cognitive-brain-regions/)
 >
-> 🔥 162 points
+> 🔥 134 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
