@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎸
+# Good morning! 🌊
 
-😴 **Still sleeping (or should be)** · Friday, August 21 · ⏰ 03:00 CEST
+😴 **Still sleeping (or should be)** · Friday, August 21 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 125.87485384228 days |
+| 🎉 Christmas | in 125.74993881711 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+> [AI companies destroy physical books – let&#039;s scan rare books before it&#039;s too late](https://annas-archive.gl/blog/physical-destruction.html)
 >
-> 🔥 33 points
+> 🔥 104 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
