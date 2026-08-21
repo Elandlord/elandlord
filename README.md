@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 💻
+# Good morning! 🎯
 
-☕ **Getting ready for work** · Friday, August 21 · ⏰ 08:00 CEST
+🟢 **Working from Groningen** · Friday, August 21 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 125.66660611122 days |
+| 🎉 Christmas | in 125.5832703881 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
+> [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
 >
-> 🔥 72 points
+> 🔥 20 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
