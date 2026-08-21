@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Friday, August 21 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Friday, August 21 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 125.45827130641 days |
+| 🎉 Christmas | in 125.29159173646 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+> [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 >
-> 🔥 24 points
+> 🔥 204 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
