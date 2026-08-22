@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎮
+# Good morning! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, August 22 · ⏰ 03:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 22 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 124.87494046579 days |
+| 🎉 Christmas | in 124.749935155 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+> [There&#039;s no reason for software to be slow anymore](https://danluu.com/perf-opt/)
 >
-> 🔥 414 points
+> 🔥 141 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
