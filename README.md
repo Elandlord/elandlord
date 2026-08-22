@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🚀
+# Good night! 🎮
 
-🏠 **Done for the day** · Friday, August 21 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 22 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,12 +23,25 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Boom · 7 digs · 9 mines · streak 0 days**
+**Digging · 0 digs · 10 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-08-21** · unfinished · 7 digs
+
+```
+⬜💣⬜⬜1️⃣💣⬜💥
+⬜💣2️⃣1️⃣⬜⬜3️⃣1️⃣
+⬜⬜⬜⬜💣💣1️⃣⬛
+⬜⬜⬜⬜2️⃣2️⃣1️⃣⬛
+💣⬜⬜⬜1️⃣⬛⬛⬛
+⬜⬜2️⃣💣1️⃣⬛⬛⬛
+⬜1️⃣💣⬜2️⃣⬛⬛⬛
+⬜⬜⬜💣1️⃣⬛⬛⬛
+```
 
 **2026-08-20** · unfinished · 2 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛⬛⬛⬛⬛⬛1️⃣💣
 ```
 
-**2026-08-14** · unfinished · 5 digs
-
-```
-💣⬜💣1️⃣⬛⬛1️⃣1️⃣
-1️⃣2️⃣1️⃣1️⃣⬛⬛1️⃣💣
-⬛⬛⬛⬛⬛⬛2️⃣⬜
-1️⃣1️⃣1️⃣⬛⬛⬛1️⃣💥
-⬜💣1️⃣⬛⬛⬛2️⃣2️⃣
-⬜1️⃣1️⃣⬛1️⃣2️⃣4️⃣💣
-⬜⬜1️⃣⬛1️⃣💣💣💣
-⬜💣1️⃣⬛1️⃣⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 125.08327065564 days |
+| 🎉 Christmas | in 124.87494046579 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
 >
-> 🔥 220 points
+> 🔥 414 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
