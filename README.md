@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🏃
+# Good night! 💻
 
-🎉 **Enjoying the weekend** · Saturday, August 22 · ⏰ 19:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 22 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 124.2082322641 days |
+| 🎉 Christmas | in 124.08326625428 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+> [hdiutil is deprecated in macOS 27 Golden Gate](https://lapcatsoftware.com/articles/2026/8/7.html)
 >
-> 🔥 79 points
+> 🔥 55 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
