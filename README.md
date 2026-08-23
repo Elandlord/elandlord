@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🌊
+# Good night! ☕
 
-🎉 **Enjoying the weekend** · Sunday, August 23 · ⏰ 19:00 CEST
+🎉 **Enjoying the weekend** · Sunday, August 23 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 123.20828597567 days |
+| 🎉 Christmas | in 123.08324961139 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Malware infects Android-based automotive head unit firmware](https://securelist.com/android-head-unit-malware/121106/)
+> [A website for debloated open source alternatives](https://debloat.dev/)
 >
-> 🔥 142 points
+> 🔥 116 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
