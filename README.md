@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🏃
+# Good morning! 💻
 
-🎉 **Enjoying the weekend** · Sunday, August 23 · ⏰ 03:00 CEST
+🎉 **Enjoying the weekend** · Sunday, August 23 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 123.87492961605 days |
+| 🎉 Christmas | in 123.74994110992 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+> [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
 >
-> 🔥 39 points
+> 🔥 336 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
