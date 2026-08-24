@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🏠 **Done for the day** · Monday, August 24 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Monday, August 24 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+1 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 122.2916030488 days |
+| 🎉 Christmas | in 122.20829445964 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
+> [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
 >
-> 🔥 373 points
+> 🔥 233 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
