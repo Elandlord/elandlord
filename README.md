@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ☕
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Sunday, August 23 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Monday, August 24 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-08-23** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-08-22** · unfinished · 3 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛⬛1️⃣⬜⬜⬜💣⬜
 ```
 
-**2026-08-16** · unfinished · 4 digs
-
-```
-💣⬜1️⃣⬛1️⃣💣2️⃣1️⃣
-⬜💥1️⃣⬛1️⃣1️⃣3️⃣💣
-💣⬜1️⃣⬛⬛⬛2️⃣💣
-⬜⬜1️⃣1️⃣1️⃣⬛1️⃣1️⃣
-⬜⬜⬜💣1️⃣⬛⬛⬛
-⬜⬜⬜⬜1️⃣⬛⬛⬛
-⬜💣⬜⬜1️⃣2️⃣2️⃣1️⃣
-⬜⬜⬜⬜⬜💣💣⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 8 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 123.08324961139 days |
+| 🎉 Christmas | in 122.87492422558 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A website for debloated open source alternatives](https://debloat.dev/)
+> [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
 >
-> 🔥 116 points
+> 🔥 204 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
