@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Tuesday, August 25 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Tuesday, August 25 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+1 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 121.58325613001 days |
+| 🎉 Christmas | in 121.45826314558 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+> [Why some US restaurants are banning tips](https://www.bbc.com/news/articles/c4g36yze692o)
 >
-> 🔥 417 points
+> 🔥 84 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
