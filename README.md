@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🌊
+# Good evening! 💻
 
-🏠 **Done for the day** · Tuesday, August 25 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Tuesday, August 25 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -143,24 +143,25 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 | | |
 |--------|-------|
-| 📁 Public repos | 49 (+1 this week) |
+| 📁 Public repos | 49 (+0 this week) |
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 121.29159239251 days |
+| 🎉 Christmas | in 121.20825674498 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple Introduces New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+> [Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
 >
-> 🔥 291 points
+> 🔥 525 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
