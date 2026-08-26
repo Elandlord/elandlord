@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🛠️
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Wednesday, August 26 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Wednesday, August 26 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 120.58327664701 days |
+| 🎉 Christmas | in 120.45824927613 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+> [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
 >
-> 🔥 1105 points
+> 🔥 50 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
