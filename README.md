@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🎯
+# Good night! ✨
 
-🏠 **Done for the day** · Thursday, August 27 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Thursday, August 27 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 119.20826479772 days |
+| 🎉 Christmas | in 119.0832668233 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [507 Mechanical Movements](https://507movements.com/)
+> [Saving 100 terabytes of memory by optimizing 1.1.1.1&#039;s DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
 >
-> 🔥 218 points
+> 🔥 232 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
