@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Friday, August 28 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Friday, August 28 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 118.20824358841 days |
+| 🎉 Christmas | in 118.08326390334 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Get your Windows license refund](https://en.refund4freedom.org/)
+> [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
 >
-> 🔥 317 points
+> 🔥 319 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
