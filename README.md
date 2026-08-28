@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌟
+# Good afternoon! 🏃
 
-🟢 **Working from Groningen** · Friday, August 28 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Friday, August 28 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 118.58326020289 days |
+| 🎉 Christmas | in 118.45824463573 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Stripe said to abandon $50B pursuit of PayPal](https://www.bloomberg.com/news/articles/2026-08-28/advent-stripe-consortium-is-said-to-drop-pursuit-of-paypal)
+> [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
 >
-> 🔥 125 points
+> 🔥 62 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
