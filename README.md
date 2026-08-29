@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ⚡
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 03:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 117.87492862803 days |
+| 🎉 Christmas | in 117.74995269847 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
+> [Boot a Virtual iPhone via Apple&#039;s Virtualization.framework](https://github.com/Lakr233/vphone-cli)
 >
-> 🔥 34 points
+> 🔥 140 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
