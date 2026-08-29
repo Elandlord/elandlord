@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 📚
+# Good morning! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 08:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 117.666598413 days |
+| 🎉 Christmas | in 117.58322291853 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Boot a Virtual iPhone via Apple&#039;s Virtualization.framework](https://github.com/Lakr233/vphone-cli)
+> [Samsung&#039;s Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
 >
-> 🔥 202 points
+> 🔥 30 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
