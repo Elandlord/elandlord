@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎨
+# Good night! ⚡
 
-🏠 **Done for the day** · Friday, August 28 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-08-28** · unfinished · 5 digs
+
+```
+⬜💣⬜⬜⬜⬜💣💣
+⬜⬜3️⃣💣3️⃣💣3️⃣2️⃣
+💥⬜⬜💣3️⃣1️⃣1️⃣⬛
+💣2️⃣1️⃣1️⃣1️⃣⬛⬛⬛
+⬜1️⃣⬛⬛⬛⬛⬛⬛
+⬜1️⃣1️⃣1️⃣⬛⬛⬛⬛
+⬜⬜💣1️⃣⬛⬛⬛⬛
+1️⃣💣⬜1️⃣⬛⬛⬛⬛
+```
 
 **2026-08-27** · unfinished · 1 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛⬛⬛1️⃣⬜1️⃣⬛⬛
 ```
 
-**2026-08-21** · unfinished · 7 digs
-
-```
-⬜💣⬜⬜1️⃣💣⬜💥
-⬜💣2️⃣1️⃣⬜⬜3️⃣1️⃣
-⬜⬜⬜⬜💣💣1️⃣⬛
-⬜⬜⬜⬜2️⃣2️⃣1️⃣⬛
-💣⬜⬜⬜1️⃣⬛⬛⬛
-⬜⬜2️⃣💣1️⃣⬛⬛⬛
-⬜1️⃣💣⬜2️⃣⬛⬛⬛
-⬜⬜⬜💣1️⃣⬛⬛⬛
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 118.08326390334 days |
+| 🎉 Christmas | in 117.87492862803 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+> [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/)
 >
-> 🔥 319 points
+> 🔥 34 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
