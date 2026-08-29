@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 13:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 117.45827208197 days |
+| 🎉 Christmas | in 117.29159709839 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Samsung&#039;s Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+> [Debian votes to allow &quot;responsible use of generative AI&quot;](https://lwn.net/Articles/1091231/)
 >
-> 🔥 108 points
+> 🔥 91 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
