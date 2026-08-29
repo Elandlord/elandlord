@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🔥
+# Good night! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 19:00 CEST
+🎉 **Enjoying the weekend** · Saturday, August 29 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 117.20827271278 days |
+| 🎉 Christmas | in 117.08326649036 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Debian votes to allow &quot;responsible use of generative AI&quot;](https://lwn.net/Articles/1091231/)
+> [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
 >
-> 🔥 310 points
+> 🔥 208 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
