@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ⚡
+# Good evening! ✨
 
-🎉 **Enjoying the weekend** · Sunday, August 30 · ⏰ 17:00 CEST
+🎉 **Enjoying the weekend** · Sunday, August 30 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 116.29158867498 days |
+| 🎉 Christmas | in 116.20826475603 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+> [Omarchy: Any User Process Can Escalate to Root](https://0xcc.io/posts/omarchy-root-creds/)
 >
-> 🔥 45 points
+> 🔥 80 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
