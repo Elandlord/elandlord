@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🔥
+# Good morning! 🛠️
 
-🎉 **Enjoying the weekend** · Sunday, August 30 · ⏰ 03:00 CEST
+🎉 **Enjoying the weekend** · Sunday, August 30 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 116.87493695419 days |
+| 🎉 Christmas | in 116.74992766906 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+> [Bug Blindness](https://danluu.com/bug-blind/)
 >
-> 🔥 176 points
+> 🔥 111 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
