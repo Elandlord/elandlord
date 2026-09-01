@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Tuesday, September 1 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Tuesday, September 1 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 114.58324711793 days |
+| 🎉 Christmas | in 114.45825069648 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GPU World](https://www.gpuworld.org/)
+> [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
 >
-> 🔥 156 points
+> 🔥 84 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
