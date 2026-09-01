@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌟
+# Good morning! 🎮
 
-😴 **Still sleeping (or should be)** · Tuesday, September 1 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Tuesday, September 1 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 114.74993284926 days |
+| 🎉 Christmas | in 114.66659785178 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [2004 RuneScape fit a multiplayer RPG into 56k dial-up](https://jkm.dev/posts/how-2004-runescape-fit-a-multiplayer-rpg-into-56k-dialup/)
+> [GPU World](https://www.gpuworld.org/)
 >
-> 🔥 54 points
+> 🔥 55 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
