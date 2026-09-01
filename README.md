@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🌟
+# Good night! 🎨
 
-🏠 **Done for the day** · Monday, August 31 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Tuesday, September 1 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-08-31** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-08-30** · unfinished · 3 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-08-24** · unfinished · 2 digs
-
-```
-⬜⬜⬜⬜⬜⬜1️⃣⬛
-⬜⬜2️⃣1️⃣2️⃣⬜1️⃣⬛
-⬜⬜1️⃣⬛1️⃣1️⃣1️⃣⬛
-⬜⬜2️⃣⬛⬛⬛⬛⬛
-⬜⬜2️⃣1️⃣1️⃣⬛⬛⬛
-⬜⬜⬜⬜1️⃣⬛⬛⬛
-⬜⬜⬜⬜1️⃣1️⃣1️⃣1️⃣
-1️⃣⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 115.08326197259 days |
+| 🎉 Christmas | in 114.87493115687 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+> [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
 >
-> 🔥 210 points
+> 🔥 440 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
