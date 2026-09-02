@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎯
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Wednesday, September 2 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Wednesday, September 2 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 113.45824957579 days |
+| 🎉 Christmas | in 113.29158844275 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
+> [A Note from LWN](https://lwn.net/Articles/1090585/)
 >
-> 🔥 84 points
+> 🔥 297 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
