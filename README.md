@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 💻
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Thursday, September 3 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Thursday, September 3 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 112.58324927947 days |
+| 🎉 Christmas | in 112.4582536324 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+> [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
 >
-> 🔥 540 points
+> 🔥 187 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
