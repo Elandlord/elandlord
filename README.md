@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎮
+# Good night! 📚
 
-🏠 **Done for the day** · Wednesday, September 2 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Thursday, September 3 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-02** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-01** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜1️⃣⬛
 ```
 
-**2026-08-26** · unfinished · 5 digs
-
-```
-⬜⬜⬜💣⬜💣1️⃣⬛
-⬜💣⬜💣⬜2️⃣1️⃣⬛
-💣⬜2️⃣⬜💣1️⃣⬛⬛
-⬜⬜⬜⬜⬜1️⃣⬛⬛
-⬜⬜💥⬜⬜1️⃣1️⃣⬛
-⬜⬜⬜1️⃣⬜💣1️⃣⬛
-⬜💣⬜⬜⬜2️⃣2️⃣1️⃣
-⬜⬜⬜⬜⬜⬜💣⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 113.08325681771 days |
+| 🎉 Christmas | in 112.87492369912 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+> [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 >
-> 🔥 627 points
+> 🔥 371 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
