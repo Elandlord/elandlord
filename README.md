@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🎉 **Enjoying the weekend** · Saturday, September 5 · ⏰ 13:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 5 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 110.45827596017 days |
+| 🎉 Christmas | in 110.29158803306 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+> [The &quot;$60 Gaming PC&quot; – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
 >
-> 🔥 127 points
+> 🔥 57 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
