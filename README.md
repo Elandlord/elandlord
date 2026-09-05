@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎯
+# Good afternoon! ✨
 
-🎉 **Enjoying the weekend** · Saturday, September 5 · ⏰ 10:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 5 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 110.58325922059 days |
+| 🎉 Christmas | in 110.45827596017 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+> [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 >
-> 🔥 457 points
+> 🔥 127 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
