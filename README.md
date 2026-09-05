@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🌊
+# Good night! 🎸
 
-🏠 **Done for the day** · Friday, September 4 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 5 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-04** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-03** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜💣1️⃣⬛⬛⬛⬛⬛
 ```
 
-**2026-08-28** · unfinished · 5 digs
-
-```
-⬜💣⬜⬜⬜⬜💣💣
-⬜⬜3️⃣💣3️⃣💣3️⃣2️⃣
-💥⬜⬜💣3️⃣1️⃣1️⃣⬛
-💣2️⃣1️⃣1️⃣1️⃣⬛⬛⬛
-⬜1️⃣⬛⬛⬛⬛⬛⬛
-⬜1️⃣1️⃣1️⃣⬛⬛⬛⬛
-⬜⬜💣1️⃣⬛⬛⬛⬛
-1️⃣💣⬜1️⃣⬛⬛⬛⬛
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 111.08326266152 days |
+| 🎉 Christmas | in 110.87492537914 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Formalizing Fermat&#039;s Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+> [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 >
-> 🔥 164 points
+> 🔥 189 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
