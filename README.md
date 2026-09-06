@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🚀
+# Good night! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, September 5 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 6 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-05** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-04** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛1️⃣2️⃣💣⬜⬜⬜⬜
 ```
 
-**2026-08-29** · unfinished · 5 digs
-
-```
-⬜⬜💣💥1️⃣⬛1️⃣⬜
-⬜⬜⬜⬜2️⃣⬛2️⃣💣
-💣⬜⬜💣3️⃣1️⃣3️⃣💣
-1️⃣1️⃣2️⃣💣3️⃣💣⬜⬜
-⬛⬛1️⃣1️⃣2️⃣1️⃣2️⃣⬜
-⬛⬛⬛⬛⬛⬛1️⃣💣
-1️⃣1️⃣1️⃣⬛⬛⬛1️⃣1️⃣
-⬜💣1️⃣⬛⬛⬛⬛⬛
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 110.08325472269 days |
+| 🎉 Christmas | in 109.87492023395 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
+> [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
 >
-> 🔥 146 points
+> 🔥 48 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
