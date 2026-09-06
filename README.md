@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ⚡
+# Good afternoon! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, September 6 · ⏰ 10:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 6 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 109.58326198194 days |
+| 🎉 Christmas | in 109.45826690058 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Site Is Closed on Sundays](https://v7.robweychert.com/)
+> [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
 >
-> 🔥 51 points
+> 🔥 200 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
