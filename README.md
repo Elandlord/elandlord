@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 💻
+# Good night! 🏃
 
-🎉 **Enjoying the weekend** · Sunday, September 6 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Monday, September 7 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-06** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-05** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-08-30** · unfinished · 3 digs
-
-```
-💣1️⃣⬛⬛1️⃣💥💣⬜
-1️⃣1️⃣⬛⬛1️⃣2️⃣3️⃣💣
-⬛⬛⬛⬛⬛⬛2️⃣⬜
-⬛⬛⬛⬛⬛⬛2️⃣💣
-⬛⬛⬛⬛1️⃣2️⃣4️⃣💣
-⬛1️⃣1️⃣1️⃣1️⃣💣💣⬜
-⬛1️⃣💣⬜⬜⬜⬜⬜
-⬛1️⃣2️⃣💣⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 109.08325160449 days |
+| 🎉 Christmas | in 108.87490272028 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+> [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649)
 >
-> 🔥 184 points
+> 🔥 177 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
