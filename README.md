@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🏠 **Done for the day** · Tuesday, September 8 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Tuesday, September 8 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 107.29159233178 days |
+| 🎉 Christmas | in 107.20821855376 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+> [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
 >
-> 🔥 61 points
+> 🔥 170 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
