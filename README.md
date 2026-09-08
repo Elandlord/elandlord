@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🌊
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Tuesday, September 8 · ⏰ 03:00 CEST
+😴 **Still sleeping (or should be)** · Tuesday, September 8 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 107.87491830115 days |
+| 🎉 Christmas | in 107.74991818168 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+> [I&#039;ve factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
 >
-> 🔥 42 points
+> 🔥 155 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
