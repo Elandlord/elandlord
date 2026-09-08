@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ☕
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Tuesday, September 8 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Tuesday, September 8 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 107.74991818168 days |
+| 🎉 Christmas | in 107.66658127588 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I&#039;ve factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+> [We have a year to fix security everywhere](https://jyn.dev/a-year-to-fix-security/)
 >
-> 🔥 155 points
+> 🔥 70 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
