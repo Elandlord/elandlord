@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Wednesday, September 9 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Wednesday, September 9 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 106.74991936707 days |
+| 🎉 Christmas | in 106.66658871292 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Trees use a &quot;muscle&quot;, tension wood, to correct their posture](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
+> [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
 >
-> 🔥 36 points
+> 🔥 435 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
