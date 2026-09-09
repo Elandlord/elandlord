@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 💻
+# Good night! ⚡
 
-🏠 **Done for the day** · Wednesday, September 9 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Wednesday, September 9 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 106.20824779521 days |
+| 🎉 Christmas | in 106.0832392788 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+> [iPhone Duo](https://www.apple.com/iphone-duo/)
 >
-> 🔥 510 points
+> 🔥 367 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
