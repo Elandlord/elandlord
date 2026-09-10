@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Thursday, September 10 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Thursday, September 10 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 105.20821362836 days |
+| 🎉 Christmas | in 105.08324203905 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+> [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
 >
-> 🔥 392 points
+> 🔥 252 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
