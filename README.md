@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🔥
+# Good night! ☕
 
-🏠 **Done for the day** · Thursday, September 10 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Friday, September 11 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-10** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-09** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-09-03** · unfinished · 0 digs
-
-```
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 105.08324203905 days |
+| 🎉 Christmas | in 104.87491256257 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
+> [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
 >
-> 🔥 252 points
+> 🔥 8 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
