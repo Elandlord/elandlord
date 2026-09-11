@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 📚
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Friday, September 11 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Friday, September 11 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 104.58325142179 days |
+| 🎉 Christmas | in 104.45822825279 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Astra for Coding: Why Are We Doing This Again?](https://lucumr.pocoo.org/2026/9/7/astra-why/)
+> [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 >
-> 🔥 215 points
+> 🔥 67 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
