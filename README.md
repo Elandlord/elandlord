@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ☕
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Friday, September 11 · ⏰ 03:00 CEST
+😴 **Still sleeping (or should be)** · Friday, September 11 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 104.87491256257 days |
+| 🎉 Christmas | in 104.74991208057 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o)
+> [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
 >
-> 🔥 8 points
+> 🔥 861 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
