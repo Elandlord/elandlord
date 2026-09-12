@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ☕
+# Good evening! ⚡
 
-🎉 **Enjoying the weekend** · Saturday, September 12 · ⏰ 17:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 12 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 103.29157249552 days |
+| 🎉 Christmas | in 103.20823298284 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
+> [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 >
-> 🔥 18 points
+> 🔥 122 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
