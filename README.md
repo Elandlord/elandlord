@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🛠️
+# Good morning! 🌟
 
-🎉 **Enjoying the weekend** · Saturday, September 12 · ⏰ 08:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 12 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 103.66656762102 days |
+| 🎉 Christmas | in 103.58324398032 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
+> [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
 >
-> 🔥 240 points
+> 🔥 115 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
