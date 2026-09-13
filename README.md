@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ⚡
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, September 13 · ⏰ 03:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 13 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 102.87491381118 days |
+| 🎉 Christmas | in 102.74991163659 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+> [The Interim Computer Museum](https://icm.museum/)
 >
-> 🔥 308 points
+> 🔥 32 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
