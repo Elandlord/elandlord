@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Monday, September 14 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Monday, September 14 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 101.45823796106 days |
+| 🎉 Christmas | in 101.2915608675 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
+> [New $100K H-1B Visa Fee Pushes Tech Jobs Offshore](https://spectrum.ieee.org/h-1b-visa-us-government)
 >
-> 🔥 54 points
+> 🔥 52 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
