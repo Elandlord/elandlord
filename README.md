@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Tuesday, September 15 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Tuesday, September 15 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 100.45822453747 days |
+| 🎉 Christmas | in 100.29155425208 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I can&#039;t stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+> [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
 >
-> 🔥 262 points
+> 🔥 337 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
