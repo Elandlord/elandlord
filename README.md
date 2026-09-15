@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Tuesday, September 15 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Tuesday, September 15 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 100.58325377041 days |
+| 🎉 Christmas | in 100.45822453747 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+> [I can&#039;t stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
 >
-> 🔥 564 points
+> 🔥 262 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
