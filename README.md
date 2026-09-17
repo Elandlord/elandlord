@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 📚
+# Good night! 🎮
 
-🏠 **Done for the day** · Thursday, September 17 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Thursday, September 17 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 98.20823388522 days |
+| 🎉 Christmas | in 98.083244001169 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+> [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
 >
-> 🔥 290 points
+> 🔥 240 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
