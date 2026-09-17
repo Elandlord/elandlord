@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🚀
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Thursday, September 17 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Thursday, September 17 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 98.583243864896 days |
+| 🎉 Christmas | in 98.458229976308 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+> [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
 >
-> 🔥 605 points
+> 🔥 97 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
