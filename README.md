@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ⚡
+# Good afternoon! 🛠️
 
-🟢 **Working from Groningen** · Friday, September 18 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Friday, September 18 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 97.458260037847 days |
+| 🎉 Christmas | in 97.291564976493 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenJev](https://openjev.com/)
+> [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
 >
-> 🔥 96 points
+> 🔥 89 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
