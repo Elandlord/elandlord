@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🌟
+# Good night! 🏃
 
-🏠 **Done for the day** · Friday, September 18 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Friday, September 18 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 97.208248667419 days |
+| 🎉 Christmas | in 97.083231523275 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
+> [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
 >
-> 🔥 190 points
+> 🔥 79 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
