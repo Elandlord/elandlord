@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🏃
+# Good morning! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, September 19 · ⏰ 06:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 19 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 96.7499048589 days |
+| 🎉 Christmas | in 96.666568807095 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+> [San Francisco Onion Futures Company](https://onionfutures.com/)
 >
-> 🔥 636 points
+> 🔥 107 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
