@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🎉 **Enjoying the weekend** · Saturday, September 19 · ⏰ 10:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 19 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 96.583236895058 days |
+| 🎉 Christmas | in 96.458241402199 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+> [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 >
-> 🔥 138 points
+> 🔥 134 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
