@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🎮
+# Good night! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, September 20 · ⏰ 19:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 20 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 95.208233680706 days |
+| 🎉 Christmas | in 95.083245153866 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
+> [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
 >
-> 🔥 105 points
+> 🔥 145 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
