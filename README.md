@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎮
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Monday, September 21 · ⏰ 03:00 CEST
+😴 **Still sleeping (or should be)** · Monday, September 21 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 94.874899060197 days |
+| 🎉 Christmas | in 94.749939193808 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Google&#039;s Open Agentic Orchestrator](https://agentexecutor.io)
+> [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
 >
-> 🔥 146 points
+> 🔥 283 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
