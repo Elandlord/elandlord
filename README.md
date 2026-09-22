@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Monday, September 21 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Tuesday, September 22 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-21** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-20** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-09-14** · unfinished · 3 digs
-
-```
-⬜⬜1️⃣⬛⬛⬛⬛⬛
-⬜💣1️⃣⬛⬛⬛⬛⬛
-⬜⬜1️⃣⬛⬛⬛1️⃣1️⃣
-1️⃣⬜1️⃣⬛⬛1️⃣3️⃣💣
-⬜💣2️⃣1️⃣1️⃣2️⃣💣💣
-⬜⬜💥⬜⬜💣⬜⬜
-⬜⬜⬜💣⬜⬜⬜⬜
-⬜💣⬜💣⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 94.08320719544 days |
+| 🎉 Christmas | in 93.874916633264 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
+> [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
 >
-> 🔥 60 points
+> 🔥 495 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
