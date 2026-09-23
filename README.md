@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🏃
+# Good evening! 🚀
 
-🏠 **Done for the day** · Wednesday, September 23 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Wednesday, September 23 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 92.291566775752 days |
+| 🎉 Christmas | in 92.208223631574 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
+> [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
 >
-> 🔥 297 points
+> 🔥 128 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
