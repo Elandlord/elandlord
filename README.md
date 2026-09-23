@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Wednesday, September 23 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Wednesday, September 23 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 92.208223631574 days |
+| 🎉 Christmas | in 92.083252182917 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
+> [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
 >
-> 🔥 128 points
+> 🔥 179 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
