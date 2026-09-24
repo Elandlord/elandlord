@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎯
+# Good night! 🚀
 
-🏠 **Done for the day** · Wednesday, September 23 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Thursday, September 24 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-23** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-22** · unfinished · 3 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-09-16** · unfinished · 3 digs
-
-```
-⬜⬜1️⃣⬛1️⃣💣⬜💥
-⬜💣1️⃣⬛1️⃣1️⃣2️⃣⬜
-1️⃣1️⃣1️⃣⬛⬛⬛1️⃣⬜
-⬛⬛⬛⬛⬛1️⃣2️⃣💣
-⬛1️⃣1️⃣1️⃣⬛1️⃣💣⬜
-⬛1️⃣💣1️⃣1️⃣2️⃣⬜💣
-1️⃣2️⃣⬜1️⃣⬜💣⬜💣
-⬜💣⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 92.083252182917 days |
+| 🎉 Christmas | in 91.874917389201 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+> [Meta VR Glasses](https://www.meta.com/vr-glasses/)
 >
-> 🔥 179 points
+> 🔥 145 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
