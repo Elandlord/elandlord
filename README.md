@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🚀
+# Good morning! 🎯
 
-😴 **Still sleeping (or should be)** · Thursday, September 24 · ⏰ 03:00 CEST
+😴 **Still sleeping (or should be)** · Thursday, September 24 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 91.874917389201 days |
+| 🎉 Christmas | in 91.7499208886 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Meta VR Glasses](https://www.meta.com/vr-glasses/)
+> [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 >
-> 🔥 145 points
+> 🔥 221 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
