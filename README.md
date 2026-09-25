@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ☕
+# Good night! 🔥
 
-🏠 **Done for the day** · Friday, September 25 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Friday, September 25 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 90.208227570058 days |
+| 🎉 Christmas | in 90.083208339363 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
+> [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
 >
-> 🔥 107 points
+> 🔥 108 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
