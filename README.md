@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ✨
+# Good morning! 🛠️
 
-☕ **Getting ready for work** · Friday, September 25 · ⏰ 08:00 CEST
+🟢 **Working from Groningen** · Friday, September 25 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 90.666577423322 days |
+| 🎉 Christmas | in 90.583238196806 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Goodbye Google](https://robert.ocallahan.org/2026/09/goodbye-google.html)
+> [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
 >
-> 🔥 56 points
+> 🔥 1181 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
