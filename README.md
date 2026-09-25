@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🚀
+# Good evening! ☕
 
-🏠 **Done for the day** · Friday, September 25 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Friday, September 25 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 90.291530832569 days |
+| 🎉 Christmas | in 90.208227570058 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+> [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
 >
-> 🔥 684 points
+> 🔥 107 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
