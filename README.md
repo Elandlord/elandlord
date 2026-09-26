@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎮
+# Good afternoon! 💻
 
-🎉 **Enjoying the weekend** · Saturday, September 26 · ⏰ 13:00 CEST
+🎉 **Enjoying the weekend** · Saturday, September 26 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 89.458240935486 days |
+| 🎉 Christmas | in 89.291557022014 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
+> [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
 >
-> 🔥 37 points
+> 🔥 301 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
