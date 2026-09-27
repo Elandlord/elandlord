@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ☕
+# Good evening! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 17:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 88.291574434942 days |
+| 🎉 Christmas | in 88.208227913762 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+> [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
 >
-> 🔥 15 points
+> 🔥 69 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
