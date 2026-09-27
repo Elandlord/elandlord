@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🛠️
+# Good morning! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 08:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 88.666590908669 days |
+| 🎉 Christmas | in 88.5832242789 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+> [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
 >
-> 🔥 139 points
+> 🔥 293 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
