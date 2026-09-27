@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ⚡
+# Good night! 🎨
 
-🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 19:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 88.208227913762 days |
+| 🎉 Christmas | in 88.083244927569 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Normalization of Inexplicable Failures](https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html)
+> [Ember-1](https://fireworks.ai/blog/ember-1)
 >
-> 🔥 69 points
+> 🔥 159 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
