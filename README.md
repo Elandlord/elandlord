@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌟
+# Good afternoon! 🏃
 
-🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 10:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 88.5832242789 days |
+| 🎉 Christmas | in 88.458230952951 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+> [&quot;As a Language Model&quot;: Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
 >
-> 🔥 293 points
+> 🔥 18 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
