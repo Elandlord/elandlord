@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎯
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 03:00 CEST
+🎉 **Enjoying the weekend** · Sunday, September 27 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 88.874908567512 days |
+| 🎉 Christmas | in 88.74992488397 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+> [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
 >
-> 🔥 76 points
+> 🔥 341 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
