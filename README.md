@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Monday, September 28 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Monday, September 28 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 87.74991422456 days |
+| 🎉 Christmas | in 87.666606581447 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
 >
-> 🔥 205 points
+> 🔥 361 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
