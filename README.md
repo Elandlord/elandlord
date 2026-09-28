@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🔥
+# Good night! 🛠️
 
-🏠 **Done for the day** · Monday, September 28 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Monday, September 28 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 87.208220847731 days |
+| 🎉 Christmas | in 87.083253832975 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+> [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
 >
-> 🔥 152 points
+> 🔥 253 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
