@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎸
+# Good afternoon! 🌊
 
-🟢 **Working from Groningen** · Monday, September 28 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Monday, September 28 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 87.583234489618 days |
+| 🎉 Christmas | in 87.458191396678 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+> [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
 >
-> 🔥 573 points
+> 🔥 9 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
