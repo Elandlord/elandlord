@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🟢 **Working from Groningen** · Wednesday, September 30 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Wednesday, September 30 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 85.583233398623 days |
+| 🎉 Christmas | in 85.458244584398 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+> [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
 >
-> 🔥 543 points
+> 🔥 72 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
