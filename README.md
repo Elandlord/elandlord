@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 📚
+# Good night! ✨
 
-🏠 **Done for the day** · Tuesday, September 29 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Wednesday, September 30 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-09-29** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-28** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-09-22** · unfinished · 3 digs
-
-```
-⬛⬛⬛⬛1️⃣⬜💣⬜
-1️⃣1️⃣1️⃣⬛1️⃣💣⬜⬜
-⬜💣2️⃣⬛1️⃣⬜⬜⬜
-⬜💣3️⃣1️⃣1️⃣⬜💣⬜
-⬜⬜⬜💥⬜⬜⬜💣
-⬜⬜💣⬜⬜⬜⬜⬜
-⬜⬜⬜1️⃣⬜⬜⬜⬜
-⬜💣⬜⬜⬜⬜💣⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 86.0832180636 days |
+| 🎉 Christmas | in 85.874908788553 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)
+> [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
 >
-> 🔥 548 points
+> 🔥 171 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
