@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🎨
+# Good night! 🌟
 
-🏠 **Done for the day** · Wednesday, September 30 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Wednesday, September 30 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 85.208227388634 days |
+| 🎉 Christmas | in 85.083241179919 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+> [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
 >
-> 🔥 438 points
+> 🔥 80 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
