@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ☕
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Thursday, October 1 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Thursday, October 1 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 84.458244338576 days |
+| 🎉 Christmas | in 84.291574913206 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenDLSS: A Vulkan Reimplementation of Nvidia&#039;s DLSS 5 Neural Rendering Network](https://github.com/maanHimself/OpenDLSS-NR)
+> [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
 >
-> 🔥 95 points
+> 🔥 265 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
