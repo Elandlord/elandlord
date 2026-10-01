@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌊
+# Good afternoon! ☕
 
-🟢 **Working from Groningen** · Thursday, October 1 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Thursday, October 1 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 84.583245898657 days |
+| 🎉 Christmas | in 84.458244338576 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+> [OpenDLSS: A Vulkan Reimplementation of Nvidia&#039;s DLSS 5 Neural Rendering Network](https://github.com/maanHimself/OpenDLSS-NR)
 >
-> 🔥 1314 points
+> 🔥 95 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
