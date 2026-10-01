@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🏠 **Done for the day** · Thursday, October 1 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Thursday, October 1 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 84.291574913206 days |
+| 🎉 Christmas | in 84.20824243522 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+> [Clef: our open-source decision models](https://blog.cloudflare.com/clef-decision-models/)
 >
-> 🔥 265 points
+> 🔥 52 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
