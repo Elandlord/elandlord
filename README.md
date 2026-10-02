@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 📚
+# Good night! 🎮
 
-🏠 **Done for the day** · Friday, October 2 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Friday, October 2 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 83.208249558403 days |
+| 🎉 Christmas | in 83.08324756838 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Legend of von Neumann (1973) [pdf]](https://gwern.net/doc/math/1973-halmos.pdf)
+> [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 >
-> 🔥 140 points
+> 🔥 108 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
