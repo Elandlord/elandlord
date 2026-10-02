@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎸
+# Good night! 🛠️
 
-🏠 **Done for the day** · Thursday, October 1 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Friday, October 2 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-01** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-09-30** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛1️⃣⬜1️⃣⬛⬛⬛⬛
 ```
 
-**2026-09-24** · unfinished · 3 digs
-
-```
-⬛⬛⬛⬛1️⃣⬜⬜⬜
-⬛⬛⬛1️⃣3️⃣💣⬜💣
-⬛⬛1️⃣2️⃣💣💣⬜⬜
-⬛⬛1️⃣💣3️⃣2️⃣2️⃣💣
-⬛⬛1️⃣1️⃣1️⃣⬛1️⃣1️⃣
-1️⃣1️⃣⬛1️⃣1️⃣1️⃣⬛⬛
-💣2️⃣1️⃣2️⃣💣1️⃣⬛⬛
-💥⬜⬜💣⬜1️⃣⬛⬛
-```
-
 </details>
 
 ---
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 84.083245261493 days |
+| 🎉 Christmas | in 83.874910249792 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Pi 1.0](https://earendil.com/posts/pi-1-0/)
 >
-> 🔥 74 points
+> 🔥 711 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
