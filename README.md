@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 📚
+# Good morning! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, October 3 · ⏰ 03:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 3 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 82.874912523542 days |
+| 🎉 Christmas | in 82.749901081597 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
+> [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
 >
-> 🔥 80 points
+> 🔥 75 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
