@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎮
+# Good night! 📚
 
-🏠 **Done for the day** · Friday, October 2 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 3 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-02** · unfinished · 0 digs
+
+```
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-10-01** · unfinished · 0 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-09-25** · unfinished · 5 digs
-
-```
-⬜💣⬜⬜1️⃣💣⬜1️⃣
-1️⃣2️⃣⬜⬜⬜⬜⬜💣
-⬛2️⃣💣💣⬜⬜⬜⬜
-⬛2️⃣💣⬜⬜⬜💣⬜
-⬛1️⃣⬜⬜⬜💥⬜⬜
-⬛1️⃣⬜1️⃣1️⃣2️⃣💣⬜
-⬛1️⃣💣1️⃣⬛1️⃣1️⃣1️⃣
-⬛1️⃣⬜1️⃣⬛⬛⬛⬛
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 83.08324756838 days |
+| 🎉 Christmas | in 82.874912523542 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+> [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 >
-> 🔥 108 points
+> 🔥 80 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
