@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🚀
+# Good morning! ☕
 
-🎉 **Enjoying the weekend** · Sunday, October 4 · ⏰ 08:00 CEST
+🎉 **Enjoying the weekend** · Sunday, October 4 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 81.666590034699 days |
+| 🎉 Christmas | in 81.583260252743 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+> [Why don&#039;t more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
 >
-> 🔥 321 points
+> 🔥 97 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
