@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🎉 **Enjoying the weekend** · Sunday, October 4 · ⏰ 13:00 CEST
+🎉 **Enjoying the weekend** · Sunday, October 4 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 81.458255906968 days |
+| 🎉 Christmas | in 81.291575996343 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [VGHF Digital Archive passes 5000 magazines. Here&#039;s what&#039;s next](https://gamehistory.org/5k-magazines/)
+> [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
 >
-> 🔥 24 points
+> 🔥 157 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
