@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🌟
+# Good evening! 🎮
 
-🏠 **Done for the day** · Monday, October 5 · ⏰ 17:00 CEST
+🏠 **Done for the day** · Monday, October 5 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 80.291596285961 days |
+| 🎉 Christmas | in 80.208244974051 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Pixel 11 doesn&#039;t yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
+> [Borland Turbo Basic](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
 >
-> 🔥 135 points
+> 🔥 67 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
