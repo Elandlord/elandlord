@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🚀
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Tuesday, October 6 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Tuesday, October 6 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 79.749921777303 days |
+| 🎉 Christmas | in 79.66658744912 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Beam: Reflection&#039;s 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+> [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
 >
-> 🔥 360 points
+> 🔥 88 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
