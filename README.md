@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🏃
+# Good night! 💻
 
-🏠 **Done for the day** · Tuesday, October 6 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Tuesday, October 6 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 79.20823009691 days |
+| 🎉 Christmas | in 79.083264974884 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+> [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
 >
-> 🔥 882 points
+> 🔥 1253 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
