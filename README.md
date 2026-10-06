@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎮
+# Good morning! 🚀
 
-😴 **Still sleeping (or should be)** · Tuesday, October 6 · ⏰ 03:00 CEST
+😴 **Still sleeping (or should be)** · Tuesday, October 6 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 79.874899033738 days |
+| 🎉 Christmas | in 79.749921777303 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [ChatGPT is adding real cartoonists&#039; signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
+> [Beam: Reflection&#039;s 501B open-weight model](https://reflection.ai/blog/introducing-beam)
 >
-> 🔥 181 points
+> 🔥 360 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
