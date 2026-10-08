@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ☕
+# Good morning! ⚡
 
-😴 **Still sleeping (or should be)** · Thursday, October 8 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Thursday, October 8 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 77.749913113958 days |
+| 🎉 Christmas | in 77.666584582072 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+> [Terence Tao Responds to the OpenAI Math Drop](https://mathstodon.xyz/@tao/117395269325940185)
 >
-> 🔥 739 points
+> 🔥 72 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
