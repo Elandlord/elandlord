@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🚀
+# Good night! 🎯
 
-🏠 **Done for the day** · Thursday, October 8 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Thursday, October 8 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 77.208258870243 days |
+| 🎉 Christmas | in 77.083241820995 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Tell HN: I&#039;ve been paying for a rural Tanzanian&#039;s education for 10 years](https://news.ycombinator.com/item?id=50006366)
+> [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
 >
-> 🔥 353 points
+> 🔥 251 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
