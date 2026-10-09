@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Friday, October 9 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Friday, October 9 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 76.583286607454 days |
+| 🎉 Christmas | in 76.458266394282 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Why isn&#039;t the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+> [Nobel Peace Prize for 2026 to Navanethem &quot;NAVI&quot; Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
 >
-> 🔥 671 points
+> 🔥 45 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
