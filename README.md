@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ⚡
+# Good night! 💻
 
-🏠 **Done for the day** · Friday, October 9 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 10 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-09** · unfinished · 2 digs
+
+```
+💣⬜⬜💣⬜⬜⬜💥
+⬜⬜1️⃣1️⃣2️⃣💣⬜⬜
+⬜⬜1️⃣⬛1️⃣⬜⬜⬜
+⬜💣1️⃣⬛1️⃣⬜💣⬜
+1️⃣1️⃣1️⃣⬛1️⃣💣⬜⬜
+⬛⬛⬛⬛1️⃣⬜💣⬜
+⬛⬛1️⃣1️⃣1️⃣⬜⬜💣
+⬛⬛1️⃣💣⬜⬜⬜⬜
+```
 
 **2026-10-08** · unfinished · 5 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-10-02** · unfinished · 0 digs
-
-```
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 76.083237204757 days |
+| 🎉 Christmas | in 75.874912051794 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
 >
-> 🔥 852 points
+> 🔥 1053 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
