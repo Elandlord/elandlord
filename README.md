@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Monday, October 12 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Monday, October 12 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 73.208229860544 days |
+| 🎉 Christmas | in 73.08326295265 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
+> [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
 >
-> 🔥 90 points
+> 🔥 210 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
