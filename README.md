@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎨
+# Good night! ⚡
 
-🏠 **Done for the day** · Monday, October 12 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Tuesday, October 13 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-12** · unfinished · 4 digs
+
+```
+💣3️⃣⬜💣⬜⬜1️⃣💥
+💣💣⬜💣⬜⬜⬜⬜
+⬜⬜3️⃣1️⃣2️⃣💣⬜⬜
+💣💣1️⃣⬛1️⃣1️⃣2️⃣💣
+2️⃣2️⃣1️⃣⬛⬛⬛1️⃣1️⃣
+⬛⬛⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛⬛⬛
+```
 
 **2026-10-11** · unfinished · 4 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛⬛⬛⬛⬛⬛⬛⬛
 ```
 
-**2026-10-05** · unfinished · 8 digs
-
-```
-⬜⬜⬜💣⬜💣2️⃣💣
-⬜💣2️⃣1️⃣2️⃣1️⃣⬜⬜
-1️⃣1️⃣1️⃣⬛⬛1️⃣⬜1️⃣
-⬛⬛⬛⬛⬛1️⃣💣⬜
-⬛⬛1️⃣1️⃣2️⃣2️⃣⬜⬜
-1️⃣1️⃣1️⃣💣⬜💣⬜⬜
-💣⬜2️⃣⬜💥⬜1️⃣⬜
-1️⃣1️⃣⬜💣⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 73.08326295265 days |
+| 🎉 Christmas | in 72.874926647639 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Codex CLI installs a persistent, self-updating background daemon by default](https://github.com/openai/codex/issues/48195)
+> [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
 >
-> 🔥 210 points
+> 🔥 67 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
