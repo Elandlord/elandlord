@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Tuesday, October 13 · ⏰ 08:00 CEST
+🟢 **Working from Groningen** · Tuesday, October 13 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 72.666582942627 days |
+| 🎉 Christmas | in 72.583265704144 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
+> [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/)
 >
-> 🔥 103 points
+> 🔥 227 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
