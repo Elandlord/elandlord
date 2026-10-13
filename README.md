@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎨
+# Good morning! 📚
 
-😴 **Still sleeping (or should be)** · Tuesday, October 13 · ⏰ 06:00 CEST
+☕ **Getting ready for work** · Tuesday, October 13 · ⏰ 08:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 72.749916359282 days |
+| 🎉 Christmas | in 72.666582942627 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [OpenAI algorithm for the FFT is less a breakthrough and more a malicious exploit](https://www.argmin.net/p/faster-fourier-transforms)
+> [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928)
 >
-> 🔥 34 points
+> 🔥 103 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
