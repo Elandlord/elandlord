@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎮
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Wednesday, October 14 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Wednesday, October 14 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 71.583250123831 days |
+| 🎉 Christmas | in 71.458243800799 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs](https://github.com/android/ndk/issues/2260)
+> [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
 >
-> 🔥 160 points
+> 🔥 141 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
