@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🛠️
+# Good night! 🎸
 
-🏠 **Done for the day** · Friday, October 16 · ⏰ 19:00 CEST
+🏠 **Done for the day** · Friday, October 16 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 69.208241659711 days |
+| 🎉 Christmas | in 69.083220267581 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [America&#039;s Wumao: Inside Polymarket&#039;s Paid Quote-Retweet Esports Program](https://www.readergrev.com/p/polymarket-paid-quote-retweet-esports-investigation)
+> [Tesla Roadster](https://www.tesla.com/roadster)
 >
-> 🔥 45 points
+> 🔥 721 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
