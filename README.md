@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🚀
+# Good afternoon! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, October 17 · ⏰ 10:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 17 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 68.583247500521 days |
+| 🎉 Christmas | in 68.458247195428 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
+> [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 >
-> 🔥 209 points
+> 🔥 161 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
