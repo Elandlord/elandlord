@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 📚
+# Good night! 🎮
 
-🎉 **Enjoying the weekend** · Saturday, October 17 · ⏰ 19:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 17 · ⏰ 22:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 68.208252525197 days |
+| 🎉 Christmas | in 68.083275730301 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GLP-1 may slow biological aging](https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging)
+> [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 >
-> 🔥 42 points
+> 🔥 57 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
