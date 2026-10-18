@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎮
+# Good night! 📚
 
-🎉 **Enjoying the weekend** · Saturday, October 17 · ⏰ 22:00 CEST
+🎉 **Enjoying the weekend** · Sunday, October 18 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-17** · unfinished · 1 digs
+
+```
+⬜⬜⬜⬜⬜⬜1️⃣⬛
+⬜⬜⬜⬜⬜⬜1️⃣⬛
+⬜2️⃣1️⃣2️⃣3️⃣2️⃣1️⃣⬛
+⬜1️⃣⬛⬛⬛⬛⬛⬛
+⬜1️⃣1️⃣1️⃣⬛⬛⬛⬛
+⬜⬜⬜1️⃣⬛⬛⬛⬛
+⬜⬜⬜2️⃣1️⃣1️⃣⬛⬛
+⬜⬜⬜⬜⬜1️⃣⬛⬛
+```
 
 **2026-10-16** · unfinished · 3 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-10-10** · unfinished · 2 digs
-
-```
-💣⬜⬜💥2️⃣⬛⬛⬛
-⬜💣⬜💣3️⃣1️⃣⬛⬛
-⬜⬜⬜⬜💣1️⃣⬛⬛
-⬜⬜⬜⬜⬜1️⃣⬛⬛
-💣⬜⬜⬜⬜1️⃣⬛⬛
-💣⬜⬜⬜💣1️⃣⬛⬛
-💣⬜💣2️⃣1️⃣1️⃣⬛⬛
-⬜⬜⬜1️⃣⬛⬛⬛⬛
-```
-
 </details>
 
 ---
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 68.083275730301 days |
+| 🎉 Christmas | in 67.874911560301 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
 >
-> 🔥 57 points
+> 🔥 302 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
