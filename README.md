@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌊
+# Good morning! 💻
 
-🎉 **Enjoying the weekend** · Sunday, October 18 · ⏰ 08:00 CEST
+🎉 **Enjoying the weekend** · Sunday, October 18 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 67.666583138009 days |
+| 🎉 Christmas | in 67.583280123738 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Show HN: Sphinx – a hook that quizzes you on your AI&#039;s code before shipping](https://sphinx-six-theta.vercel.app/)
+> [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
 >
-> 🔥 42 points
+> 🔥 72 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
