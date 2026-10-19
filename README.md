@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Monday, October 19 · ⏰ 13:00 CEST
+🏠 **Done for the day** · Monday, October 19 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 66.458271349097 days |
+| 🎉 Christmas | in 66.291571166563 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
+> [Wine Ported to OpenBSD](https://marc.info/?l=openbsd-ports&amp;m=179236125692175)
 >
-> 🔥 233 points
+> 🔥 83 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
