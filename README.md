@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🏃
+# Good night! 🌟
 
-🎉 **Enjoying the weekend** · Sunday, October 18 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Monday, October 19 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-18** · unfinished · 3 digs
+
+```
+⬜💣⬜⬜⬜⬜⬜💣
+⬜⬜⬜💣⬜⬜💣2️⃣
+⬜⬜💣⬜⬜⬜⬜⬜
+⬜💣💥⬜💣⬜💣⬜
+1️⃣2️⃣2️⃣2️⃣1️⃣2️⃣1️⃣1️⃣
+⬛⬛⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛1️⃣1️⃣
+⬛⬛⬛⬛⬛⬛1️⃣💣
+```
 
 **2026-10-17** · unfinished · 1 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛⬛⬛⬛⬛⬛⬛⬛
 ```
 
-**2026-10-11** · unfinished · 4 digs
-
-```
-⬜⬜⬜💣⬜⬜⬜⬜
-⬜⬜⬜2️⃣⬜⬜💣⬜
-⬜⬜1️⃣💣1️⃣1️⃣1️⃣⬜
-⬜1️⃣1️⃣1️⃣1️⃣⬛1️⃣⬜
-💣1️⃣⬛⬛⬛⬛2️⃣💣
-⬜4️⃣2️⃣1️⃣1️⃣1️⃣3️⃣💣
-💣💣💣⬜⬜💥⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 67.083254435289 days |
+| 🎉 Christmas | in 66.87491511456 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
+> [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
 >
-> 🔥 151 points
+> 🔥 188 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
