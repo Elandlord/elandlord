@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎯
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Tuesday, October 20 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Tuesday, October 20 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 65.58324705272 days |
+| 🎉 Christmas | in 65.458250677303 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
+> [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
 >
-> 🔥 148 points
+> 🔥 309 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
