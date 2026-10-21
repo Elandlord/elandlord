@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ⚡
+# Good afternoon! 🎨
 
-🟢 **Working from Groningen** · Wednesday, October 21 · ⏰ 10:00 CEST
+🟢 **Working from Groningen** · Wednesday, October 21 · ⏰ 13:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 64.583247595127 days |
+| 🎉 Christmas | in 64.458226063866 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+> [Eight Bits of Trust; eMudhra&#039;s CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 >
-> 🔥 290 points
+> 🔥 133 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
