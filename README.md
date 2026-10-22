@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Wednesday, October 21 · ⏰ 22:00 CEST
+😴 **Still sleeping (or should be)** · Thursday, October 22 · ⏰ 03:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,12 +23,25 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Digging · 6 digs · 10 mines · streak 0 days**
+**Digging · 1 dig · 10 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-21** · unfinished · 7 digs
+
+```
+⬜💣⬜2️⃣💣⬜⬜💣
+1️⃣1️⃣2️⃣💣⬜⬜💣⬜
+⬛⬛1️⃣2️⃣💣2️⃣1️⃣1️⃣
+⬛⬛⬛1️⃣⬜1️⃣⬛⬛
+1️⃣1️⃣1️⃣1️⃣⬜1️⃣⬛⬛
+⬜💣⬜⬜💣2️⃣1️⃣1️⃣
+⬜⬜⬜⬜⬜⬜💥⬜
+⬜⬜⬜⬜⬜💣2️⃣⬜
+```
 
 **2026-10-20** · unfinished · 3 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜1️⃣⬛⬛⬛
 ```
 
-**2026-10-14** · unfinished · 9 digs
-
-```
-⬛1️⃣⬜⬜⬜⬜⬜⬜
-⬛2️⃣💣⬜💣2️⃣1️⃣💣
-⬛2️⃣💣⬜💣2️⃣1️⃣1️⃣
-⬛1️⃣1️⃣3️⃣⬜2️⃣⬛⬛
-⬛⬛⬛2️⃣💣2️⃣⬛⬛
-1️⃣1️⃣⬛3️⃣💣4️⃣1️⃣1️⃣
-💥1️⃣⬛2️⃣💣⬜💣⬜
-1️⃣1️⃣⬛1️⃣⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 64.083254696574 days |
+| 🎉 Christmas | in 63.874917475463 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+> [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
 >
-> 🔥 113 points
+> 🔥 96 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
