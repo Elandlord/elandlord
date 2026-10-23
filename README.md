@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🌊
+# Good morning! ☕
 
-😴 **Still sleeping (or should be)** · Friday, October 23 · ⏰ 03:00 CEST
+😴 **Still sleeping (or should be)** · Friday, October 23 · ⏰ 06:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 62.87489930588 days |
+| 🎉 Christmas | in 62.749913628472 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
+> [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
 >
-> 🔥 981 points
+> 🔥 212 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
