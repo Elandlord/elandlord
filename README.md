@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🔥
+# Good morning! 🎨
 
-🎉 **Enjoying the weekend** · Saturday, October 24 · ⏰ 08:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 24 · ⏰ 10:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 61.666579697569 days |
+| 🎉 Christmas | in 61.583277590961 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+> [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 >
-> 🔥 829 points
+> 🔥 83 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
