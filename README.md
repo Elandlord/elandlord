@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🌟
+# Good afternoon! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, October 24 · ⏰ 13:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 24 · ⏰ 17:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 61.458246696019 days |
+| 🎉 Christmas | in 61.291566250347 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [I Don&#039;t Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+> [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
 >
-> 🔥 64 points
+> 🔥 19 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
