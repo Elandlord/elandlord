@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🌊
+# Good evening! 💻
 
-🎉 **Enjoying the weekend** · Saturday, October 24 · ⏰ 17:00 CEST
+🎉 **Enjoying the weekend** · Saturday, October 24 · ⏰ 19:00 CEST
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 61.291566250347 days |
+| 🎉 Christmas | in 61.208242754144 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
+> [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
 >
-> 🔥 19 points
+> 🔥 64 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CEST · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CEST · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
