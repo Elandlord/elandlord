@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ⚡
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Sunday, October 25 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, October 25 · ⏰ 08:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 60.749893780683 days |
+| 🎉 Christmas | in 60.666562214688 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness](https://github.com/slee-persis/GVS5H)
+> [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
 >
-> 🔥 56 points
+> 🔥 318 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
