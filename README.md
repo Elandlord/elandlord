@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🎉 **Enjoying the weekend** · Sunday, October 25 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Sunday, October 25 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 60.458199196956 days |
+| 🎉 Christmas | in 60.291552515741 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
+> [Show HN: I put employees inside S&amp;P 500 market-cap bubbles](https://bigwhalehunting.com/workforce/)
 >
-> 🔥 249 points
+> 🔥 46 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
