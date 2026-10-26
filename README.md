@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🎯
+# Good night! ✨
 
-🏠 **Done for the day** · Monday, October 26 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, October 26 · ⏰ 22:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 59.208222889803 days |
+| 🎉 Christmas | in 59.083238479491 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Sebastian Raschka&#039;s from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+> [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
 >
-> 🔥 273 points
+> 🔥 130 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
