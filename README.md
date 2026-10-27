@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ✨
+# Good night! 🎯
 
-🏠 **Done for the day** · Monday, October 26 · ⏰ 22:00 CET
+😴 **Still sleeping (or should be)** · Tuesday, October 27 · ⏰ 03:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,12 +23,25 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Boom · 4 digs · 9 mines · streak 0 days**
+**Boom · 2 digs · 9 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-10-26** · unfinished · 4 digs
+
+```
+⬜⬜💥⬜⬜⬜⬜⬜
+⬜⬜⬜💣⬜⬜⬜⬜
+1️⃣💣⬜💣⬜💣⬜⬜
+⬜1️⃣2️⃣1️⃣3️⃣⬜⬜⬜
+⬜1️⃣⬛⬛2️⃣💣💣⬜
+💣1️⃣⬛1️⃣3️⃣💣3️⃣1️⃣
+1️⃣1️⃣⬛1️⃣💣2️⃣1️⃣⬛
+⬛⬛⬛1️⃣⬜1️⃣⬛⬛
+```
 
 **2026-10-25** · unfinished · 2 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬛1️⃣⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-10-19** · unfinished · 3 digs
-
-```
-⬜⬜⬜💣1️⃣⬛1️⃣💣
-⬜💣⬜2️⃣1️⃣⬛1️⃣1️⃣
-⬜⬜💣1️⃣⬛⬛⬛⬛
-⬜💣2️⃣1️⃣⬛⬛⬛⬛
-⬜⬜1️⃣⬛⬛⬛1️⃣1️⃣
-1️⃣⬜2️⃣1️⃣⬛⬛2️⃣💣
-⬜💣💥2️⃣1️⃣1️⃣2️⃣💣
-⬜⬜⬜⬜💣⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 59.083238479491 days |
+| 🎉 Christmas | in 58.874941813819 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+> [Announcing three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
 >
-> 🔥 130 points
+> 🔥 424 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
