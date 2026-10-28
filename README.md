@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Wednesday, October 28 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, October 28 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,7 +23,7 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Digging · 1 dig · 10 mines · streak 0 days**
+**Digging · 2 digs · 10 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 57.666569536238 days |
+| 🎉 Christmas | in 57.583218463437 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
 >
-> 🔥 184 points
+> 🔥 241 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
