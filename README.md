@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ⚡
+# Good morning! 🎨
 
-😴 **Still sleeping (or should be)** · Wednesday, October 28 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, October 28 · ⏰ 06:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 57.874905919039 days |
+| 🎉 Christmas | in 57.749917648403 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+> [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
 >
-> 🔥 740 points
+> 🔥 114 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
