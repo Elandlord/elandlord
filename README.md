@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 💻
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Friday, October 30 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, October 30 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 55.45824337625 days |
+| 🎉 Christmas | in 55.291569482697 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [elect.horse](https://elect.horse/)
+> [ICE wants its mask back, and hired a company to ask](https://blog.flokinet.is/2026/10/29/ice-wants-its-mask-back-and-hired-a-company-to-ask/)
 >
-> 🔥 85 points
+> 🔥 80 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
