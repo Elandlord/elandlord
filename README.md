@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎸
+# Good morning! 🏃
 
-☕ **Getting ready for work** · Friday, October 30 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, October 30 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 55.666570972546 days |
+| 🎉 Christmas | in 55.583242431794 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 >
-> 🔥 1119 points
+> 🔥 1274 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
