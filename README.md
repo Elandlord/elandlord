@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ✨
+# Good evening! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, October 31 · ⏰ 17:00 CET
+🎉 **Enjoying the weekend** · Saturday, October 31 · ⏰ 19:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 54.291579394722 days |
+| 🎉 Christmas | in 54.208247760602 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+> [Malware uses LLMs to rank victims by how much they&#039;re worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
 >
-> 🔥 175 points
+> 🔥 161 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
