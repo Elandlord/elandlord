@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Tuesday, November 3 · ⏰ 13:00 CET
+🏠 **Done for the day** · Tuesday, November 3 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 51.458193968113 days |
+| 🎉 Christmas | in 51.291537115104 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+> [The &#039;Astra can read and write weights to improve Qwen&#039; post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
 >
-> 🔥 2749 points
+> 🔥 539 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
