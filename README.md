@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌊
+# Good morning! 💻
 
-😴 **Still sleeping (or should be)** · Wednesday, November 4 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Wednesday, November 4 · ⏰ 08:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 50.749871358785 days |
+| 🎉 Christmas | in 50.666528904734 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+> [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
 >
-> 🔥 146 points
+> 🔥 114 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
