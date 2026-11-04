@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 💻
+# Good morning! 🎯
 
-☕ **Getting ready for work** · Wednesday, November 4 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Wednesday, November 4 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 50.666528904734 days |
+| 🎉 Christmas | in 50.583233480891 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
 >
-> 🔥 114 points
+> 🔥 220 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
