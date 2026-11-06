@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🌊
+# Good night! ☕
 
-🏠 **Done for the day** · Friday, November 6 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, November 6 · ⏰ 22:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 48.208222281458 days |
+| 🎉 Christmas | in 48.083232198681 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+> [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
 >
-> 🔥 50 points
+> 🔥 87 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
