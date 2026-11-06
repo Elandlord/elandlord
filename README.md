@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🛠️
+# Good afternoon! 🎮
 
-🟢 **Working from Groningen** · Friday, November 6 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, November 6 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 48.458236771829 days |
+| 🎉 Christmas | in 48.29157454978 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Blender&#039;s UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
+> [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
 >
-> 🔥 274 points
+> 🔥 154 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
