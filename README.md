@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎯
+# Good morning! 🔥
 
-☕ **Getting ready for work** · Friday, November 6 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, November 6 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 48.666566096667 days |
+| 🎉 Christmas | in 48.583234137407 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+> [Blender&#039;s UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
 >
-> 🔥 891 points
+> 🔥 69 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
