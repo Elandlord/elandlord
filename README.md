@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🚀
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 22:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 47.20822058522 days |
+| 🎉 Christmas | in 47.083222425891 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+> [The end of Microsoft Research&#039;s AI Frontiers group](https://hunch.net/?p=13764006)
 >
-> 🔥 121 points
+> 🔥 215 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
