@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 📚
+# Good afternoon! 🏃
 
-🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 13:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 47.458243413183 days |
+| 🎉 Christmas | in 47.291569987234 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+> [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
 >
-> 🔥 117 points
+> 🔥 52 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
