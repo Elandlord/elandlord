@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ⚡
+# Good morning! ✨
 
-🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 08:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 47.666564425799 days |
+| 🎉 Christmas | in 47.583233828137 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Asahi Linux Progress Linux 7.3](https://asahilinux.org/2026/11/progress-report-7-3/)
+> [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 >
-> 🔥 62 points
+> 🔥 575 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
