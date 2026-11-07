@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ☕
+# Good night! 🌊
 
-🏠 **Done for the day** · Friday, November 6 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 03:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-11-06** · unfinished · 2 digs
+
+```
+⬜⬜⬜⬜1️⃣⬛1️⃣⬜
+⬜⬜⬜⬜1️⃣⬛1️⃣1️⃣
+⬜⬜⬜⬜2️⃣1️⃣⬛⬛
+⬜⬜⬜⬜⬜1️⃣⬛⬛
+⬜⬜⬜⬜1️⃣1️⃣⬛⬛
+⬜1️⃣⬜⬜1️⃣⬛⬛⬛
+⬜⬜⬜⬜1️⃣⬛⬛⬛
+⬜⬜⬜⬜1️⃣⬛⬛⬛
+```
 
 **2026-11-05** · unfinished · 3 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-10-30** · unfinished · 3 digs
-
-```
-⬜1️⃣⬛⬛⬛1️⃣💣⬜
-💣2️⃣1️⃣⬛⬛1️⃣2️⃣💣
-⬜💣2️⃣1️⃣⬛1️⃣⬜⬜
-⬜⬜💣1️⃣⬛1️⃣💣⬜
-⬜⬜⬜2️⃣1️⃣2️⃣⬜💣
-⬜⬜⬜⬜💣⬜⬜⬜
-⬜💥⬜⬜💣⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 48.083232198681 days |
+| 🎉 Christmas | in 47.874926044317 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+> [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 >
-> 🔥 87 points
+> 🔥 174 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
