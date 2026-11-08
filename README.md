@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎯
+# Good night! 🚀
 
-🎉 **Enjoying the weekend** · Saturday, November 7 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, November 8 · ⏰ 03:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -29,6 +29,19 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-11-07** · unfinished · 3 digs
+
+```
+💥⬜1️⃣⬛⬛1️⃣⬜⬜
+💣💣1️⃣⬛⬛2️⃣💣⬜
+⬜⬜1️⃣⬛1️⃣3️⃣💣⬜
+💣⬜1️⃣1️⃣2️⃣💣⬜⬜
+⬜⬜⬜💣⬜⬜⬜⬜
+⬜⬜⬜💣2️⃣⬜⬜⬜
+⬜💣⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+```
 
 **2026-11-06** · unfinished · 2 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜1️⃣⬛⬛⬛
 ```
 
-**2026-10-31** · unfinished · 8 digs
-
-```
-1️⃣2️⃣1️⃣1️⃣⬛⬛⬛⬛
-⬜⬜⬜2️⃣1️⃣⬛⬛⬛
-1️⃣⬜⬜⬜1️⃣⬛⬛⬛
-⬜⬜⬜2️⃣1️⃣1️⃣1️⃣1️⃣
-⬜⬜2️⃣⬜⬜1️⃣⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜⬜⬜
-```
-
 </details>
 
 ---
@@ -147,7 +147,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 47.083222425891 days |
+| 🎉 Christmas | in 46.874900563704 days |
 
 ---
 
@@ -155,12 +155,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [The end of Microsoft Research&#039;s AI Frontiers group](https://hunch.net/?p=13764006)
 >
-> 🔥 215 points
+> 🔥 389 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
