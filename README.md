@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🚀
+# Good morning! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, November 8 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Sunday, November 8 · ⏰ 06:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 46.874900563704 days |
+| 🎉 Christmas | in 46.749939719491 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The end of Microsoft Research&#039;s AI Frontiers group](https://hunch.net/?p=13764006)
+> [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
 >
-> 🔥 389 points
+> 🔥 446 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
