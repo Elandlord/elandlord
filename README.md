@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🛠️
+# Good afternoon! 🎸
 
-🟢 **Working from Groningen** · Monday, November 9 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, November 9 · ⏰ 13:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 45.583263293183 days |
+| 🎉 Christmas | in 45.458248354398 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162)
+> [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
 >
-> 🔥 43 points
+> 🔥 36 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
