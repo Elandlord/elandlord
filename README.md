@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎸
+# Good afternoon! 🚀
 
-🟢 **Working from Groningen** · Monday, November 9 · ⏰ 13:00 CET
+🏠 **Done for the day** · Monday, November 9 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 45.458248354398 days |
+| 🎉 Christmas | in 45.291600008993 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Fun things to do with your VM/370 CE machine – Fun with big computers](https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/)
+> [Fold Epic Paper Airplanes](https://www.foldableflight.com)
 >
-> 🔥 36 points
+> 🔥 369 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
