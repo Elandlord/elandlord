@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 💻
+# Good evening! 🎯
 
-🏠 **Done for the day** · Tuesday, November 10 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, November 10 · ⏰ 19:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 44.291605016667 days |
+| 🎉 Christmas | in 44.208238514456 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
+> [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
 >
-> 🔥 346 points
+> 🔥 203 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
