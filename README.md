@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🎯
+# Good morning! ✨
 
-😴 **Still sleeping (or should be)** · Wednesday, November 11 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, November 11 · ⏰ 06:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 43.874919275347 days |
+| 🎉 Christmas | in 43.74992716228 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [After 7 months, Glasswing overwelms maintainers with underwhelming findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+> [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 >
-> 🔥 231 points
+> 🔥 11 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
