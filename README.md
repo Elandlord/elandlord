@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🌊
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Thursday, November 12 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, November 12 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 42.458279420903 days |
+| 🎉 Christmas | in 42.291573925312 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
+> [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
 >
-> 🔥 43 points
+> 🔥 1053 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
