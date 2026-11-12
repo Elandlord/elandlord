@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Thursday, November 12 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Thursday, November 12 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 42.666578229306 days |
+| 🎉 Christmas | in 42.583232096273 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/)
+> [Humble Bundle just killed most of their security through vibecoding](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
 >
-> 🔥 350 points
+> 🔥 207 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
