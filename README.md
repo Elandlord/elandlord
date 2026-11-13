@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🚀
+# Good afternoon! ⚡
 
-🟢 **Working from Groningen** · Friday, November 13 · ⏰ 13:00 CET
+🏠 **Done for the day** · Friday, November 13 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 41.458260021273 days |
+| 🎉 Christmas | in 41.291626801956 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+> [Reverse Engineering My Coway Air Purifier to Ditch the Cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
 >
-> 🔥 228 points
+> 🔥 160 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
