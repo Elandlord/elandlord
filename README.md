@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ✨
+# Good night! 📚
 
-🏠 **Done for the day** · Friday, November 13 · ⏰ 19:00 CET
+🏠 **Done for the day** · Friday, November 13 · ⏰ 22:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 41.208236959861 days |
+| 🎉 Christmas | in 41.083258472581 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [&quot;LibreOffice works 365 days a year. Just saying.&quot;](https://twitter.com/LibreOffice/status/2121205272479998268)
+> [$11.4M in Nvidia hardware vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
 >
-> 🔥 266 points
+> 🔥 75 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
