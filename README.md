@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ✨
+# Good morning! 📚
 
-🎉 **Enjoying the weekend** · Saturday, November 14 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 14 · ⏰ 06:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 40.874959784433 days |
+| 🎉 Christmas | in 40.749917770035 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
+> [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
 >
-> 🔥 88 points
+> 🔥 96 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
