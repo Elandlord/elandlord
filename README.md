@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 📚
+# Good night! ✨
 
-🏠 **Done for the day** · Friday, November 13 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 14 · ⏰ 03:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,12 +23,25 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Boom · 4 digs · 9 mines · streak 0 days**
+**Digging · 0 digs · 10 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
 <details>
 <summary>Earlier days</summary>
+
+**2026-11-13** · unfinished · 4 digs
+
+```
+⬜⬜⬜💥⬜⬜⬜⬜
+⬜💣⬜⬜2️⃣💣⬜💣
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜⬜⬜⬜⬜
+💣⬜2️⃣💣⬜⬜💣⬜
+⬜💣3️⃣1️⃣1️⃣2️⃣⬜⬜
+⬜💣2️⃣⬛⬛1️⃣💣⬜
+```
 
 **2026-11-12** · unfinished · 3 digs
 
@@ -108,19 +121,6 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 ⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
-**2026-11-06** · unfinished · 2 digs
-
-```
-⬜⬜⬜⬜1️⃣⬛1️⃣⬜
-⬜⬜⬜⬜1️⃣⬛1️⃣1️⃣
-⬜⬜⬜⬜2️⃣1️⃣⬛⬛
-⬜⬜⬜⬜⬜1️⃣⬛⬛
-⬜⬜⬜⬜1️⃣1️⃣⬛⬛
-⬜1️⃣⬜⬜1️⃣⬛⬛⬛
-⬜⬜⬜⬜1️⃣⬛⬛⬛
-⬜⬜⬜⬜1️⃣⬛⬛⬛
-```
-
 </details>
 
 ---
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 41.083258472581 days |
+| 🎉 Christmas | in 40.874959784433 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [$11.4M in Nvidia hardware vanishes during shipment from CA to TX](https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas)
+> [Amtrak booking system experiencing major issues amid nationwide FAA ground stop](https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026)
 >
-> 🔥 75 points
+> 🔥 88 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
