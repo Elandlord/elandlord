@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🏃
+# Good afternoon! 💻
 
-🎉 **Enjoying the weekend** · Saturday, November 14 · ⏰ 10:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 14 · ⏰ 13:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 40.583277964456 days |
+| 🎉 Christmas | in 40.458274872188 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+> [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 >
-> 🔥 236 points
+> 🔥 115 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
