@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎨
+# Good evening! 📚
 
-🏠 **Done for the day** · Monday, November 16 · ⏰ 17:00 CET
+🏠 **Done for the day** · Monday, November 16 · ⏰ 19:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -82,20 +82,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 38.29163843728 days |
+| 🎉 Christmas | in 38.208302506157 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [ChatGPT Wallet](https://openai.com/index/introducing-chatgpt-wallet/)
+> [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
 >
-> 🔥 17 points
+> 🔥 217 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
