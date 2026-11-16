@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🚀
+# Good afternoon! 🎯
 
-🟢 **Working from Groningen** · Monday, November 16 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Monday, November 16 · ⏰ 13:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -82,20 +82,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 38.583299237824 days |
+| 🎉 Christmas | in 38.458304906377 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
+> [Coffeehouses and the Rise of Science [pdf]](https://www.monirbounadi.com/Bounadi_JMP.pdf)
 >
-> 🔥 196 points
+> 🔥 24 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
