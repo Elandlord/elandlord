@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🌊
+# Good morning! 💻
 
-☕ **Getting ready for work** · Tuesday, November 17 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, November 17 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -95,7 +95,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 37.666635081076 days |
+| 🎉 Christmas | in 37.583306392512 days |
 
 ---
 
@@ -103,12 +103,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
 >
-> 🔥 1183 points
+> 🔥 1408 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
