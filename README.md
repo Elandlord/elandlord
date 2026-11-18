@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🌟
+# Good morning! 🏃
 
-😴 **Still sleeping (or should be)** · Wednesday, November 18 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, November 18 · ⏰ 06:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -108,7 +108,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 36.87497155588 days |
+| 🎉 Christmas | in 36.749973027188 days |
 
 ---
 
@@ -116,12 +116,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
 >
-> 🔥 532 points
+> 🔥 650 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
