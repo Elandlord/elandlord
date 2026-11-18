@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ☕
+# Good afternoon! 🔥
 
-🟢 **Working from Groningen** · Wednesday, November 18 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Wednesday, November 18 · ⏰ 13:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -108,20 +108,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 36.583302035185 days |
+| 🎉 Christmas | in 36.458305826076 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+> [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 >
-> 🔥 900 points
+> 🔥 52 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
