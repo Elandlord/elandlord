@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🔥
+# Good afternoon! 📚
 
-🟢 **Working from Groningen** · Wednesday, November 18 · ⏰ 13:00 CET
+🏠 **Done for the day** · Wednesday, November 18 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -108,20 +108,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 36.458305826076 days |
+| 🎉 Christmas | in 36.291638936817 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
+> [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
 >
-> 🔥 52 points
+> 🔥 237 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
