@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎯
+# Good afternoon! ✨
 
-🟢 **Working from Groningen** · Thursday, November 19 · ⏰ 10:00 CET
+🟢 **Working from Groningen** · Thursday, November 19 · ⏰ 13:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -121,20 +121,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 35.583305889722 days |
+| 🎉 Christmas | in 35.4583013086 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
+> [What&#039;s New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
 >
-> 🔥 781 points
+> 🔥 82 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
