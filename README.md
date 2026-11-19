@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! ✨
+# Good afternoon! 🌟
 
-🟢 **Working from Groningen** · Thursday, November 19 · ⏰ 13:00 CET
+🏠 **Done for the day** · Thursday, November 19 · ⏰ 17:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -121,20 +121,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 35.4583013086 days |
+| 🎉 Christmas | in 35.291631999178 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [What&#039;s New in PHP 8.6](https://www.php.net/releases/8.6/en.php)
+> [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 >
-> 🔥 82 points
+> 🔥 426 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 13:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
