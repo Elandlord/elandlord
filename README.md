@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 💻
+# Good night! 🏃
 
-🏠 **Done for the day** · Friday, November 20 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 21 · ⏰ 03:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,89 +23,24 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Boom · 2 digs · 9 mines · streak 0 days**
+**Digging · 0 digs · 10 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
 <details>
 <summary>Earlier days</summary>
 
-**2026-11-19** · unfinished · 4 digs
+**2026-11-20** · unfinished · 1 digs
 
 ```
-⬜💥⬜⬜⬜💣⬜💣
-1️⃣1️⃣1️⃣⬜2️⃣💣⬜⬜
-⬛⬛1️⃣⬜⬜⬜⬜⬜
-⬛⬛1️⃣💣⬜⬜⬜💣
-⬛⬛2️⃣2️⃣⬜⬜⬜⬜
-⬛⬛1️⃣💣⬜⬜⬜⬜
-⬛1️⃣2️⃣⬜⬜⬜💣⬜
-⬛1️⃣💣⬜⬜💣⬜⬜
-```
-
-**2026-11-18** · unfinished · 6 digs
-
-```
-1️⃣💥1️⃣⬛⬛⬛⬛⬛
-1️⃣⬜1️⃣⬛⬛⬛1️⃣1️⃣
-⬜⬜2️⃣1️⃣2️⃣1️⃣3️⃣💣
-1️⃣💣⬜💣⬜💣⬜💣
 ⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜💣1️⃣⬜⬜⬜⬜
-⬜💣⬜⬜⬜⬜⬜⬜
-⬜💣⬜⬜⬜⬜⬜💣
-```
-
-**2026-11-17** · unfinished · 3 digs
-
-```
-⬜⬜⬜⬜⬜⬜⬜1️⃣
-⬜⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜2️⃣⬜⬜⬜⬜
-⬜1️⃣1️⃣1️⃣1️⃣2️⃣2️⃣1️⃣
-⬜1️⃣⬛⬛⬛⬛⬛⬛
-⬜1️⃣⬛⬛⬛⬛⬛⬛
-1️⃣1️⃣⬛⬛⬛⬛⬛⬛
-⬛⬛⬛⬛⬛⬛⬛⬛
-```
-
-**2026-11-16** · unfinished · 2 digs
-
-```
-💣1️⃣⬛⬛2️⃣💣⬜⬜
-⬜2️⃣1️⃣⬛2️⃣💥⬜💣
-⬜💣1️⃣⬛1️⃣1️⃣3️⃣⬜
-1️⃣1️⃣1️⃣⬛⬛⬛2️⃣💣
-⬛⬛⬛⬛⬛⬛2️⃣💣
-1️⃣1️⃣⬛⬛⬛1️⃣2️⃣⬜
-💣1️⃣⬛⬛⬛1️⃣💣⬜
-⬜1️⃣⬛⬛⬛1️⃣⬜💣
-```
-
-**2026-11-15** · unfinished · 6 digs
-
-```
-💣⬜💥⬜⬜⬜💣⬜
-1️⃣3️⃣💣⬜💣⬜1️⃣1️⃣
-⬛1️⃣⬜⬜⬜⬜⬜⬜
-⬛1️⃣⬜⬜⬜⬜⬜⬜
-1️⃣2️⃣💣⬜💣⬜⬜⬜
-⬜💣2️⃣2️⃣1️⃣2️⃣💣⬜
-1️⃣1️⃣1️⃣⬛⬛1️⃣2️⃣💣
-⬛⬛⬛⬛⬛⬛1️⃣⬜
-```
-
-**2026-11-14** · unfinished · 4 digs
-
-```
-💣⬜⬜⬜💣2️⃣⬜⬜
-⬜⬜💣💣⬜⬜💣⬜
-💣⬜⬜💣2️⃣1️⃣2️⃣⬜
-1️⃣1️⃣1️⃣1️⃣1️⃣⬛1️⃣💥
-⬛⬛⬛⬛⬛⬛1️⃣⬜
-⬛⬛⬛⬛⬛⬛1️⃣⬜
-⬛⬛⬛⬛1️⃣1️⃣2️⃣💣
-⬛⬛⬛⬛1️⃣💣2️⃣⬜
+⬜⬜⬜⬜2️⃣1️⃣3️⃣⬜
+⬜⬜⬜2️⃣1️⃣⬛1️⃣1️⃣
+⬜⬜⬜1️⃣⬛⬛⬛⬛
+⬜⬜⬜2️⃣1️⃣1️⃣⬛⬛
+⬜⬜⬜⬜⬜1️⃣⬛⬛
+⬜⬜⬜2️⃣1️⃣1️⃣⬛⬛
+⬜⬜⬜1️⃣⬛⬛⬛⬛
 ```
 
 </details>
@@ -134,7 +69,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 34.083305109618 days |
+| 🎉 Christmas | in 33.874965366366 days |
 
 ---
 
@@ -142,12 +77,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
 >
-> 🔥 742 points
+> 🔥 1540 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
