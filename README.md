@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 🚀
+# Good night! 🎯
 
-🎉 **Enjoying the weekend** · Sunday, November 22 · ⏰ 19:00 CET
+🎉 **Enjoying the weekend** · Sunday, November 22 · ⏰ 22:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -69,20 +69,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 32.208306555116 days |
+| 🎉 Christmas | in 32.083304342778 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Open Social Web Alliance](https://osw-alliance.net/en/)
+> [The Birds of GTA 6: A Field Guide to Vice City and Leonida&#039;s Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
 >
-> 🔥 107 points
+> 🔥 83 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
