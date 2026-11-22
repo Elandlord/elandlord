@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ☕
+# Good night! 🌊
 
-🎉 **Enjoying the weekend** · Saturday, November 21 · ⏰ 22:00 CET
+🎉 **Enjoying the weekend** · Sunday, November 22 · ⏰ 03:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -23,10 +23,27 @@ safe, an empty square opens its neighbours, and a mine ends the day for everybod
 <a href="https://wordle.ericlandheer.nl/mines/dig/7/0"><img src="https://wordle.ericlandheer.nl/badge/cell/7/0.svg" alt="row 7 column 0" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/1"><img src="https://wordle.ericlandheer.nl/badge/cell/7/1.svg" alt="row 7 column 1" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/2"><img src="https://wordle.ericlandheer.nl/badge/cell/7/2.svg" alt="row 7 column 2" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/3"><img src="https://wordle.ericlandheer.nl/badge/cell/7/3.svg" alt="row 7 column 3" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/4"><img src="https://wordle.ericlandheer.nl/badge/cell/7/4.svg" alt="row 7 column 4" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/5"><img src="https://wordle.ericlandheer.nl/badge/cell/7/5.svg" alt="row 7 column 5" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/6"><img src="https://wordle.ericlandheer.nl/badge/cell/7/6.svg" alt="row 7 column 6" width="44" height="44" align="top"></a><a href="https://wordle.ericlandheer.nl/mines/dig/7/7"><img src="https://wordle.ericlandheer.nl/badge/cell/7/7.svg" alt="row 7 column 7" width="44" height="44" align="top"></a>
 </td></tr></table>
 
-**Digging · 3 digs · 10 mines · streak 0 days**
+**Digging · 1 dig · 10 mines · streak 0 days**
 
 <sub>A dig opens a page that confirms it and shows the fresh board. The squares above catch up within a minute.</sub>
 
+<details>
+<summary>Earlier days</summary>
+
+**2026-11-21** · unfinished · 5 digs
+
+```
+⬜💣⬜⬜⬜⬜⬜⬜
+1️⃣1️⃣2️⃣💣⬜💣⬜💣
+⬛⬛2️⃣⬜⬜⬜⬜⬜
+⬛⬛2️⃣💣2️⃣⬜1️⃣⬜
+⬛⬛2️⃣💣⬜⬜⬜💣
+2️⃣2️⃣2️⃣⬜⬜⬜1️⃣1️⃣
+💣💥⬜⬜⬜⬜1️⃣⬛
+⬜⬜⬜⬜⬜💣1️⃣⬛
+```
+
+</details>
 
 ---
 
@@ -52,20 +69,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 33.083302550903 days |
+| 🎉 Christmas | in 32.874972296644 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
+> [Pill to treat pancreatic cancer hailed as &#039;biggest breakthrough in decades&#039;](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 >
-> 🔥 199 points
+> 🔥 614 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
