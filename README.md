@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ☕
+# Good morning! ⚡
 
-🎉 **Enjoying the weekend** · Sunday, November 22 · ⏰ 06:00 CET
+🎉 **Enjoying the weekend** · Sunday, November 22 · ⏰ 08:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -69,20 +69,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 32.749972739225 days |
+| 🎉 Christmas | in 32.666628260764 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Toyota, Nissan, and Honda to Standardize Parts to Lower Costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+> [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
 >
-> 🔥 58 points
+> 🔥 270 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
