@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 🎯
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Monday, November 23 · ⏰ 06:00 CET
+☕ **Getting ready for work** · Monday, November 23 · ⏰ 08:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -82,7 +82,7 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 31.749966856134 days |
+| 🎉 Christmas | in 31.666639122118 days |
 
 ---
 
@@ -90,12 +90,13 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 
 > [Free alternative TV network built from the Internet Archive&#039;s forgotten videos](https://spelunkr.tv)
 >
-> 🔥 239 points
+> 🔥 356 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
