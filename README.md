@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! 💻
+# Good night! ⚡
 
-🏠 **Done for the day** · Monday, November 23 · ⏰ 19:00 CET
+🏠 **Done for the day** · Monday, November 23 · ⏰ 22:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -82,20 +82,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 31.208304165833 days |
+| 🎉 Christmas | in 31.083290479537 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+> [&quot;Per ARM&#039;s Request, This Site Will Be Discontinued on 4 December 2026&quot;](https://arm.jonpalmisc.com/)
 >
-> 🔥 823 points
+> 🔥 490 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
