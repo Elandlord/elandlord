@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🚀
+# Good evening! ☕
 
-🏠 **Done for the day** · Tuesday, November 24 · ⏰ 17:00 CET
+🏠 **Done for the day** · Tuesday, November 24 · ⏰ 19:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -95,20 +95,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 30.29163115125 days |
+| 🎉 Christmas | in 30.208304345764 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [2035 came early](https://fzakaria.com/2026/11/23/2035-came-early)
+> [Cyberattack campaign compromising Check Point servers across 22 organizations](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
 >
-> 🔥 616 points
+> 🔥 121 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
