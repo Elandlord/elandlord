@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! ✨
+# Good morning! 🛠️
 
-☕ **Getting ready for work** · Tuesday, November 24 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Tuesday, November 24 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -95,20 +95,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 30.66663582162 days |
+| 🎉 Christmas | in 30.583304772569 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+> [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
 >
-> 🔥 2438 points
+> 🔥 1836 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
