@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! ☕
+# Good morning! 🔥
 
-😴 **Still sleeping (or should be)** · Wednesday, November 25 · ⏰ 03:00 CET
+😴 **Still sleeping (or should be)** · Wednesday, November 25 · ⏰ 06:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -108,20 +108,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 29.874970281736 days |
+| 🎉 Christmas | in 29.749972330764 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
+> [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 >
-> 🔥 336 points
+> 🔥 317 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
