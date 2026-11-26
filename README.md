@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good evening! ⚡
+# Good night! 🎨
 
-🏠 **Done for the day** · Thursday, November 26 · ⏰ 19:00 CET
+🏠 **Done for the day** · Thursday, November 26 · ⏰ 22:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -121,20 +121,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 28.208303532269 days |
+| 🎉 Christmas | in 28.083288426713 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
+> [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
 >
-> 🔥 66 points
+> 🔥 184 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 22:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
