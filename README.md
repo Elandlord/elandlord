@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good morning! 📚
+# Good morning! 🎸
 
-☕ **Getting ready for work** · Friday, November 27 · ⏰ 08:00 CET
+🟢 **Working from Groningen** · Friday, November 27 · ⏰ 10:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -134,20 +134,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 27.666639208403 days |
+| 🎉 Christmas | in 27.583304866204 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+> [The group chat where your AI talks behind your back](https://construct22.com/)
 >
-> 🔥 48 points
+> 🔥 157 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 08:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 10:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
