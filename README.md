@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good afternoon! 🎯
+# Good evening! 🔥
 
-🏠 **Done for the day** · Friday, November 27 · ⏰ 17:00 CET
+🏠 **Done for the day** · Friday, November 27 · ⏰ 19:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -134,20 +134,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 27.291639019792 days |
+| 🎉 Christmas | in 27.208302807998 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
+> [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
 >
-> 🔥 66 points
+> 🔥 214 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 17:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 19:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
