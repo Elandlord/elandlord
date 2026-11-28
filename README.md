@@ -1,7 +1,7 @@
 <!-- github-now:start -->
-# Good night! 🔥
+# Good morning! 🛠️
 
-🎉 **Enjoying the weekend** · Saturday, November 28 · ⏰ 03:00 CET
+🎉 **Enjoying the weekend** · Saturday, November 28 · ⏰ 06:00 CET
 
 ![Groningen right now](https://wordle.ericlandheer.nl/badge/scene.svg)
 
@@ -147,20 +147,21 @@ Currently building cool stuff at [Simplicate](https://www.simplicate.nl/) as a S
 | ⭐ Total stars | 9 (+0 this week) |
 | 👥 Followers | 7 (+0 this week) |
 | 📈 Top repo | [nats-php-bundle](https://github.com/Elandlord/nats-php-bundle) (4 ⭐) |
-| 🎉 Christmas | in 26.874970918611 days |
+| 🎉 Christmas | in 26.749970869641 days |
 
 ---
 
 ## Trending on Hacker News 📰
 
-> [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
+> [Google&#039;s DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
 >
-> 🔥 313 points
+> 🔥 219 points
 
 ---
 
-<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 03:00 CET · Built with Laravel</sub>
+<sub>This README updates throughout the day (night · morning · afternoon · evening) · Last updated: 06:00 CET · Built with Laravel</sub>
 <!-- github-now:end -->
+
 
 
 
